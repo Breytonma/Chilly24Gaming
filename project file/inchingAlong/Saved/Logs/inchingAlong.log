@@ -1885,3 +1885,936 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.03-09.37.36:502][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 248 ms (total: 4.11 sec)
 [2024.03.03-09.37.36:508][ 94]AssetCheck: New page: Asset Save: Whitebox_lvl
 [2024.03.03-09.37.36:508][ 94]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-09.37.55:769][210]LogViewport: Scene viewport resized to 1523x611, mode Windowed.
+[2024.03.03-09.37.55:802][211]LogViewport: Scene viewport resized to 1523x631, mode Windowed.
+[2024.03.03-09.37.55:903][212]LogViewport: Scene viewport resized to 1523x676, mode Windowed.
+[2024.03.03-09.37.55:996][213]LogViewport: Scene viewport resized to 1523x709, mode Windowed.
+[2024.03.03-09.37.56:086][214]LogViewport: Scene viewport resized to 1523x746, mode Windowed.
+[2024.03.03-09.37.56:169][215]LogViewport: Scene viewport resized to 1523x762, mode Windowed.
+[2024.03.03-09.37.56:538][229]LogViewport: Scene viewport resized to 1523x759, mode Windowed.
+[2024.03.03-09.37.56:564][230]LogViewport: Scene viewport resized to 1523x752, mode Windowed.
+[2024.03.03-09.37.56:658][231]LogViewport: Scene viewport resized to 1523x740, mode Windowed.
+[2024.03.03-09.38.00:095][313]LogViewport: Scene viewport resized to 1523x736, mode Windowed.
+[2024.03.03-09.38.00:121][314]LogViewport: Scene viewport resized to 1523x725, mode Windowed.
+[2024.03.03-09.38.00:220][315]LogViewport: Scene viewport resized to 1523x713, mode Windowed.
+[2024.03.03-09.38.00:311][316]LogViewport: Scene viewport resized to 1523x701, mode Windowed.
+[2024.03.03-09.38.00:403][317]LogViewport: Scene viewport resized to 1523x688, mode Windowed.
+[2024.03.03-09.38.00:484][318]LogViewport: Scene viewport resized to 1523x671, mode Windowed.
+[2024.03.03-09.38.00:568][319]LogViewport: Scene viewport resized to 1523x661, mode Windowed.
+[2024.03.03-09.38.00:646][320]LogViewport: Scene viewport resized to 1523x651, mode Windowed.
+[2024.03.03-09.38.00:730][321]LogViewport: Scene viewport resized to 1523x642, mode Windowed.
+[2024.03.03-09.38.00:813][322]LogViewport: Scene viewport resized to 1523x631, mode Windowed.
+[2024.03.03-09.38.00:888][323]LogViewport: Scene viewport resized to 1523x627, mode Windowed.
+[2024.03.03-09.38.00:963][324]LogViewport: Scene viewport resized to 1523x620, mode Windowed.
+[2024.03.03-09.38.01:036][325]LogViewport: Scene viewport resized to 1523x610, mode Windowed.
+[2024.03.03-09.38.01:107][326]LogViewport: Scene viewport resized to 1523x597, mode Windowed.
+[2024.03.03-09.38.01:181][327]LogViewport: Scene viewport resized to 1523x590, mode Windowed.
+[2024.03.03-09.38.01:525][343]LogViewport: Scene viewport resized to 1523x592, mode Windowed.
+[2024.03.03-09.38.01:551][344]LogViewport: Scene viewport resized to 1523x608, mode Windowed.
+[2024.03.03-09.38.01:634][345]LogViewport: Scene viewport resized to 1523x655, mode Windowed.
+[2024.03.03-09.38.01:702][346]LogViewport: Scene viewport resized to 1523x669, mode Windowed.
+[2024.03.03-09.38.01:777][347]LogViewport: Scene viewport resized to 1523x693, mode Windowed.
+[2024.03.03-09.38.01:845][348]LogViewport: Scene viewport resized to 1523x703, mode Windowed.
+[2024.03.03-09.38.01:921][349]LogViewport: Scene viewport resized to 1523x718, mode Windowed.
+[2024.03.03-09.38.01:996][350]LogViewport: Scene viewport resized to 1523x719, mode Windowed.
+[2024.03.03-09.38.02:068][351]LogViewport: Scene viewport resized to 1523x733, mode Windowed.
+[2024.03.03-09.38.02:137][352]LogViewport: Scene viewport resized to 1523x742, mode Windowed.
+[2024.03.03-09.38.02:217][353]LogViewport: Scene viewport resized to 1523x752, mode Windowed.
+[2024.03.03-09.38.02:286][354]LogViewport: Scene viewport resized to 1523x757, mode Windowed.
+[2024.03.03-09.38.02:359][355]LogViewport: Scene viewport resized to 1523x762, mode Windowed.
+[2024.03.03-09.38.02:456][357]LogViewport: Scene viewport resized to 1523x768, mode Windowed.
+[2024.03.03-09.38.02:533][359]LogViewport: Scene viewport resized to 1523x774, mode Windowed.
+[2024.03.03-09.38.02:583][360]LogViewport: Scene viewport resized to 1523x780, mode Windowed.
+[2024.03.03-09.38.02:668][361]LogViewport: Scene viewport resized to 1523x781, mode Windowed.
+[2024.03.03-09.38.02:756][362]LogViewport: Scene viewport resized to 1523x766, mode Windowed.
+[2024.03.03-09.38.02:827][363]LogViewport: Scene viewport resized to 1523x736, mode Windowed.
+[2024.03.03-09.38.02:908][364]LogViewport: Scene viewport resized to 1523x734, mode Windowed.
+[2024.03.03-09.38.02:981][365]LogViewport: Scene viewport resized to 1523x721, mode Windowed.
+[2024.03.03-09.38.03:053][366]LogViewport: Scene viewport resized to 1523x703, mode Windowed.
+[2024.03.03-09.38.03:131][367]LogViewport: Scene viewport resized to 1523x685, mode Windowed.
+[2024.03.03-09.38.03:205][368]LogViewport: Scene viewport resized to 1523x663, mode Windowed.
+[2024.03.03-09.38.03:289][369]LogViewport: Scene viewport resized to 1523x637, mode Windowed.
+[2024.03.03-09.38.03:363][370]LogViewport: Scene viewport resized to 1523x617, mode Windowed.
+[2024.03.03-09.38.03:447][371]LogViewport: Scene viewport resized to 1523x598, mode Windowed.
+[2024.03.03-09.38.03:518][372]LogViewport: Scene viewport resized to 1523x585, mode Windowed.
+[2024.03.03-09.38.03:589][373]LogViewport: Scene viewport resized to 1523x576, mode Windowed.
+[2024.03.03-09.38.03:661][374]LogViewport: Scene viewport resized to 1523x574, mode Windowed.
+[2024.03.03-09.38.03:760][376]LogViewport: Scene viewport resized to 1523x588, mode Windowed.
+[2024.03.03-09.38.03:817][377]LogViewport: Scene viewport resized to 1523x626, mode Windowed.
+[2024.03.03-09.38.03:895][378]LogViewport: Scene viewport resized to 1523x657, mode Windowed.
+[2024.03.03-09.38.03:972][379]LogViewport: Scene viewport resized to 1523x674, mode Windowed.
+[2024.03.03-09.38.04:042][380]LogViewport: Scene viewport resized to 1523x689, mode Windowed.
+[2024.03.03-09.38.04:123][381]LogViewport: Scene viewport resized to 1523x697, mode Windowed.
+[2024.03.03-09.38.04:188][382]LogViewport: Scene viewport resized to 1523x699, mode Windowed.
+[2024.03.03-09.38.04:383][389]LogViewport: Scene viewport resized to 1523x704, mode Windowed.
+[2024.03.03-09.38.04:405][390]LogViewport: Scene viewport resized to 1523x707, mode Windowed.
+[2024.03.03-09.38.04:482][391]LogViewport: Scene viewport resized to 1523x709, mode Windowed.
+[2024.03.03-09.38.04:559][392]LogViewport: Scene viewport resized to 1523x713, mode Windowed.
+[2024.03.03-09.38.23:222][869]LogViewport: Scene viewport resized to 1523x709, mode Windowed.
+[2024.03.03-09.38.23:249][870]LogViewport: Scene viewport resized to 1523x695, mode Windowed.
+[2024.03.03-09.38.23:336][871]LogViewport: Scene viewport resized to 1523x661, mode Windowed.
+[2024.03.03-09.38.23:412][872]LogViewport: Scene viewport resized to 1523x647, mode Windowed.
+[2024.03.03-09.38.23:488][873]LogViewport: Scene viewport resized to 1523x628, mode Windowed.
+[2024.03.03-09.38.23:566][874]LogViewport: Scene viewport resized to 1523x605, mode Windowed.
+[2024.03.03-09.38.23:639][875]LogViewport: Scene viewport resized to 1523x590, mode Windowed.
+[2024.03.03-09.38.23:713][876]LogViewport: Scene viewport resized to 1523x575, mode Windowed.
+[2024.03.03-09.38.23:788][877]LogViewport: Scene viewport resized to 1523x563, mode Windowed.
+[2024.03.03-09.38.23:868][878]LogViewport: Scene viewport resized to 1523x562, mode Windowed.
+[2024.03.03-09.38.30:121][ 27]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/OurStuff/ModelUploads/Terrarium_Floor/lambert1.lambert1
+[2024.03.03-09.38.30:146][ 27]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-09.38.30:146][ 27]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-09.38.30:301][ 27]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-09.38.30:301][ 27]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.03-09.38.30:301][ 27]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.38.30:301][ 27]MaterialEditorStats: Shader Count: 0
+[2024.03.03-09.38.30:309][ 27]LogViewport: Scene viewport resized to 284x307, mode Windowed.
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: ================================================
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: Total job queries 283, among them cache hits 211 (74.56%)
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: Tracking 72 distinct input hashes that result in 48 distinct outputs (66.67%)
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: RAM used: 1.86 MiB of 819.20 MiB budget. Usage: 0.23%
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: Shaders Compiled: 24
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: Jobs assigned 24, completed 24 (100%)
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: Average time worker was idle: 5.21 s
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: Time job spent in pending queue: average 0.38 s, longest 1.25 s
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: Job execution time: average 0.88 s, max 1.53 s
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: Job life time (pending + execution): average 1.26 s, max 1.98
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: Shader code size: average 67.847 KiB, min 35.938 KiB, max 73.289 KiB
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.75 s
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: Average processing rate: 4.18 jobs/sec
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: Total thread time: 17.041 s
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: Total thread preprocess time: 1.408 s
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: Percentage time preprocessing: 8.26%
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: Effective parallelization: 2.97 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.03.03-09.38.30:381][ 28]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.84 sec, max 1.11 sec, min 0.70 sec)
+[2024.03.03-09.38.30:382][ 28]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.84 sec, max 0.84 sec, min 0.84 sec)
+[2024.03.03-09.38.30:382][ 28]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2024.03.03-09.38.30:382][ 28]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.03-09.38.30:382][ 28]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.86% of total time (compiled    3 times, average 0.84 sec, max 1.11 sec, min 0.70 sec)
+[2024.03.03-09.38.30:382][ 28]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.82% of total time (compiled    3 times, average 0.67 sec, max 0.89 sec, min 0.56 sec)
+[2024.03.03-09.38.30:382][ 28]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 5.29% of total time (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.03.03-09.38.30:382][ 28]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy - 5.27% of total time (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.03.03-09.38.30:382][ 28]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 4.95% of total time (compiled    1 times, average 0.84 sec, max 0.84 sec, min 0.84 sec)
+[2024.03.03-09.38.30:382][ 28]LogShaderCompilers: Display: ================================================
+[2024.03.03-09.38.30:423][ 29]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.03.03-09.38.30:423][ 29]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-09.38.30:424][ 29]MaterialEditorStats: Texture samplers: 3/16
+[2024.03.03-09.38.30:424][ 29]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.03-09.38.30:424][ 29]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.38.30:424][ 29]MaterialEditorStats: Shader Count: 4
+[2024.03.03-09.38.51:524][601]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-09.38.51:524][601]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.03-09.38.51:524][601]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.38.51:524][601]MaterialEditorStats: Shader Count: 0
+[2024.03.03-09.38.51:628][603]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.03.03-09.38.51:628][603]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-09.38.51:629][603]MaterialEditorStats: Texture samplers: 3/16
+[2024.03.03-09.38.51:629][603]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.03-09.38.51:629][603]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.38.51:629][603]MaterialEditorStats: Shader Count: 4
+[2024.03.03-09.38.53:927][692]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-09.38.53:927][692]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.03-09.38.53:927][692]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.38.53:927][692]MaterialEditorStats: Shader Count: 0
+[2024.03.03-09.38.54:757][707]MaterialEditorStats: Texture samplers: 1/16
+[2024.03.03-09.38.54:757][707]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.03-09.38.54:757][707]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.38.54:757][707]MaterialEditorStats: Shader Count: 1
+[2024.03.03-09.38.56:400][779]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-09.38.56:401][779]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.03-09.38.56:401][779]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.38.56:401][779]MaterialEditorStats: Shader Count: 0
+[2024.03.03-09.38.56:923][789]MaterialEditorStats: Texture samplers: 1/16
+[2024.03.03-09.38.56:923][789]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.03-09.38.56:923][789]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.38.56:923][789]MaterialEditorStats: Shader Count: 1
+[2024.03.03-09.38.57:200][794]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.03.03-09.38.57:200][794]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-09.38.57:200][794]MaterialEditorStats: Texture samplers: 4/16
+[2024.03.03-09.38.57:200][794]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.03-09.38.57:200][794]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.38.57:200][794]MaterialEditorStats: Shader Count: 4
+[2024.03.03-09.38.59:891][892]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-09.38.59:891][892]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.03-09.38.59:891][892]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.38.59:891][892]MaterialEditorStats: Shader Count: 0
+[2024.03.03-09.39.00:433][903]MaterialEditorStats: Texture samplers: 2/16
+[2024.03.03-09.39.00:434][903]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.03-09.39.00:434][903]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.39.00:434][903]MaterialEditorStats: Shader Count: 1
+[2024.03.03-09.39.00:726][909]MaterialEditorStats: Base pass shader: 199 instructions
+[2024.03.03-09.39.00:726][909]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-09.39.00:726][909]MaterialEditorStats: Texture samplers: 4/16
+[2024.03.03-09.39.00:726][909]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.03-09.39.00:726][909]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.39.00:726][909]MaterialEditorStats: Shader Count: 4
+[2024.03.03-09.39.02:283][948]LogMaterialEditor: Applying material lambert1
+[2024.03.03-09.39.02:456][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.03.03-09.39.02:955][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.03.03-09.39.03:472][961]LogMaterialEditor: Saving and Compiling material lambert1
+[2024.03.03-09.39.03:476][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-09.39.04:867][961]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Terrarium_Floor/lambert1
+[2024.03.03-09.39.04:868][961]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/lambert1E926617E4E6C6025B984D1B607FC1EC4.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Terrarium_Floor/lambert1.uasset'
+[2024.03.03-09.39.04:883][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.40 sec (total: 5.52 sec)
+[2024.03.03-09.39.04:885][961]AssetCheck: New page: Asset Save: lambert1
+[2024.03.03-09.39.04:885][961]LogContentValidation: Display: Validating /Script/Engine.Material /Game/OurStuff/ModelUploads/Terrarium_Floor/lambert1.lambert1
+[2024.03.03-09.39.04:886][961]MaterialEditorStats: Base pass shader: 199 instructions
+[2024.03.03-09.39.04:886][961]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-09.39.04:886][961]MaterialEditorStats: MaxSampler: 263 instructions
+[2024.03.03-09.39.04:886][961]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.03-09.39.04:886][961]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.03-09.39.04:886][961]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.39.04:886][961]MaterialEditorStats: Shader Count: 16
+[2024.03.03-09.39.09:556][ 77]LogSlate: Window 'lambert1' being destroyed
+[2024.03.03-09.39.09:568][ 77]LogSlate: Window 'lambert1' being destroyed
+[2024.03.03-09.39.09:619][ 77]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-09.39.09:619][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-09.39.09:669][ 77]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-09.39.09:669][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-09.39.09:710][ 77]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-09.39.09:710][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-09.39.32:269][772]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-09.39.32:386][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.03.03-09.39.32:492][772]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-09.39.32:493][772]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvlFFB390244F7B7FD1D8DA24B48AFB1D68.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-09.39.32:502][772]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.152
+[2024.03.03-09.39.32:512][772]LogFileHelpers: InternalPromptForCheckoutAndSave took 243 ms (total: 5.76 sec)
+[2024.03.03-09.39.32:516][772]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-09.39.32:516][772]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-09.40.16:785][245]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-09.40.16:886][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.03.03-09.40.16:994][245]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-09.40.16:995][245]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvlBB7C580641406230A1783BA6145D8AE7.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-09.40.17:005][245]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.155
+[2024.03.03-09.40.17:013][245]LogFileHelpers: InternalPromptForCheckoutAndSave took 229 ms (total: 5.99 sec)
+[2024.03.03-09.40.17:017][245]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-09.40.17:018][245]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-09.40.18:340][290]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.03-09.40.18:349][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.03-09.40.18:349][290]PIE: New page: PIE session: Whitebox_lvl (Mar 2, 2024, 9:40:18 PM)
+[2024.03.03-09.40.18:349][290]LogPlayLevel: Creating play world package: /Game/OurStuff/UEDPIE_0_Whitebox_lvl
+[2024.03.03-09.40.18:377][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026794s)
+[2024.03.03-09.40.18:377][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurStuff/Whitebox_lvl.Whitebox_lvl to /Game/OurStuff/UEDPIE_0_Whitebox_lvl.Whitebox_lvl (0.026837s)
+[2024.03.03-09.40.18:382][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.03.03-09.40.18:383][290]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-09.40.18:383][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-09.40.18:383][290]LogAIModule: Creating AISystem for world Whitebox_lvl
+[2024.03.03-09.40.18:383][290]LogPlayLevel: PIE: World Init took: (0.001103s)
+[2024.03.03-09.40.18:384][290]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.03.03-09.40.18:384][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.03-09.40.18:384][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.03-09.40.18:384][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.03-09.40.18:384][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.03-09.40.18:384][290]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.03-09.40.18:384][290]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.03-09.40.18:384][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.03-09.40.18:384][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.03-09.40.18:384][290]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.03-09.40.18:384][290]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.03-09.40.18:384][290]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.03-09.40.18:387][290]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.03-09.40.18:429][290]LogAudioMixer: Display: Using Audio Hardware Device DELL U2417H (NVIDIA High Definition Audio)
+[2024.03.03-09.40.18:429][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.03-09.40.18:429][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.03-09.40.18:429][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.03-09.40.18:430][290]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.03.03-09.40.18:430][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.03.03-09.40.18:434][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.03.03-09.40.18:434][290]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.03.03-09.40.18:434][290]LogInit: FAudioDevice initialized with ID 3.
+[2024.03.03-09.40.18:434][290]LogAudio: Display: Audio Device (ID: 3) registered with world 'Whitebox_lvl'.
+[2024.03.03-09.40.18:434][290]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.03.03-09.40.18:436][290]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.03-09.40.18:453][290]LogWorld: Bringing World /Game/OurStuff/UEDPIE_0_Whitebox_lvl.Whitebox_lvl up for play (max tick rate 60) at 2024.03.03-03.40.18
+[2024.03.03-09.40.18:454][290]LogWorld: Bringing up level for play took: 0.018170
+[2024.03.03-09.40.18:474][290]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.03.03-09.40.18:477][290]PIE: Server logged in
+[2024.03.03-09.40.18:479][290]PIE: Play in editor total start time 0.13 seconds.
+[2024.03.03-09.40.42:711][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-09.40.42:711][ 22]LogWorld: BeginTearingDown for /Game/OurStuff/UEDPIE_0_Whitebox_lvl
+[2024.03.03-09.40.42:713][ 22]LogWorld: UWorld::CleanupWorld for Whitebox_lvl, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-09.40.42:716][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-09.40.42:764][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.03-09.40.42:766][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-09.40.42:773][ 22]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.03-09.40.42:774][ 22]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.03.03-09.40.42:774][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.03.03-09.40.42:777][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.03.03-09.40.42:783][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-09.40.42:793][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2024.03.03-09.40.42:899][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.03.03-09.40.57:708][524]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.03-09.40.57:718][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.03-09.40.57:719][524]PIE: New page: PIE session: Whitebox_lvl (Mar 2, 2024, 9:40:57 PM)
+[2024.03.03-09.40.57:719][524]LogPlayLevel: Creating play world package: /Game/OurStuff/UEDPIE_0_Whitebox_lvl
+[2024.03.03-09.40.57:750][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031328s)
+[2024.03.03-09.40.57:750][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurStuff/Whitebox_lvl.Whitebox_lvl to /Game/OurStuff/UEDPIE_0_Whitebox_lvl.Whitebox_lvl (0.031379s)
+[2024.03.03-09.40.57:755][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.03.03-09.40.57:759][524]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-09.40.57:759][524]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-09.40.57:760][524]LogAIModule: Creating AISystem for world Whitebox_lvl
+[2024.03.03-09.40.57:760][524]LogPlayLevel: PIE: World Init took: (0.001918s)
+[2024.03.03-09.40.57:761][524]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.03.03-09.40.57:761][524]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.03-09.40.57:761][524]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.03-09.40.57:761][524]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.03-09.40.57:761][524]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.03-09.40.57:761][524]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.03-09.40.57:761][524]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.03-09.40.57:761][524]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.03-09.40.57:761][524]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.03-09.40.57:762][524]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.03-09.40.57:762][524]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.03-09.40.57:762][524]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.03-09.40.57:764][524]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.03-09.40.57:800][524]LogAudioMixer: Display: Using Audio Hardware Device DELL U2417H (NVIDIA High Definition Audio)
+[2024.03.03-09.40.57:801][524]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.03-09.40.57:801][524]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.03-09.40.57:801][524]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.03-09.40.57:802][524]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.03.03-09.40.57:802][524]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.03.03-09.40.57:804][524]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.03.03-09.40.57:804][524]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.03.03-09.40.57:804][524]LogInit: FAudioDevice initialized with ID 4.
+[2024.03.03-09.40.57:804][524]LogAudio: Display: Audio Device (ID: 4) registered with world 'Whitebox_lvl'.
+[2024.03.03-09.40.57:804][524]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.03.03-09.40.57:808][524]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.03-09.40.57:826][524]LogWorld: Bringing World /Game/OurStuff/UEDPIE_0_Whitebox_lvl.Whitebox_lvl up for play (max tick rate 60) at 2024.03.03-03.40.57
+[2024.03.03-09.40.57:827][524]LogWorld: Bringing up level for play took: 0.018482
+[2024.03.03-09.40.57:852][524]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.03.03-09.40.57:856][524]PIE: Server logged in
+[2024.03.03-09.40.57:857][524]PIE: Play in editor total start time 0.139 seconds.
+[2024.03.03-09.41.16:640][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-09.41.16:641][136]LogWorld: BeginTearingDown for /Game/OurStuff/UEDPIE_0_Whitebox_lvl
+[2024.03.03-09.41.16:641][136]LogWorld: UWorld::CleanupWorld for Whitebox_lvl, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-09.41.16:644][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-09.41.16:664][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.03-09.41.16:668][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-09.41.16:674][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-09.41.16:676][136]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.03.03-09.41.16:676][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.03.03-09.41.16:679][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.03.03-09.41.16:689][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.03.03-09.41.16:794][137]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.03.03-09.41.18:565][194]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.03-09.41.18:579][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.03-09.41.18:579][194]PIE: New page: PIE session: Whitebox_lvl (Mar 2, 2024, 9:41:18 PM)
+[2024.03.03-09.41.18:579][194]LogPlayLevel: Creating play world package: /Game/OurStuff/UEDPIE_0_Whitebox_lvl
+[2024.03.03-09.41.18:611][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031895s)
+[2024.03.03-09.41.18:611][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurStuff/Whitebox_lvl.Whitebox_lvl to /Game/OurStuff/UEDPIE_0_Whitebox_lvl.Whitebox_lvl (0.032011s)
+[2024.03.03-09.41.18:616][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.03.03-09.41.18:621][194]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-09.41.18:621][194]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-09.41.18:622][194]LogAIModule: Creating AISystem for world Whitebox_lvl
+[2024.03.03-09.41.18:622][194]LogPlayLevel: PIE: World Init took: (0.001697s)
+[2024.03.03-09.41.18:622][194]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.03.03-09.41.18:622][194]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.03-09.41.18:622][194]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.03-09.41.18:622][194]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.03-09.41.18:622][194]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.03-09.41.18:622][194]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.03-09.41.18:622][194]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.03-09.41.18:622][194]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.03-09.41.18:622][194]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.03-09.41.18:623][194]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.03-09.41.18:623][194]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.03-09.41.18:623][194]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.03-09.41.18:626][194]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.03-09.41.18:661][194]LogAudioMixer: Display: Using Audio Hardware Device DELL U2417H (NVIDIA High Definition Audio)
+[2024.03.03-09.41.18:661][194]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.03-09.41.18:661][194]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.03-09.41.18:661][194]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.03-09.41.18:662][194]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.03.03-09.41.18:662][194]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.03.03-09.41.18:665][194]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.03.03-09.41.18:665][194]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.03.03-09.41.18:665][194]LogInit: FAudioDevice initialized with ID 5.
+[2024.03.03-09.41.18:665][194]LogAudio: Display: Audio Device (ID: 5) registered with world 'Whitebox_lvl'.
+[2024.03.03-09.41.18:665][194]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.03.03-09.41.18:668][194]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.03-09.41.18:684][194]LogWorld: Bringing World /Game/OurStuff/UEDPIE_0_Whitebox_lvl.Whitebox_lvl up for play (max tick rate 60) at 2024.03.03-03.41.18
+[2024.03.03-09.41.18:685][194]LogWorld: Bringing up level for play took: 0.017180
+[2024.03.03-09.41.18:710][194]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.03.03-09.41.18:714][194]PIE: Server logged in
+[2024.03.03-09.41.18:715][194]PIE: Play in editor total start time 0.137 seconds.
+[2024.03.03-09.41.45:480][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-09.41.45:481][ 45]LogWorld: BeginTearingDown for /Game/OurStuff/UEDPIE_0_Whitebox_lvl
+[2024.03.03-09.41.45:482][ 45]LogWorld: UWorld::CleanupWorld for Whitebox_lvl, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-09.41.45:484][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-09.41.45:527][ 45]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.03-09.41.45:532][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-09.41.45:538][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-09.41.45:539][ 45]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.03.03-09.41.45:539][ 45]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.03.03-09.41.45:541][ 45]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.03.03-09.41.45:554][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.03.03-09.41.45:657][ 46]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.03.03-09.43.03:752][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-09.43.03:881][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.03.03-09.43.03:988][585]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-09.43.03:990][585]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvlC50E05C941392DBFB2EEE8A70F7B6A54.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-09.43.03:999][585]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.152
+[2024.03.03-09.43.04:009][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 257 ms (total: 6.25 sec)
+[2024.03.03-09.43.04:012][585]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-09.43.04:012][585]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-09.43.18:812][ 91]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.03-09.43.25:116][291]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-09.43.25:254][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.03-09.43.25:363][291]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-09.43.25:364][291]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvlC81380D04121627ACE64D4916B65771A.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-09.43.25:376][291]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.161
+[2024.03.03-09.43.25:387][291]LogFileHelpers: InternalPromptForCheckoutAndSave took 273 ms (total: 6.52 sec)
+[2024.03.03-09.43.25:392][291]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-09.43.25:392][291]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-09.45.37:280][ 21]Cmd: DUPLICATE
+[2024.03.03-09.45.37:280][ 21]Cmd: ACTOR DUPLICATE
+[2024.03.03-09.46.21:988][356]Cmd: DUPLICATE
+[2024.03.03-09.46.21:988][356]Cmd: ACTOR DUPLICATE
+[2024.03.03-09.47.50:416][129]Cmd: DUPLICATE
+[2024.03.03-09.47.50:416][129]Cmd: ACTOR DUPLICATE
+[2024.03.03-09.48.24:306][206]Cmd: DUPLICATE
+[2024.03.03-09.48.24:306][206]Cmd: ACTOR DUPLICATE
+[2024.03.03-09.49.00:890][308]Cmd: DUPLICATE
+[2024.03.03-09.49.00:890][308]Cmd: ACTOR DUPLICATE
+[2024.03.03-09.49.55:380][  3]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-09.49.55:525][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.03.03-09.49.55:633][  3]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-09.49.55:634][  3]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvl7EF59EA34B7BE40065DDE6A844D09C5E.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-09.49.55:644][  3]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.162
+[2024.03.03-09.49.55:653][  3]LogFileHelpers: InternalPromptForCheckoutAndSave took 273 ms (total: 6.80 sec)
+[2024.03.03-09.49.55:657][  3]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-09.49.55:657][  3]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-09.50.28:432][ 41]Cmd: DUPLICATE
+[2024.03.03-09.50.28:432][ 41]Cmd: ACTOR DUPLICATE
+[2024.03.03-09.51.39:470][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-09.51.39:618][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.03.03-09.51.39:735][428]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-09.51.39:736][428]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvl77CA341C4BA323B197918AA4EA8BA473.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-09.51.39:745][428]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.169
+[2024.03.03-09.51.39:757][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 288 ms (total: 7.08 sec)
+[2024.03.03-09.51.39:761][428]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-09.51.39:761][428]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-09.52.17:011][547]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.03-09.52.50:375][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-09.52.50:515][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.03.03-09.52.50:627][592]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-09.52.50:629][592]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvlA738E43B40E22228E4EDFDBE3AD911E4.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-09.52.50:638][592]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.162
+[2024.03.03-09.52.50:648][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 275 ms (total: 7.36 sec)
+[2024.03.03-09.52.50:652][592]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-09.52.50:652][592]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-09.53.05:676][ 90]LogViewport: Scene viewport resized to 1523x565, mode Windowed.
+[2024.03.03-09.53.05:763][ 91]LogViewport: Scene viewport resized to 1523x596, mode Windowed.
+[2024.03.03-09.53.05:824][ 92]LogViewport: Scene viewport resized to 1523x632, mode Windowed.
+[2024.03.03-09.53.05:896][ 93]LogViewport: Scene viewport resized to 1523x643, mode Windowed.
+[2024.03.03-09.53.05:965][ 94]LogViewport: Scene viewport resized to 1523x662, mode Windowed.
+[2024.03.03-09.53.06:033][ 95]LogViewport: Scene viewport resized to 1523x669, mode Windowed.
+[2024.03.03-09.53.06:102][ 96]LogViewport: Scene viewport resized to 1523x700, mode Windowed.
+[2024.03.03-09.53.06:178][ 97]LogViewport: Scene viewport resized to 1523x708, mode Windowed.
+[2024.03.03-09.53.06:239][ 98]LogViewport: Scene viewport resized to 1523x717, mode Windowed.
+[2024.03.03-09.53.06:310][ 99]LogViewport: Scene viewport resized to 1523x726, mode Windowed.
+[2024.03.03-09.53.06:387][100]LogViewport: Scene viewport resized to 1523x748, mode Windowed.
+[2024.03.03-09.53.06:461][101]LogViewport: Scene viewport resized to 1523x756, mode Windowed.
+[2024.03.03-09.53.06:699][108]LogViewport: Scene viewport resized to 1523x761, mode Windowed.
+[2024.03.03-09.53.06:784][109]LogViewport: Scene viewport resized to 1523x765, mode Windowed.
+[2024.03.03-09.53.07:114][119]LogViewport: Scene viewport resized to 1523x760, mode Windowed.
+[2024.03.03-09.53.07:211][120]LogViewport: Scene viewport resized to 1523x741, mode Windowed.
+[2024.03.03-09.53.07:281][121]LogViewport: Scene viewport resized to 1523x735, mode Windowed.
+[2024.03.03-09.53.07:347][122]LogViewport: Scene viewport resized to 1523x720, mode Windowed.
+[2024.03.03-09.53.07:415][123]LogViewport: Scene viewport resized to 1523x702, mode Windowed.
+[2024.03.03-09.53.07:485][124]LogViewport: Scene viewport resized to 1523x675, mode Windowed.
+[2024.03.03-09.53.07:553][125]LogViewport: Scene viewport resized to 1523x642, mode Windowed.
+[2024.03.03-09.53.07:627][126]LogViewport: Scene viewport resized to 1523x617, mode Windowed.
+[2024.03.03-09.53.07:693][127]LogViewport: Scene viewport resized to 1523x595, mode Windowed.
+[2024.03.03-09.53.07:771][128]LogViewport: Scene viewport resized to 1523x572, mode Windowed.
+[2024.03.03-09.53.07:845][129]LogViewport: Scene viewport resized to 1523x555, mode Windowed.
+[2024.03.03-09.53.07:922][130]LogViewport: Scene viewport resized to 1523x552, mode Windowed.
+[2024.03.03-09.53.08:121][136]LogViewport: Scene viewport resized to 1523x553, mode Windowed.
+[2024.03.03-09.53.08:203][137]LogViewport: Scene viewport resized to 1523x557, mode Windowed.
+[2024.03.03-09.53.08:459][145]LogViewport: Scene viewport resized to 1523x553, mode Windowed.
+[2024.03.03-09.53.08:535][146]LogViewport: Scene viewport resized to 1523x551, mode Windowed.
+[2024.03.03-09.53.08:612][147]LogViewport: Scene viewport resized to 1523x550, mode Windowed.
+[2024.03.03-09.53.21:969][548]LogViewport: Scene viewport resized to 1523x548, mode Windowed.
+[2024.03.03-09.53.22:051][549]LogViewport: Scene viewport resized to 1523x519, mode Windowed.
+[2024.03.03-09.53.22:116][550]LogViewport: Scene viewport resized to 1523x486, mode Windowed.
+[2024.03.03-09.53.22:197][551]LogViewport: Scene viewport resized to 1523x471, mode Windowed.
+[2024.03.03-09.53.22:268][552]LogViewport: Scene viewport resized to 1523x464, mode Windowed.
+[2024.03.03-09.53.22:341][553]LogViewport: Scene viewport resized to 1523x449, mode Windowed.
+[2024.03.03-09.53.22:407][554]LogViewport: Scene viewport resized to 1523x444, mode Windowed.
+[2024.03.03-09.53.26:924][686]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.03-09.53.26:992][686]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.03-09.53.27:017][687]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.03-09.53.33:305][892]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2024.03.03-09.53.33:305][892]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.03-09.53.35:887][965]Cmd: TRANSACTION UNDO
+[2024.03.03-09.53.35:888][965]LogEditorTransaction: Undo Move Elements
+[2024.03.03-09.54.07:667][935]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-09.54.31:439][658]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.03-09.54.31:462][658]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.03-09.54.31:485][659]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.03-09.54.40:050][956]LogContentBrowser: Attempting asset rename: NewFolder -> LEAF_V2
+[2024.03.03-09.54.40:050][956]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.03-09.54.49:012][208]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.03-09.54.49:035][208]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.03-09.54.49:065][209]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.03-09.54.52:608][331]LogContentBrowser: Attempting asset rename: NewFolder -> LEAF_V3
+[2024.03.03-09.54.52:608][331]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.03-09.55.14:427][510]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/FBX/Leaf_Chilly_2024.fbx)
+[2024.03.03-09.55.14:433][510]LogFbx: Loading FBX Scene from ../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/FBX/Leaf_Chilly_2024.fbx
+[2024.03.03-09.55.14:438][510]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.03-09.55.19:486][510]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.03-09.55.19:659][510]LogFbx: Display: Triangulating static mesh polySurface2
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: ================================================
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: Total job queries 351, among them cache hits 255 (72.65%)
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: Tracking 96 distinct input hashes that result in 61 distinct outputs (63.54%)
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: RAM used: 2.42 MiB of 819.20 MiB budget. Usage: 0.30%
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: Shaders Compiled: 48
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: Jobs assigned 48, completed 48 (100%)
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: Average time worker was idle: 208.91 s
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: Time job spent in pending queue: average 0.24 s, longest 1.25 s
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: Job execution time: average 0.80 s, max 1.53 s
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: Job life time (pending + execution): average 1.05 s, max 1.98
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: Shader code size: average 54.135 KiB, min 32.02 KiB, max 73.289 KiB
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.94 s
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: Jobs were issued in 48 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: Average processing rate: 4.83 jobs/sec
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: Total thread time: 29.935 s
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: Total thread preprocess time: 2.74 s
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: Percentage time preprocessing: 9.15%
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: Effective parallelization: 3.01 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.03-09.55.19:814][513]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.03-09.55.19:815][513]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.03.03-09.55.19:815][513]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2024.03.03-09.55.19:815][513]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.77 sec)
+[2024.03.03-09.55.19:815][513]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2024.03.03-09.55.19:815][513]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2024.03.03-09.55.19:815][513]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.03-09.55.19:815][513]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.19% of total time (compiled    6 times, average 0.71 sec, max 1.11 sec, min 0.51 sec)
+[2024.03.03-09.55.19:815][513]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.46% of total time (compiled    4 times, average 0.63 sec, max 0.89 sec, min 0.52 sec)
+[2024.03.03-09.55.19:815][513]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.41% of total time (compiled    4 times, average 0.63 sec, max 0.70 sec, min 0.57 sec)
+[2024.03.03-09.55.19:815][513]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.70% of total time (compiled    3 times, average 0.57 sec, max 0.64 sec, min 0.51 sec)
+[2024.03.03-09.55.19:815][513]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.16% of total time (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.77 sec)
+[2024.03.03-09.55.19:815][513]LogShaderCompilers: Display: ================================================
+[2024.03.03-09.55.46:657][266]LogContentBrowser: Attempting asset rename: Leaf_Chilly_2024 -> Leaf_V2
+[2024.03.03-09.55.46:717][266]LogMetaData: Removing '/Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.Leaf_V2' ref from Metadata '/Game/OurStuff/ModelUploads/LEAF_V2/Leaf_Chilly_2024.PackageMetaData'
+[2024.03.03-09.55.46:726][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-09.55.46:818][266]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2
+[2024.03.03-09.55.46:818][266]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Leaf_V2A05C6E7C42FB7D034F00FBB6DFCE4914.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.uasset'
+[2024.03.03-09.55.46:831][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 7.46 sec)
+[2024.03.03-09.55.46:847][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.03.03-09.55.46:857][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.03.03-09.55.46:863][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.03.03-09.55.46:864][266]AssetCheck: New page: Asset Save: Leaf_V2
+[2024.03.03-09.55.46:864][266]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.Leaf_V2
+[2024.03.03-09.55.54:097][457]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.Leaf_V2
+[2024.03.03-09.55.54:193][457]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-09.55.54:193][457]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-09.55.54:913][457]LogViewport: Scene viewport resized to 1065x619, mode Windowed.
+[2024.03.03-09.56.56:878][ 62]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.03-09.56.56:906][ 62]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.03-09.56.56:937][ 63]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.03-09.57.01:569][185]LogContentBrowser: Attempting asset rename: NewFolder -> Leaf_V2
+[2024.03.03-09.57.01:569][185]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.03-09.57.04:300][249]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.03-09.57.04:325][249]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.03-09.57.04:345][250]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.03-09.57.08:383][356]LogContentBrowser: Attempting asset rename: NewFolder -> Leaf_V3
+[2024.03.03-09.57.08:384][356]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.03-09.57.22:185][507]LogInterchangeEngine: [Pending] Importing
+[2024.03.03-09.57.22:185][507]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/thoma/Docum...ing/Textures/Leaf_V2/Leaf_Chilly_2024_lambert1_BaseColor.png]
+[2024.03.03-09.57.22:186][507]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.03.03-09.57.22:186][507]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/thoma/Docum...ing/Textures/Leaf_V2/Leaf_Chilly_2024_lambert1_Normal.png]
+[2024.03.03-09.57.22:186][507]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.03.03-09.57.22:186][507]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/thoma/Docum...ing/Textures/Leaf_V2/Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic.png]
+[2024.03.03-09.57.22:257][508]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.03.03-09.57.22:259][508]LogTexture: Display: Building textures: /Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_Normal.Leaf_Chilly_2024_lambert1_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 168.562488 MB), EncodeSpeed: Fast
+[2024.03.03-09.57.22:262][508]LogTexture: Display: Building textures: /Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic.Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.03.03-09.57.22:267][508]LogTexture: Display: Building textures: /Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_BaseColor.Leaf_Chilly_2024_lambert1_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.03.03-09.57.22:286][508]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.03.03-09.57.22:290][508]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.03.03-09.57.22:290][508]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.03.03-09.57.22:290][508]LogInterchangeEngine: [Success] Import Done
+[2024.03.03-09.57.22:433][509]LogInterchangeEngine: [Success] Import Done
+[2024.03.03-09.57.31:760][580]LogInterchangeEngine: [Pending] Importing
+[2024.03.03-09.57.31:760][580]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/thoma/Docum...ing/Textures/Leaf_V3/Leaf_Chilly_2024_lambert1_BaseColor.png]
+[2024.03.03-09.57.31:760][580]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.03.03-09.57.31:761][580]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/thoma/Docum...ing/Textures/Leaf_V3/Leaf_Chilly_2024_lambert1_Normal.png]
+[2024.03.03-09.57.31:761][580]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.03.03-09.57.31:761][580]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/thoma/Docum...ing/Textures/Leaf_V3/Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic.png]
+[2024.03.03-09.57.31:824][581]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.03.03-09.57.31:826][581]LogTexture: Display: Building textures: /Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_Normal.Leaf_Chilly_2024_lambert1_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 168.562488 MB), EncodeSpeed: Fast
+[2024.03.03-09.57.31:831][581]LogTexture: Display: Building textures: /Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic.Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.03.03-09.57.31:832][581]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.03.03-09.57.31:837][581]LogTexture: Display: Building textures: /Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_BaseColor.Leaf_Chilly_2024_lambert1_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.03.03-09.57.31:875][581]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.03.03-09.57.31:875][581]LogInterchangeEngine: [Success] Import Done
+[2024.03.03-09.57.31:883][581]LogInterchangeEngine: [Success] Import Done
+[2024.03.03-09.57.32:064][582]LogInterchangeEngine: [Success] Import Done
+[2024.03.03-09.57.35:100][644]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-09.57.35:257][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.03.03-09.57.35:369][644]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-09.57.35:370][644]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvlC0350301494A6DEED8BDE7911355F069.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-09.57.35:380][644]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.163
+[2024.03.03-09.57.35:401][644]LogFileHelpers: InternalPromptForCheckoutAndSave took 302 ms (total: 7.77 sec)
+[2024.03.03-09.57.35:406][644]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-09.57.35:406][644]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-09.58.06:623][406]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.03-09.58.11:727][534]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/OurStuff/ModelUploads/LEAF_V2/lambert1.lambert1
+[2024.03.03-09.58.11:733][534]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-09.58.11:733][534]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-09.58.11:903][534]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-09.58.11:903][534]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.03-09.58.11:903][534]MaterialEditorStats: Shader Count: 0
+[2024.03.03-09.58.11:914][534]LogViewport: Scene viewport resized to 284x307, mode Windowed.
+[2024.03.03-09.58.12:029][536]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.03.03-09.58.12:029][536]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.03.03-09.58.12:029][536]MaterialEditorStats: Texture samplers: 2/16
+[2024.03.03-09.58.12:029][536]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.03-09.58.12:029][536]MaterialEditorStats: Shader Count: 4
+[2024.03.03-09.58.15:118][616]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-09.58.15:118][616]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.03-09.58.15:118][616]MaterialEditorStats: Shader Count: 0
+[2024.03.03-09.58.15:217][618]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.03.03-09.58.15:217][618]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.03.03-09.58.15:217][618]MaterialEditorStats: Texture samplers: 2/16
+[2024.03.03-09.58.15:217][618]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.03-09.58.15:217][618]MaterialEditorStats: Shader Count: 4
+[2024.03.03-09.58.25:368][864]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-09.58.25:368][864]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.03-09.58.25:368][864]MaterialEditorStats: Shader Count: 0
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: ================================================
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: Total job queries 379, among them cache hits 273 (72.03%)
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: Tracking 106 distinct input hashes that result in 66 distinct outputs (62.26%)
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: RAM used: 2.61 MiB of 819.20 MiB budget. Usage: 0.32%
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: Shaders Compiled: 48
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: Jobs assigned 48, completed 48 (100%)
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: Average time worker was idle: 208.91 s
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: Time job spent in pending queue: average 0.24 s, longest 1.25 s
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: Job execution time: average 0.80 s, max 1.53 s
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: Job life time (pending + execution): average 1.05 s, max 1.98
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: Shader code size: average 54.135 KiB, min 32.02 KiB, max 73.289 KiB
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.94 s
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: Jobs were issued in 48 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: Average processing rate: 4.83 jobs/sec
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: Total thread time: 29.935 s
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: Total thread preprocess time: 2.74 s
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: Percentage time preprocessing: 9.15%
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: Effective parallelization: 3.01 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.77 sec)
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.19% of total time (compiled    6 times, average 0.71 sec, max 1.11 sec, min 0.51 sec)
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.46% of total time (compiled    4 times, average 0.63 sec, max 0.89 sec, min 0.52 sec)
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.41% of total time (compiled    4 times, average 0.63 sec, max 0.70 sec, min 0.57 sec)
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.70% of total time (compiled    3 times, average 0.57 sec, max 0.64 sec, min 0.51 sec)
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.16% of total time (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.77 sec)
+[2024.03.03-09.58.25:440][865]LogShaderCompilers: Display: ================================================
+[2024.03.03-09.58.25:481][866]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.03.03-09.58.25:481][866]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.03.03-09.58.25:481][866]MaterialEditorStats: Texture samplers: 2/16
+[2024.03.03-09.58.25:481][866]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.03-09.58.25:481][866]MaterialEditorStats: Shader Count: 4
+[2024.03.03-09.58.27:428][914]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-09.58.27:428][914]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.03-09.58.27:428][914]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.58.27:429][914]MaterialEditorStats: Shader Count: 0
+[2024.03.03-09.58.27:526][916]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.03.03-09.58.27:526][916]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-09.58.27:526][916]MaterialEditorStats: Texture samplers: 3/16
+[2024.03.03-09.58.27:526][916]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.03-09.58.27:526][916]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.58.27:526][916]MaterialEditorStats: Shader Count: 4
+[2024.03.03-09.58.33:154][ 49]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-09.58.33:154][ 49]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.03-09.58.33:154][ 49]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.58.33:154][ 49]MaterialEditorStats: Shader Count: 0
+[2024.03.03-09.58.33:259][ 51]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.03.03-09.58.33:259][ 51]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-09.58.33:259][ 51]MaterialEditorStats: Texture samplers: 3/16
+[2024.03.03-09.58.33:259][ 51]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.03-09.58.33:259][ 51]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.58.33:259][ 51]MaterialEditorStats: Shader Count: 4
+[2024.03.03-09.58.35:486][105]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-09.58.35:486][105]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.03-09.58.35:486][105]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.58.35:487][105]MaterialEditorStats: Shader Count: 0
+[2024.03.03-09.58.35:578][108]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.03.03-09.58.35:578][108]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-09.58.35:578][108]MaterialEditorStats: Texture samplers: 4/16
+[2024.03.03-09.58.35:578][108]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.03-09.58.35:578][108]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.58.35:578][108]MaterialEditorStats: Shader Count: 4
+[2024.03.03-09.58.41:023][236]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-09.58.41:023][236]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.03-09.58.41:023][236]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.58.41:023][236]MaterialEditorStats: Shader Count: 0
+[2024.03.03-09.58.41:136][238]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.03.03-09.58.41:136][238]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-09.58.41:136][238]MaterialEditorStats: Texture samplers: 4/16
+[2024.03.03-09.58.41:136][238]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.03-09.58.41:136][238]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.58.41:136][238]MaterialEditorStats: Shader Count: 4
+[2024.03.03-09.58.44:152][310]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-09.58.44:152][310]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-09.58.44:152][310]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.58.44:152][310]MaterialEditorStats: Shader Count: 0
+[2024.03.03-09.58.44:244][313]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.03.03-09.58.44:244][313]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-09.58.44:244][313]MaterialEditorStats: Texture samplers: 4/16
+[2024.03.03-09.58.44:244][313]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-09.58.44:244][313]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.58.44:244][313]MaterialEditorStats: Shader Count: 4
+[2024.03.03-09.58.47:405][390]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-09.58.47:405][390]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-09.58.47:405][390]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.58.47:405][390]MaterialEditorStats: Shader Count: 0
+[2024.03.03-09.58.47:494][393]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.03.03-09.58.47:494][393]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-09.58.47:494][393]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.03-09.58.47:494][393]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-09.58.47:494][393]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.58.47:494][393]MaterialEditorStats: Shader Count: 4
+[2024.03.03-09.58.50:001][455]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-09.58.50:001][455]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-09.58.50:001][455]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.58.50:001][455]MaterialEditorStats: Shader Count: 0
+[2024.03.03-09.58.50:055][457]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.03-09.58.50:055][457]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-09.58.50:055][457]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.03-09.58.50:055][457]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-09.58.50:055][457]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.58.50:055][457]MaterialEditorStats: Shader Count: 4
+[2024.03.03-09.58.56:491][623]LogMaterialEditor: Applying material lambert1
+[2024.03.03-09.58.56:706][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.03.03-09.58.56:873][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.03.03-09.58.57:576][641]LogMaterialEditor: Saving and Compiling material lambert1
+[2024.03.03-09.58.57:581][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-09.58.57:686][641]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/LEAF_V2/lambert1
+[2024.03.03-09.58.57:687][641]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/lambert1168F19874199BD784B2AA7800FEF8283.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/LEAF_V2/lambert1.uasset'
+[2024.03.03-09.58.57:699][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 7.89 sec)
+[2024.03.03-09.58.57:700][641]AssetCheck: New page: Asset Save: lambert1
+[2024.03.03-09.58.57:700][641]LogContentValidation: Display: Validating /Script/Engine.Material /Game/OurStuff/ModelUploads/LEAF_V2/lambert1.lambert1
+[2024.03.03-09.58.57:701][641]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.03-09.58.57:701][641]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-09.58.57:701][641]MaterialEditorStats: MaxSampler: 270 instructions
+[2024.03.03-09.58.57:701][641]MaterialEditorStats: Texture samplers: 6/16
+[2024.03.03-09.58.57:701][641]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-09.58.57:701][641]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.58.57:701][641]MaterialEditorStats: Shader Count: 16
+[2024.03.03-09.59.21:844][256]LogSlate: Window 'lambert1' being destroyed
+[2024.03.03-09.59.21:854][256]LogSlate: Window 'lambert1' being destroyed
+[2024.03.03-09.59.21:919][256]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-09.59.21:919][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-09.59.21:957][256]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-09.59.21:958][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-10.00.02:226][852]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/FBX/Leaf_Chilly_2024.fbx)
+[2024.03.03-10.00.02:233][852]LogFbx: Loading FBX Scene from ../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/FBX/Leaf_Chilly_2024.fbx
+[2024.03.03-10.00.02:239][852]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.03-10.00.03:822][852]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.03-10.00.03:959][852]LogFbx: Display: Triangulating static mesh polySurface2
+[2024.03.03-10.00.12:702][ 89]LogContentBrowser: Attempting asset rename: Leaf_Chilly_2024 -> Leaf_V3
+[2024.03.03-10.00.12:756][ 89]LogMetaData: Removing '/Game/OurStuff/ModelUploads/LEAF_V3/Leaf_V3.Leaf_V3' ref from Metadata '/Game/OurStuff/ModelUploads/LEAF_V3/Leaf_Chilly_2024.PackageMetaData'
+[2024.03.03-10.00.12:757][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.00.12:841][ 89]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/LEAF_V3/Leaf_V3
+[2024.03.03-10.00.12:841][ 89]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Leaf_V3FD6D7A6E4F467A22BB179E8EE06E60A4.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/LEAF_V3/Leaf_V3.uasset'
+[2024.03.03-10.00.12:852][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 7.98 sec)
+[2024.03.03-10.00.12:867][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.03.03-10.00.12:884][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.03.03-10.00.12:890][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.03.03-10.00.12:892][ 89]AssetCheck: New page: Asset Save: Leaf_V3
+[2024.03.03-10.00.12:892][ 89]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/LEAF_V3/Leaf_V3.Leaf_V3
+[2024.03.03-10.00.16:320][174]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/OurStuff/ModelUploads/LEAF_V3/Leaf_V3.Leaf_V3
+[2024.03.03-10.00.16:377][174]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-10.00.16:377][174]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-10.00.17:103][174]LogViewport: Scene viewport resized to 1065x619, mode Windowed.
+[2024.03.03-10.01.06:498][420]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/OurStuff/ModelUploads/LEAF_V3/lambert1.lambert1
+[2024.03.03-10.01.06:504][420]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-10.01.06:504][420]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-10.01.06:668][420]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-10.01.06:668][420]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.03-10.01.06:668][420]MaterialEditorStats: Shader Count: 0
+[2024.03.03-10.01.06:680][420]LogViewport: Scene viewport resized to 284x307, mode Windowed.
+[2024.03.03-10.01.06:800][422]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.03.03-10.01.06:800][422]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.03.03-10.01.06:800][422]MaterialEditorStats: Texture samplers: 2/16
+[2024.03.03-10.01.06:800][422]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.03-10.01.06:801][422]MaterialEditorStats: Shader Count: 4
+[2024.03.03-10.01.12:928][582]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-10.01.12:928][582]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.03-10.01.12:928][582]MaterialEditorStats: Shader Count: 0
+[2024.03.03-10.01.13:026][584]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.03.03-10.01.13:026][584]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.03.03-10.01.13:026][584]MaterialEditorStats: Texture samplers: 2/16
+[2024.03.03-10.01.13:026][584]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.03-10.01.13:026][584]MaterialEditorStats: Shader Count: 4
+[2024.03.03-10.01.22:904][821]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-10.01.22:904][821]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.03-10.01.22:904][821]MaterialEditorStats: Shader Count: 0
+[2024.03.03-10.01.23:012][823]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.03.03-10.01.23:012][823]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.03.03-10.01.23:012][823]MaterialEditorStats: Texture samplers: 2/16
+[2024.03.03-10.01.23:012][823]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.03-10.01.23:012][823]MaterialEditorStats: Shader Count: 4
+[2024.03.03-10.01.25:121][873]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-10.01.25:121][873]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.03-10.01.25:121][873]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-10.01.25:121][873]MaterialEditorStats: Shader Count: 0
+[2024.03.03-10.01.25:223][875]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.03.03-10.01.25:223][875]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-10.01.25:223][875]MaterialEditorStats: Texture samplers: 3/16
+[2024.03.03-10.01.25:223][875]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.03-10.01.25:223][875]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-10.01.25:223][875]MaterialEditorStats: Shader Count: 4
+[2024.03.03-10.01.29:867][984]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-10.01.29:867][984]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.03-10.01.29:867][984]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-10.01.29:867][984]MaterialEditorStats: Shader Count: 0
+[2024.03.03-10.01.29:935][985]LogShaderCompilers: Display: ================================================
+[2024.03.03-10.01.29:936][985]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.03-10.01.29:936][985]LogShaderCompilers: Display: Total job queries 529, among them cache hits 397 (75.05%)
+[2024.03.03-10.01.29:936][985]LogShaderCompilers: Display: Tracking 132 distinct input hashes that result in 79 distinct outputs (59.85%)
+[2024.03.03-10.01.29:936][985]LogShaderCompilers: Display: RAM used: 3.21 MiB of 819.20 MiB budget. Usage: 0.39%
+[2024.03.03-10.01.29:936][985]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.03-10.01.29:936][985]LogShaderCompilers: Display: Shaders Compiled: 48
+[2024.03.03-10.01.29:936][985]LogShaderCompilers: Display: Jobs assigned 48, completed 48 (100%)
+[2024.03.03-10.01.29:936][985]LogShaderCompilers: Display: Average time worker was idle: 208.91 s
+[2024.03.03-10.01.29:936][985]LogShaderCompilers: Display: Time job spent in pending queue: average 0.24 s, longest 1.25 s
+[2024.03.03-10.01.29:936][985]LogShaderCompilers: Display: Job execution time: average 0.80 s, max 1.53 s
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display: Job life time (pending + execution): average 1.05 s, max 1.98
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display: Shader code size: average 54.135 KiB, min 32.02 KiB, max 73.289 KiB
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.94 s
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display: Jobs were issued in 48 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display: Average processing rate: 4.83 jobs/sec
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display: Total thread time: 29.935 s
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display: Total thread preprocess time: 2.74 s
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display: Percentage time preprocessing: 9.15%
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display: Effective parallelization: 3.01 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.77 sec)
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.19% of total time (compiled    6 times, average 0.71 sec, max 1.11 sec, min 0.51 sec)
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.46% of total time (compiled    4 times, average 0.63 sec, max 0.89 sec, min 0.52 sec)
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.41% of total time (compiled    4 times, average 0.63 sec, max 0.70 sec, min 0.57 sec)
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.70% of total time (compiled    3 times, average 0.57 sec, max 0.64 sec, min 0.51 sec)
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.16% of total time (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.77 sec)
+[2024.03.03-10.01.29:937][985]LogShaderCompilers: Display: ================================================
+[2024.03.03-10.01.29:985][986]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.03.03-10.01.29:985][986]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-10.01.29:985][986]MaterialEditorStats: Texture samplers: 3/16
+[2024.03.03-10.01.29:985][986]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.03-10.01.29:985][986]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-10.01.29:985][986]MaterialEditorStats: Shader Count: 4
+[2024.03.03-10.01.32:303][ 43]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-10.01.32:304][ 43]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.03-10.01.32:304][ 43]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-10.01.32:304][ 43]MaterialEditorStats: Shader Count: 0
+[2024.03.03-10.01.32:357][ 45]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.03.03-10.01.32:357][ 45]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-10.01.32:357][ 45]MaterialEditorStats: Texture samplers: 4/16
+[2024.03.03-10.01.32:357][ 45]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.03-10.01.32:357][ 45]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-10.01.32:357][ 45]MaterialEditorStats: Shader Count: 2
+[2024.03.03-10.01.37:738][172]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-10.01.37:738][172]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.03-10.01.37:738][172]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-10.01.37:738][172]MaterialEditorStats: Shader Count: 0
+[2024.03.03-10.01.37:860][174]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.03.03-10.01.37:860][174]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-10.01.37:860][174]MaterialEditorStats: Texture samplers: 4/16
+[2024.03.03-10.01.37:860][174]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.03-10.01.37:860][174]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-10.01.37:860][174]MaterialEditorStats: Shader Count: 4
+[2024.03.03-10.01.41:769][268]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-10.01.41:770][268]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-10.01.41:770][268]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-10.01.41:770][268]MaterialEditorStats: Shader Count: 0
+[2024.03.03-10.01.41:863][270]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.03.03-10.01.41:863][270]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-10.01.41:863][270]MaterialEditorStats: Texture samplers: 4/16
+[2024.03.03-10.01.41:863][270]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-10.01.41:863][270]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-10.01.41:863][270]MaterialEditorStats: Shader Count: 4
+[2024.03.03-10.01.48:710][438]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-10.01.48:710][438]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-10.01.48:710][438]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-10.01.48:710][438]MaterialEditorStats: Shader Count: 0
+[2024.03.03-10.01.48:801][440]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.03.03-10.01.48:801][440]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-10.01.48:801][440]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.03-10.01.48:801][440]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-10.01.48:801][440]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-10.01.48:801][440]MaterialEditorStats: Shader Count: 4
+[2024.03.03-10.01.51:307][501]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-10.01.51:307][501]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-10.01.51:307][501]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-10.01.51:307][501]MaterialEditorStats: Shader Count: 0
+[2024.03.03-10.01.51:365][503]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.03-10.01.51:365][503]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-10.01.51:365][503]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.03-10.01.51:365][503]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-10.01.51:365][503]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-10.01.51:365][503]MaterialEditorStats: Shader Count: 2
+[2024.03.03-10.01.53:304][551]LogMaterialEditor: Applying material lambert1
+[2024.03.03-10.01.53:509][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.03.03-10.01.53:669][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.03.03-10.01.54:161][564]LogMaterialEditor: Saving and Compiling material lambert1
+[2024.03.03-10.01.54:168][564]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.01.54:266][564]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/LEAF_V3/lambert1
+[2024.03.03-10.01.54:266][564]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/lambert16F38638C4F277920D720E1B567256556.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/LEAF_V3/lambert1.uasset'
+[2024.03.03-10.01.54:275][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 8.09 sec)
+[2024.03.03-10.01.54:277][564]AssetCheck: New page: Asset Save: lambert1
+[2024.03.03-10.01.54:277][564]LogContentValidation: Display: Validating /Script/Engine.Material /Game/OurStuff/ModelUploads/LEAF_V3/lambert1.lambert1
+[2024.03.03-10.01.54:278][564]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.03-10.01.54:279][564]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-10.01.54:279][564]MaterialEditorStats: MaxSampler: 270 instructions
+[2024.03.03-10.01.54:279][564]MaterialEditorStats: Texture samplers: 6/16
+[2024.03.03-10.01.54:279][564]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-10.01.54:279][564]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-10.01.54:279][564]MaterialEditorStats: Shader Count: 16
+[2024.03.03-10.02.14:952][104]LogSlate: Window 'lambert1' being destroyed
+[2024.03.03-10.02.14:964][104]LogSlate: Window 'lambert1' being destroyed
+[2024.03.03-10.02.15:018][104]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-10.02.15:018][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-10.02.15:056][104]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-10.02.15:056][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-10.02.18:223][213]LogViewport: Scene viewport resized to 1523x449, mode Windowed.
+[2024.03.03-10.02.18:311][214]LogViewport: Scene viewport resized to 1523x480, mode Windowed.
+[2024.03.03-10.02.18:387][215]LogViewport: Scene viewport resized to 1523x506, mode Windowed.
+[2024.03.03-10.02.18:451][216]LogViewport: Scene viewport resized to 1523x521, mode Windowed.
+[2024.03.03-10.02.18:518][217]LogViewport: Scene viewport resized to 1523x536, mode Windowed.
+[2024.03.03-10.02.18:591][218]LogViewport: Scene viewport resized to 1523x559, mode Windowed.
+[2024.03.03-10.02.18:652][219]LogViewport: Scene viewport resized to 1523x561, mode Windowed.
+[2024.03.03-10.02.18:720][220]LogViewport: Scene viewport resized to 1523x572, mode Windowed.
+[2024.03.03-10.02.18:792][221]LogViewport: Scene viewport resized to 1523x594, mode Windowed.
+[2024.03.03-10.02.18:863][222]LogViewport: Scene viewport resized to 1523x607, mode Windowed.
+[2024.03.03-10.02.18:935][223]LogViewport: Scene viewport resized to 1523x611, mode Windowed.
+[2024.03.03-10.02.19:299][234]LogViewport: Scene viewport resized to 1523x603, mode Windowed.
+[2024.03.03-10.02.19:397][235]LogViewport: Scene viewport resized to 1523x560, mode Windowed.
+[2024.03.03-10.02.19:474][236]LogViewport: Scene viewport resized to 1523x555, mode Windowed.
+[2024.03.03-10.02.20:028][254]LogViewport: Scene viewport resized to 1523x545, mode Windowed.
+[2024.03.03-10.02.20:116][255]LogViewport: Scene viewport resized to 1523x533, mode Windowed.
+[2024.03.03-10.02.22:022][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.02.22:154][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.03.03-10.02.22:265][314]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-10.02.22:266][314]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvl4A008EC3468A9F01CA4711BE1B9AF11E.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-10.02.22:276][314]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.161
+[2024.03.03-10.02.22:290][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 267 ms (total: 8.36 sec)
+[2024.03.03-10.02.22:294][314]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-10.02.22:294][314]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
