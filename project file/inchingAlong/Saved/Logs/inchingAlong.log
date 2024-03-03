@@ -3383,3 +3383,514 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.03-10.54.32:891][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 282 ms (total: 14.0 sec)
 [2024.03.03-10.54.32:896][904]AssetCheck: New page: Asset Save: Whitebox_lvl
 [2024.03.03-10.54.32:896][904]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-10.57.35:256][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.57.35:415][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.03.03-10.57.35:530][851]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-10.57.35:531][851]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvlBB3146D4458355D3BAB905BA59720E57.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-10.57.35:541][851]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.173
+[2024.03.03-10.57.35:552][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 295 ms (total: 14.3 sec)
+[2024.03.03-10.57.35:555][851]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-10.57.35:556][851]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-11.01.32:057][562]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.03-11.01.32:075][562]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.03-11.01.32:099][563]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.03-11.01.39:516][805]LogContentBrowser: Attempting asset rename: NewFolder -> Isopod_1
+[2024.03.03-11.01.39:517][805]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.03-11.01.43:003][906]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.03-11.01.43:028][906]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.03-11.01.43:051][907]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.03-11.01.49:256][121]LogContentBrowser: Attempting asset rename: NewFolder -> Isopod_2
+[2024.03.03-11.01.49:257][121]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.03-11.02.00:101][299]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/FBX/isopod.fbx)
+[2024.03.03-11.02.00:110][299]LogFbx: Loading FBX Scene from ../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/FBX/isopod.fbx
+[2024.03.03-11.02.00:130][299]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.03-11.02.04:107][299]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.03-11.02.04:261][299]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\thoma\Documents\GitHub\Chilly24Gaming\FBX
+[2024.03.03-11.02.04:272][299]LogFbx: Display: Triangulating static mesh isobody
+[2024.03.03-11.02.04:319][299]LogStaticMesh: Display: Building static mesh isopod_isobody...
+[2024.03.03-11.02.04:344][299]LogStaticMesh: Built static mesh [0.03s] /Game/OurStuff/ModelUploads/Isopod_1/isopod_isobody.isopod_isobody
+[2024.03.03-11.02.04:378][299]LogFbx: Display: Triangulating static mesh rightFeeler
+[2024.03.03-11.02.04:387][299]LogStaticMesh: Display: Building static mesh isopod_rightFeeler...
+[2024.03.03-11.02.04:400][299]LogStaticMesh: Built static mesh [0.01s] /Game/OurStuff/ModelUploads/Isopod_1/isopod_rightFeeler.isopod_rightFeeler
+[2024.03.03-11.02.04:423][299]LogFbx: Display: Triangulating static mesh leftFeeler
+[2024.03.03-11.02.04:433][299]LogStaticMesh: Display: Building static mesh isopod_leftFeeler...
+[2024.03.03-11.02.04:446][299]LogStaticMesh: Built static mesh [0.01s] /Game/OurStuff/ModelUploads/Isopod_1/isopod_leftFeeler.isopod_leftFeeler
+[2024.03.03-11.02.04:474][299]LogFbx: Display: Triangulating static mesh isoleg.001
+[2024.03.03-11.02.04:480][299]LogStaticMesh: Display: Building static mesh isopod_isoleg_001...
+[2024.03.03-11.02.04:485][299]LogStaticMesh: Built static mesh [0.01s] /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_001.isopod_isoleg_001
+[2024.03.03-11.02.04:508][299]LogFbx: Display: Triangulating static mesh isoleg.002
+[2024.03.03-11.02.04:516][299]LogStaticMesh: Display: Building static mesh isopod_isoleg_002...
+[2024.03.03-11.02.04:521][299]LogStaticMesh: Built static mesh [0.01s] /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_002.isopod_isoleg_002
+[2024.03.03-11.02.04:543][299]LogFbx: Display: Triangulating static mesh isoleg.003
+[2024.03.03-11.02.04:550][299]LogStaticMesh: Display: Building static mesh isopod_isoleg_003...
+[2024.03.03-11.02.04:554][299]LogStaticMesh: Built static mesh [0.00s] /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_003.isopod_isoleg_003
+[2024.03.03-11.02.04:577][299]LogFbx: Display: Triangulating static mesh isoleg.004
+[2024.03.03-11.02.04:583][299]LogStaticMesh: Display: Building static mesh isopod_isoleg_004...
+[2024.03.03-11.02.04:586][299]LogStaticMesh: Built static mesh [0.00s] /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_004.isopod_isoleg_004
+[2024.03.03-11.02.04:608][299]LogFbx: Display: Triangulating static mesh isoleg.005
+[2024.03.03-11.02.04:615][299]LogStaticMesh: Display: Building static mesh isopod_isoleg_005...
+[2024.03.03-11.02.04:619][299]LogStaticMesh: Built static mesh [0.00s] /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_005.isopod_isoleg_005
+[2024.03.03-11.02.04:645][299]LogFbx: Display: Triangulating static mesh isoleg.006
+[2024.03.03-11.02.04:655][299]LogStaticMesh: Display: Building static mesh isopod_isoleg_006...
+[2024.03.03-11.02.04:659][299]LogStaticMesh: Built static mesh [0.01s] /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_006.isopod_isoleg_006
+[2024.03.03-11.02.04:685][299]LogFbx: Display: Triangulating static mesh isoleg.007
+[2024.03.03-11.02.04:692][299]LogStaticMesh: Display: Building static mesh isopod_isoleg_007...
+[2024.03.03-11.02.04:696][299]LogStaticMesh: Built static mesh [0.00s] /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_007.isopod_isoleg_007
+[2024.03.03-11.02.04:719][299]LogFbx: Display: Triangulating static mesh isoleg.008
+[2024.03.03-11.02.04:725][299]LogStaticMesh: Display: Building static mesh isopod_isoleg_008...
+[2024.03.03-11.02.04:729][299]LogStaticMesh: Built static mesh [0.00s] /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_008.isopod_isoleg_008
+[2024.03.03-11.02.04:754][299]LogFbx: Display: Triangulating static mesh isoleg.009
+[2024.03.03-11.02.04:763][299]LogStaticMesh: Display: Building static mesh isopod_isoleg_009...
+[2024.03.03-11.02.04:768][299]LogStaticMesh: Built static mesh [0.01s] /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_009.isopod_isoleg_009
+[2024.03.03-11.02.04:792][299]LogFbx: Display: Triangulating static mesh isoleg.010
+[2024.03.03-11.02.04:799][299]LogStaticMesh: Display: Building static mesh isopod_isoleg_010...
+[2024.03.03-11.02.04:803][299]LogStaticMesh: Built static mesh [0.00s] /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_010.isopod_isoleg_010
+[2024.03.03-11.02.04:827][299]LogFbx: Display: Triangulating static mesh isoleg.011
+[2024.03.03-11.02.04:835][299]LogStaticMesh: Display: Building static mesh isopod_isoleg_011...
+[2024.03.03-11.02.04:839][299]LogStaticMesh: Built static mesh [0.00s] /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_011.isopod_isoleg_011
+[2024.03.03-11.02.04:864][299]LogFbx: Display: Triangulating static mesh isoleg.012
+[2024.03.03-11.02.04:870][299]LogStaticMesh: Display: Building static mesh isopod_isoleg_012...
+[2024.03.03-11.02.04:874][299]LogStaticMesh: Built static mesh [0.00s] /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_012.isopod_isoleg_012
+[2024.03.03-11.02.04:920][299]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.03.03-11.02.05:541][299]LogMeshUtilities: Finished distance field build in 1.2s - 126x98x42 sparse distance field, 0.7Mb total, 0.0Mb always loaded, 84% occupied, 485 triangles, isopod_isobody
+[2024.03.03-11.02.05:799][302]LogShaderCompilers: Display: ================================================
+[2024.03.03-11.02.05:799][302]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.03-11.02.05:799][302]LogShaderCompilers: Display: Total job queries 619, among them cache hits 487 (78.68%)
+[2024.03.03-11.02.05:799][302]LogShaderCompilers: Display: Tracking 132 distinct input hashes that result in 79 distinct outputs (59.85%)
+[2024.03.03-11.02.05:799][302]LogShaderCompilers: Display: RAM used: 3.21 MiB of 819.20 MiB budget. Usage: 0.39%
+[2024.03.03-11.02.05:799][302]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.03-11.02.05:799][302]LogShaderCompilers: Display: Shaders Compiled: 48
+[2024.03.03-11.02.05:799][302]LogShaderCompilers: Display: Jobs assigned 48, completed 48 (100%)
+[2024.03.03-11.02.05:799][302]LogShaderCompilers: Display: Average time worker was idle: 208.91 s
+[2024.03.03-11.02.05:799][302]LogShaderCompilers: Display: Time job spent in pending queue: average 0.24 s, longest 1.25 s
+[2024.03.03-11.02.05:799][302]LogShaderCompilers: Display: Job execution time: average 0.80 s, max 1.53 s
+[2024.03.03-11.02.05:799][302]LogShaderCompilers: Display: Job life time (pending + execution): average 1.05 s, max 1.98
+[2024.03.03-11.02.05:799][302]LogShaderCompilers: Display: Shader code size: average 54.135 KiB, min 32.02 KiB, max 73.289 KiB
+[2024.03.03-11.02.05:799][302]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.94 s
+[2024.03.03-11.02.05:799][302]LogShaderCompilers: Display: Jobs were issued in 48 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.03-11.02.05:799][302]LogShaderCompilers: Display: Average processing rate: 4.83 jobs/sec
+[2024.03.03-11.02.05:799][302]LogShaderCompilers: Display: Total thread time: 29.935 s
+[2024.03.03-11.02.05:799][302]LogShaderCompilers: Display: Total thread preprocess time: 2.74 s
+[2024.03.03-11.02.05:800][302]LogShaderCompilers: Display: Percentage time preprocessing: 9.15%
+[2024.03.03-11.02.05:800][302]LogShaderCompilers: Display: Effective parallelization: 3.01 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.03-11.02.05:800][302]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.03-11.02.05:800][302]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.03.03-11.02.05:800][302]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2024.03.03-11.02.05:800][302]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.77 sec)
+[2024.03.03-11.02.05:800][302]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2024.03.03-11.02.05:800][302]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2024.03.03-11.02.05:800][302]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.03-11.02.05:800][302]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.19% of total time (compiled    6 times, average 0.71 sec, max 1.11 sec, min 0.51 sec)
+[2024.03.03-11.02.05:800][302]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.46% of total time (compiled    4 times, average 0.63 sec, max 0.89 sec, min 0.52 sec)
+[2024.03.03-11.02.05:800][302]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.41% of total time (compiled    4 times, average 0.63 sec, max 0.70 sec, min 0.57 sec)
+[2024.03.03-11.02.05:800][302]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.70% of total time (compiled    3 times, average 0.57 sec, max 0.64 sec, min 0.51 sec)
+[2024.03.03-11.02.05:800][302]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.16% of total time (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.77 sec)
+[2024.03.03-11.02.05:800][302]LogShaderCompilers: Display: ================================================
+[2024.03.03-11.02.08:019][335]LogMeshUtilities: Finished distance field build in 1.8s - 126x98x42 sparse distance field, 0.7Mb total, 0.0Mb always loaded, 84% occupied, 485 triangles, isopod_isobody
+[2024.03.03-11.02.14:824][507]LogSlate: Window 'Message Log' being destroyed
+[2024.03.03-11.02.14:871][507]LogSlate: Window 'Message Log' being destroyed
+[2024.03.03-11.02.23:222][761]Cmd: TRANSACTION UNDO
+[2024.03.03-11.02.23:222][761]LogEditorTransaction: Undo Move Elements
+[2024.03.03-11.02.34:412][102]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.03-11.03.01:290][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-11.03.01:443][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.03.03-11.03.01:559][ 15]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-11.03.01:560][ 15]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvl44A69BA64F6FFC67E1DC509F7A16D294.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-11.03.01:575][ 15]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.186
+[2024.03.03-11.03.01:587][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave took 296 ms (total: 14.6 sec)
+[2024.03.03-11.03.01:591][ 15]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-11.03.01:592][ 15]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-11.03.20:490][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.03.03-11.03.21:583][577]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-11.03.21:617][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.03.03-11.03.21:646][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.03.03-11.03.21:668][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.03.03-11.03.23:944][628]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2024.03.03-11.03.24:830][628]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-11.03.24:866][628]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2024.03.03-11.03.24:892][628]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2024.03.03-11.03.24:910][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.03-11.03.27:264][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.03.03-11.03.28:339][680]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-11.03.28:375][680]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2024.03.03-11.03.28:397][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.03.03-11.03.28:418][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.03.03-11.03.30:815][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.03.03-11.03.31:735][738]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-11.03.31:769][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.03.03-11.03.31:795][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.03.03-11.03.31:822][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.03.03-11.03.34:288][792]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2024.03.03-11.03.35:392][792]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-11.03.35:426][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.03.03-11.03.35:450][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.03.03-11.03.35:476][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.03-11.03.37:675][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.03.03-11.03.38:914][839]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-11.03.38:946][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.03.03-11.03.38:966][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.03.03-11.03.38:988][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.03.03-11.03.40:861][879]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2024.03.03-11.03.42:055][879]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-11.03.42:086][879]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2024.03.03-11.03.42:108][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.03.03-11.03.42:131][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.03.03-11.03.44:348][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.03.03-11.03.45:276][929]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-11.03.45:307][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.03.03-11.03.45:329][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.03.03-11.03.45:351][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.03.03-11.03.47:451][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.03.03-11.03.48:306][975]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-11.03.48:345][975]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2024.03.03-11.03.48:370][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2024.03.03-11.03.48:387][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.03.03-11.03.50:480][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.03.03-11.03.51:276][ 20]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-11.03.51:312][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2024.03.03-11.03.51:333][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.03.03-11.03.51:357][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.03.03-11.03.53:511][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2024.03.03-11.03.54:280][ 68]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-11.03.54:315][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2024.03.03-11.03.54:338][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2024.03.03-11.03.54:364][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2024.03.03-11.03.56:801][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.03.03-11.03.57:703][122]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-11.03.57:735][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.03.03-11.03.57:762][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.03.03-11.03.57:785][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.03.03-11.04.00:072][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.03.03-11.04.02:788][171]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-11.04.02:825][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2024.03.03-11.04.02:847][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.03.03-11.04.02:870][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.03.03-11.04.04:913][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2024.03.03-11.04.05:952][214]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-11.04.05:987][214]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2024.03.03-11.04.06:008][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.03.03-11.04.06:033][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.03.03-11.04.08:810][282]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2024.03.03-11.04.12:717][282]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-11.04.15:364][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.03.03-11.04.16:304][340]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-11.04.16:337][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2024.03.03-11.04.16:362][340]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2024.03.03-11.04.16:386][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.03.03-11.04.41:914][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2024.03.03-11.04.43:544][200]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-11.04.43:581][200]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2024.03.03-11.04.43:608][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2024.03.03-11.04.43:630][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.03.03-11.05.22:925][295]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/FBX/isopod.fbx)
+[2024.03.03-11.05.22:933][295]LogFbx: Loading FBX Scene from ../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/FBX/isopod.fbx
+[2024.03.03-11.05.22:946][295]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.03-11.05.25:636][295]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.03-11.05.25:772][295]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\thoma\Documents\GitHub\Chilly24Gaming\FBX
+[2024.03.03-11.05.25:785][295]LogFbx: Display: Triangulating static mesh isobody
+[2024.03.03-11.05.25:853][295]LogFbx: Display: Triangulating static mesh rightFeeler
+[2024.03.03-11.05.25:871][295]LogFbx: Display: Triangulating static mesh leftFeeler
+[2024.03.03-11.05.25:892][295]LogFbx: Display: Triangulating static mesh isoleg.001
+[2024.03.03-11.05.25:912][295]LogFbx: Display: Triangulating static mesh isoleg.002
+[2024.03.03-11.05.25:931][295]LogFbx: Display: Triangulating static mesh isoleg.003
+[2024.03.03-11.05.25:956][295]LogFbx: Display: Triangulating static mesh isoleg.004
+[2024.03.03-11.05.25:978][295]LogFbx: Display: Triangulating static mesh isoleg.005
+[2024.03.03-11.05.25:997][295]LogFbx: Display: Triangulating static mesh isoleg.006
+[2024.03.03-11.05.26:017][295]LogFbx: Display: Triangulating static mesh isoleg.007
+[2024.03.03-11.05.26:036][295]LogFbx: Display: Triangulating static mesh isoleg.008
+[2024.03.03-11.05.26:051][295]LogFbx: Display: Triangulating static mesh isoleg.009
+[2024.03.03-11.05.26:075][295]LogFbx: Display: Triangulating static mesh isoleg.010
+[2024.03.03-11.05.26:094][295]LogFbx: Display: Triangulating static mesh isoleg.011
+[2024.03.03-11.05.26:114][295]LogFbx: Display: Triangulating static mesh isoleg.012
+[2024.03.03-11.05.26:155][295]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.03.03-11.05.26:250][295]LogShaderCompilers: Display: ================================================
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: Total job queries 627, among them cache hits 495 (78.95%)
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: Tracking 132 distinct input hashes that result in 79 distinct outputs (59.85%)
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: RAM used: 3.21 MiB of 819.20 MiB budget. Usage: 0.39%
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: Shaders Compiled: 48
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: Jobs assigned 48, completed 48 (100%)
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: Average time worker was idle: 208.91 s
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: Time job spent in pending queue: average 0.24 s, longest 1.25 s
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: Job execution time: average 0.80 s, max 1.53 s
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: Job life time (pending + execution): average 1.05 s, max 1.98
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: Shader code size: average 54.135 KiB, min 32.02 KiB, max 73.289 KiB
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.94 s
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: Jobs were issued in 48 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: Average processing rate: 4.83 jobs/sec
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: Total thread time: 29.935 s
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: Total thread preprocess time: 2.74 s
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: Percentage time preprocessing: 9.15%
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: Effective parallelization: 3.01 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.77 sec)
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.19% of total time (compiled    6 times, average 0.71 sec, max 1.11 sec, min 0.51 sec)
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.46% of total time (compiled    4 times, average 0.63 sec, max 0.89 sec, min 0.52 sec)
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.41% of total time (compiled    4 times, average 0.63 sec, max 0.70 sec, min 0.57 sec)
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.70% of total time (compiled    3 times, average 0.57 sec, max 0.64 sec, min 0.51 sec)
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.16% of total time (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.77 sec)
+[2024.03.03-11.05.26:251][295]LogShaderCompilers: Display: ================================================
+[2024.03.03-11.05.31:484][419]LogSlate: Window 'Message Log' being destroyed
+[2024.03.03-11.05.31:526][419]LogSlate: Window 'Message Log' being destroyed
+[2024.03.03-11.06.47:013][485]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.03.03-11.06.47:024][485]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.03.03-11.06.47:038][485]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.03.03-11.06.47:057][486]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.03.03-11.07.05:466][126]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Isopod_1
+[2024.03.03-11.07.05:481][126]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.03.03-11.07.09:840][242]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OurStuff/ModelUploads/Isopod_1/BP_Isopod_1.BP_Isopod_1
+[2024.03.03-11.07.09:840][242]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-11.07.09:840][242]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-11.07.10:088][242]LogViewport: Scene viewport resized to 864x592, mode Windowed.
+[2024.03.03-11.07.12:933][300]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isobody.isopod_isobody
+[2024.03.03-11.07.12:933][300]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isobody.isopod_isobody
+[2024.03.03-11.07.12:933][300]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isobody.isopod_isobody as actor: StaticMeshActor /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.StaticMeshActor_94
+[2024.03.03-11.07.14:829][343]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-11.07.19:227][442]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_001.isopod_isoleg_001
+[2024.03.03-11.07.19:227][442]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_001.isopod_isoleg_001
+[2024.03.03-11.07.19:227][442]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_001.isopod_isoleg_001 as actor: StaticMeshActor /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.StaticMeshActor_97
+[2024.03.03-11.07.26:971][622]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_002.isopod_isoleg_002
+[2024.03.03-11.07.26:972][622]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_002.isopod_isoleg_002
+[2024.03.03-11.07.26:972][622]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_002.isopod_isoleg_002 as actor: StaticMeshActor /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.StaticMeshActor_98
+[2024.03.03-11.07.37:416][845]Cmd: TRANSACTION UNDO
+[2024.03.03-11.07.37:416][845]LogEditorTransaction: Undo Add Component
+[2024.03.03-11.07.37:606][846]Cmd: TRANSACTION UNDO
+[2024.03.03-11.07.37:606][846]LogEditorTransaction: Undo Add Component
+[2024.03.03-11.07.38:059][853]Cmd: TRANSACTION UNDO
+[2024.03.03-11.07.38:059][853]LogEditorTransaction: Undo Add Component
+[2024.03.03-11.07.38:517][862]Cmd: TRANSACTION UNDO
+[2024.03.03-11.07.38:517][862]LogEditorTransaction: Undo Add Component
+[2024.03.03-11.07.38:964][871]Cmd: TRANSACTION UNDO
+[2024.03.03-11.07.38:964][871]LogEditorTransaction: Undo Add Component
+[2024.03.03-11.08.06:183][510]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isobody.isopod_isobody
+[2024.03.03-11.08.06:183][510]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isobody.isopod_isobody
+[2024.03.03-11.08.06:185][510]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isobody.isopod_isobody as actor: StaticMeshActor /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.StaticMeshActor_102
+[2024.03.03-11.08.11:808][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_001.isopod_isoleg_001
+[2024.03.03-11.08.11:808][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_001.isopod_isoleg_001
+[2024.03.03-11.08.11:808][633]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_001.isopod_isoleg_001 as actor: StaticMeshActor /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.StaticMeshActor_103
+[2024.03.03-11.08.43:242][311]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_010.isopod_isoleg_010
+[2024.03.03-11.08.43:242][311]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_010.isopod_isoleg_010
+[2024.03.03-11.08.43:244][311]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_010.isopod_isoleg_010 as actor: StaticMeshActor /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.StaticMeshActor_104
+[2024.03.03-11.08.47:267][399]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_011.isopod_isoleg_011
+[2024.03.03-11.08.47:267][399]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_011.isopod_isoleg_011
+[2024.03.03-11.08.47:269][399]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_011.isopod_isoleg_011 as actor: StaticMeshActor /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.StaticMeshActor_105
+[2024.03.03-11.08.52:009][502]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_012.isopod_isoleg_012
+[2024.03.03-11.08.52:009][502]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_012.isopod_isoleg_012
+[2024.03.03-11.08.52:010][502]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_012.isopod_isoleg_012 as actor: StaticMeshActor /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.StaticMeshActor_106
+[2024.03.03-11.08.56:426][597]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_leftFeeler.isopod_leftFeeler
+[2024.03.03-11.08.56:426][597]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_leftFeeler.isopod_leftFeeler
+[2024.03.03-11.08.56:427][597]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_leftFeeler.isopod_leftFeeler as actor: StaticMeshActor /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.StaticMeshActor_107
+[2024.03.03-11.09.29:249][360]BlueprintLog: New page: Compile BP_Isopod_1
+[2024.03.03-11.09.29:338][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.03.03-11.09.30:495][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-11.09.30:587][386]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Isopod_1/BP_Isopod_1
+[2024.03.03-11.09.30:587][386]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/BP_Isopod_11EB411164638D378F3B5D08F3EDC2CCA.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Isopod_1/BP_Isopod_1.uasset'
+[2024.03.03-11.09.30:604][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 14.7 sec)
+[2024.03.03-11.09.30:606][386]AssetCheck: New page: Asset Save: BP_Isopod_1
+[2024.03.03-11.09.30:606][386]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurStuff/ModelUploads/Isopod_1/BP_Isopod_1.BP_Isopod_1
+[2024.03.03-11.11.09:618][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-11.11.09:784][759]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.03.03-11.11.09:903][759]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-11.11.09:903][759]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvlDDF066B14B5D7F5D78A11596678A0181.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-11.11.09:917][759]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.197
+[2024.03.03-11.11.09:930][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 313 ms (total: 15.0 sec)
+[2024.03.03-11.11.09:935][759]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-11.11.09:935][759]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-11.11.35:145][355]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isobody.isopod_isobody
+[2024.03.03-11.11.35:158][355]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-11.11.35:158][355]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-11.11.35:792][355]LogViewport: Scene viewport resized to 1065x619, mode Windowed.
+[2024.03.03-11.12.15:569][304]LogContentBrowser: Attempting asset rename: UV_Grid -> MAT_Isopod_1
+[2024.03.03-11.12.15:638][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-11.12.17:423][304]LogShaderCompilers: Display: ================================================
+[2024.03.03-11.12.17:423][304]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.03-11.12.17:423][304]LogShaderCompilers: Display: Total job queries 641, among them cache hits 497 (77.54%)
+[2024.03.03-11.12.17:423][304]LogShaderCompilers: Display: Tracking 144 distinct input hashes that result in 87 distinct outputs (60.42%)
+[2024.03.03-11.12.17:423][304]LogShaderCompilers: Display: RAM used: 3.52 MiB of 819.20 MiB budget. Usage: 0.43%
+[2024.03.03-11.12.17:423][304]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.03-11.12.17:423][304]LogShaderCompilers: Display: Shaders Compiled: 60
+[2024.03.03-11.12.17:423][304]LogShaderCompilers: Display: Jobs assigned 60, completed 60 (100%)
+[2024.03.03-11.12.17:423][304]LogShaderCompilers: Display: Average time worker was idle: 1020.88 s
+[2024.03.03-11.12.17:423][304]LogShaderCompilers: Display: Time job spent in pending queue: average 0.28 s, longest 1.25 s
+[2024.03.03-11.12.17:423][304]LogShaderCompilers: Display: Job execution time: average 0.82 s, max 1.53 s
+[2024.03.03-11.12.17:423][304]LogShaderCompilers: Display: Job life time (pending + execution): average 1.09 s, max 1.98
+[2024.03.03-11.12.17:423][304]LogShaderCompilers: Display: Shader code size: average 52.22 KiB, min 32.02 KiB, max 73.289 KiB
+[2024.03.03-11.12.17:423][304]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.62 s
+[2024.03.03-11.12.17:423][304]LogShaderCompilers: Display: Jobs were issued in 60 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.03-11.12.17:423][304]LogShaderCompilers: Display: Average processing rate: 5.16 jobs/sec
+[2024.03.03-11.12.17:423][304]LogShaderCompilers: Display: Total thread time: 37.406 s
+[2024.03.03-11.12.17:423][304]LogShaderCompilers: Display: Total thread preprocess time: 3.444 s
+[2024.03.03-11.12.17:424][304]LogShaderCompilers: Display: Percentage time preprocessing: 9.21%
+[2024.03.03-11.12.17:424][304]LogShaderCompilers: Display: Effective parallelization: 3.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.03-11.12.17:424][304]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.03-11.12.17:424][304]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.03.03-11.12.17:424][304]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2024.03.03-11.12.17:424][304]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 0.77 sec, max 0.78 sec, min 0.77 sec)
+[2024.03.03-11.12.17:424][304]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2024.03.03-11.12.17:424][304]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2024.03.03-11.12.17:424][304]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.03-11.12.17:424][304]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.36% of total time (compiled    6 times, average 0.71 sec, max 1.11 sec, min 0.51 sec)
+[2024.03.03-11.12.17:424][304]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.11% of total time (compiled    5 times, average 0.61 sec, max 0.89 sec, min 0.50 sec)
+[2024.03.03-11.12.17:424][304]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.73% of total time (compiled    4 times, average 0.63 sec, max 0.70 sec, min 0.57 sec)
+[2024.03.03-11.12.17:424][304]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.19% of total time (compiled    3 times, average 0.77 sec, max 0.78 sec, min 0.77 sec)
+[2024.03.03-11.12.17:424][304]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.88% of total time (compiled    3 times, average 0.73 sec, max 0.75 sec, min 0.70 sec)
+[2024.03.03-11.12.17:424][304]LogShaderCompilers: Display: ================================================
+[2024.03.03-11.12.17:440][304]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Isopod_1/MAT_Isopod_1
+[2024.03.03-11.12.17:440][304]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/MAT_Isopod_1766ECBDA405A09A87CF48EA4764FA29B.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Isopod_1/MAT_Isopod_1.uasset'
+[2024.03.03-11.12.17:455][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.81 sec (total: 16.8 sec)
+[2024.03.03-11.12.17:494][304]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2024.03.03-11.12.17:520][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.03.03-11.12.17:541][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.03.03-11.12.17:545][304]AssetCheck: New page: Asset Save: MAT_Isopod_1
+[2024.03.03-11.12.17:545][304]LogContentValidation: Display: Validating /Script/Engine.Material /Game/OurStuff/ModelUploads/Isopod_1/MAT_Isopod_1.MAT_Isopod_1
+[2024.03.03-11.12.53:468][125]LogTexture: Display: Building textures: /Game/OurStuff/materials/Isopod__1/isopod_UV_Grid_Normal.isopod_UV_Grid_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 168.562488 MB), EncodeSpeed: Fast
+[2024.03.03-11.12.53:474][125]LogTexture: Display: Building textures: /Game/OurStuff/materials/Isopod__1/isopod_UV_Grid_BaseColor.isopod_UV_Grid_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.03.03-11.12.53:481][125]LogTexture: Display: Building textures: /Game/OurStuff/materials/Isopod__1/isopod_UV_Grid_OcclusionRoughnessMetallic.isopod_UV_Grid_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.03.03-11.13.02:157][329]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/OurStuff/materials/Isopod__1/MAT_isopodT.MAT_isopodT
+[2024.03.03-11.13.02:164][329]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-11.13.02:164][329]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-11.13.02:354][329]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-11.13.02:354][329]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-11.13.02:354][329]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-11.13.02:354][329]MaterialEditorStats: Shader Count: 0
+[2024.03.03-11.13.02:365][329]LogViewport: Scene viewport resized to 284x307, mode Windowed.
+[2024.03.03-11.13.02:487][331]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.03-11.13.02:487][331]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-11.13.02:487][331]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.03-11.13.02:487][331]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-11.13.02:488][331]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-11.13.02:488][331]MaterialEditorStats: Shader Count: 4
+[2024.03.03-11.13.39:332][227]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-11.13.39:332][227]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-11.13.39:332][227]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-11.13.39:332][227]MaterialEditorStats: Shader Count: 0
+[2024.03.03-11.13.39:431][229]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.03-11.13.39:431][229]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-11.13.39:431][229]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.03-11.13.39:431][229]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-11.13.39:431][229]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-11.13.39:431][229]MaterialEditorStats: Shader Count: 4
+[2024.03.03-11.13.44:999][363]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-11.13.44:999][363]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-11.13.44:999][363]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-11.13.44:999][363]MaterialEditorStats: Shader Count: 0
+[2024.03.03-11.13.45:077][364]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.03-11.13.45:077][364]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-11.13.45:077][364]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.03-11.13.45:077][364]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-11.13.45:077][364]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-11.13.45:077][364]MaterialEditorStats: Shader Count: 4
+[2024.03.03-11.13.56:135][632]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-11.13.56:135][632]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-11.13.56:135][632]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-11.13.56:135][632]MaterialEditorStats: Shader Count: 0
+[2024.03.03-11.13.56:197][634]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.03-11.13.56:197][634]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-11.13.56:197][634]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.03-11.13.56:197][634]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-11.13.56:197][634]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-11.13.56:197][634]MaterialEditorStats: Shader Count: 2
+[2024.03.03-11.14.01:869][771]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-11.14.01:869][771]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-11.14.01:869][771]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-11.14.01:869][771]MaterialEditorStats: Shader Count: 0
+[2024.03.03-11.14.01:960][774]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.03-11.14.01:960][774]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-11.14.01:960][774]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.03-11.14.01:960][774]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-11.14.01:960][774]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-11.14.01:960][774]MaterialEditorStats: Shader Count: 4
+[2024.03.03-11.14.07:382][905]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-11.14.07:382][905]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-11.14.07:382][905]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-11.14.07:382][905]MaterialEditorStats: Shader Count: 0
+[2024.03.03-11.14.08:211][920]MaterialEditorStats: Texture samplers: 3/16
+[2024.03.03-11.14.08:211][920]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-11.14.08:211][920]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-11.14.08:211][920]MaterialEditorStats: Shader Count: 1
+[2024.03.03-11.14.08:585][927]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.03.03-11.14.08:585][927]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-11.14.08:585][927]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.03-11.14.08:585][927]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-11.14.08:586][927]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-11.14.08:586][927]MaterialEditorStats: Shader Count: 4
+[2024.03.03-11.14.13:865][ 51]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-11.14.13:865][ 51]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-11.14.13:865][ 51]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-11.14.13:865][ 51]MaterialEditorStats: Shader Count: 0
+[2024.03.03-11.14.14:407][ 62]MaterialEditorStats: Texture samplers: 3/16
+[2024.03.03-11.14.14:407][ 62]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-11.14.14:407][ 62]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-11.14.14:407][ 62]MaterialEditorStats: Shader Count: 1
+[2024.03.03-11.14.14:667][ 67]MaterialEditorStats: Base pass shader: 207 instructions
+[2024.03.03-11.14.14:667][ 67]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-11.14.14:667][ 67]MaterialEditorStats: Texture samplers: 5/16
+[2024.03.03-11.14.14:667][ 67]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-11.14.14:667][ 67]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-11.14.14:667][ 67]MaterialEditorStats: Shader Count: 4
+[2024.03.03-11.14.17:946][145]LogMaterialEditor: Applying material MAT_isopodT
+[2024.03.03-11.14.18:172][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.03.03-11.14.18:690][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.03.03-11.14.19:085][155]LogMaterialEditor: Saving and Compiling material MAT_isopodT
+[2024.03.03-11.14.19:089][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-11.14.20:567][155]LogSavePackage: Moving output files for package: /Game/OurStuff/materials/Isopod__1/MAT_isopodT
+[2024.03.03-11.14.20:567][155]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/MAT_isopodTC17C82634F761E7D09C8DAADC8A74B6D.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/materials/Isopod__1/MAT_isopodT.uasset'
+[2024.03.03-11.14.20:579][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.48 sec (total: 18.3 sec)
+[2024.03.03-11.14.20:581][155]AssetCheck: New page: Asset Save: MAT_isopodT
+[2024.03.03-11.14.20:581][155]LogContentValidation: Display: Validating /Script/Engine.Material /Game/OurStuff/materials/Isopod__1/MAT_isopodT.MAT_isopodT
+[2024.03.03-11.14.20:582][155]MaterialEditorStats: Base pass shader: 207 instructions
+[2024.03.03-11.14.20:582][155]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-11.14.20:582][155]MaterialEditorStats: MaxSampler: 271 instructions
+[2024.03.03-11.14.20:582][155]MaterialEditorStats: Texture samplers: 6/16
+[2024.03.03-11.14.20:582][155]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.03.03-11.14.20:582][155]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-11.14.20:582][155]MaterialEditorStats: Shader Count: 16
+[2024.03.03-11.14.53:176][912]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_leftFeeler.isopod_leftFeeler
+[2024.03.03-11.14.53:186][912]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-11.14.53:186][912]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-11.14.53:812][912]LogViewport: Scene viewport resized to 1065x619, mode Windowed.
+[2024.03.03-11.15.23:908][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-11.15.24:003][593]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Isopod_1/isopod_leftFeeler
+[2024.03.03-11.15.24:004][593]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/isopod_leftFeelerBF481AF24A2145A58A6AC78F9F3FA633.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Isopod_1/isopod_leftFeeler.uasset'
+[2024.03.03-11.15.24:015][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 18.4 sec)
+[2024.03.03-11.15.24:016][593]AssetCheck: New page: Asset Save: isopod_leftFeeler
+[2024.03.03-11.15.24:016][593]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_leftFeeler.isopod_leftFeeler
+[2024.03.03-11.15.25:975][639]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-11.15.25:975][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-11.16.19:216][894]LogDerivedDataCache: C:/Users/thoma/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.224 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5830 files in 7373 folders with total size 226 MiB.
+[2024.03.03-11.17.53:745][ 75]BlueprintLog: New page: Compile BP_Isopod_1
+[2024.03.03-11.17.53:822][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2024.03.03-11.17.54:985][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-11.17.55:077][101]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Isopod_1/BP_Isopod_1
+[2024.03.03-11.17.55:078][101]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/BP_Isopod_15028451549994352AB6F4D8D43311FA1.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Isopod_1/BP_Isopod_1.uasset'
+[2024.03.03-11.17.55:090][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 18.5 sec)
+[2024.03.03-11.17.55:093][101]AssetCheck: New page: Asset Save: BP_Isopod_1
+[2024.03.03-11.17.55:093][101]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurStuff/ModelUploads/Isopod_1/BP_Isopod_1.BP_Isopod_1
+[2024.03.03-11.18.00:876][240]LogMaterialEditor: Saving and Compiling material MAT_isopodT
+[2024.03.03-11.18.00:880][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-11.18.00:963][240]LogSavePackage: Moving output files for package: /Game/OurStuff/materials/Isopod__1/MAT_isopodT
+[2024.03.03-11.18.00:964][240]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/MAT_isopodT05050BBE474E2734036BCD9303CBB620.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/materials/Isopod__1/MAT_isopodT.uasset'
+[2024.03.03-11.18.00:980][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 18.6 sec)
+[2024.03.03-11.18.00:983][240]AssetCheck: New page: Asset Save: MAT_isopodT
+[2024.03.03-11.18.00:983][240]LogContentValidation: Display: Validating /Script/Engine.Material /Game/OurStuff/materials/Isopod__1/MAT_isopodT.MAT_isopodT
+[2024.03.03-11.18.02:099][266]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-11.18.02:100][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-11.18.04:388][320]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-11.18.04:388][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-11.18.07:153][386]LogSlate: Window 'BP_Isopod_1' being destroyed
+[2024.03.03-11.18.07:193][386]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-11.18.07:193][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-11.18.23:748][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-11.18.23:901][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.03.03-11.18.24:023][845]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-11.18.24:024][845]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvl3BC8C6174E824C3FBFC93CA722B45283.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-11.18.24:033][845]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.188
+[2024.03.03-11.18.24:042][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 295 ms (total: 18.9 sec)
+[2024.03.03-11.18.24:048][845]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-11.18.24:048][845]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
