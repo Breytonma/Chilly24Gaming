@@ -1516,3 +1516,399 @@ Scale3D: 1.000000 1.000000 1.000000
 [2024.03.03-08.29.51:057][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 285 ms (total: 657 ms)
 [2024.03.03-08.29.51:063][405]AssetCheck: New page: Asset Save: Whitebox_lvl
 [2024.03.03-08.29.51:063][405]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-08.30.25:413][884]LogViewport: Scene viewport resized to 1523x524, mode Windowed.
+[2024.03.03-08.30.25:488][885]LogViewport: Scene viewport resized to 1523x533, mode Windowed.
+[2024.03.03-08.30.25:542][886]LogViewport: Scene viewport resized to 1523x553, mode Windowed.
+[2024.03.03-08.30.25:595][887]LogViewport: Scene viewport resized to 1523x599, mode Windowed.
+[2024.03.03-08.30.25:651][888]LogViewport: Scene viewport resized to 1523x640, mode Windowed.
+[2024.03.03-08.30.25:717][889]LogViewport: Scene viewport resized to 1523x680, mode Windowed.
+[2024.03.03-08.30.25:771][890]LogViewport: Scene viewport resized to 1523x703, mode Windowed.
+[2024.03.03-08.30.25:830][891]LogViewport: Scene viewport resized to 1523x705, mode Windowed.
+[2024.03.03-08.30.25:895][892]LogViewport: Scene viewport resized to 1523x724, mode Windowed.
+[2024.03.03-08.30.25:945][893]LogViewport: Scene viewport resized to 1523x725, mode Windowed.
+[2024.03.03-08.30.26:067][897]LogViewport: Scene viewport resized to 1523x730, mode Windowed.
+[2024.03.03-08.30.26:145][898]LogViewport: Scene viewport resized to 1523x734, mode Windowed.
+[2024.03.03-08.30.26:202][899]LogViewport: Scene viewport resized to 1523x739, mode Windowed.
+[2024.03.03-08.30.26:261][900]LogViewport: Scene viewport resized to 1523x743, mode Windowed.
+[2024.03.03-08.30.26:484][904]LogViewport: Scene viewport resized to 1523x740, mode Windowed.
+[2024.03.03-08.30.33:574][151]LogViewport: Scene viewport resized to 1523x717, mode Windowed.
+[2024.03.03-08.30.33:655][152]LogViewport: Scene viewport resized to 1523x643, mode Windowed.
+[2024.03.03-08.30.33:719][153]LogViewport: Scene viewport resized to 1523x591, mode Windowed.
+[2024.03.03-08.30.33:775][154]LogViewport: Scene viewport resized to 1523x559, mode Windowed.
+[2024.03.03-08.30.33:842][155]LogViewport: Scene viewport resized to 1523x524, mode Windowed.
+[2024.03.03-08.30.33:894][156]LogViewport: Scene viewport resized to 1523x500, mode Windowed.
+[2024.03.03-08.30.33:944][157]LogViewport: Scene viewport resized to 1523x472, mode Windowed.
+[2024.03.03-08.30.34:006][158]LogViewport: Scene viewport resized to 1523x461, mode Windowed.
+[2024.03.03-08.30.34:061][159]LogViewport: Scene viewport resized to 1523x455, mode Windowed.
+[2024.03.03-08.30.44:414][535]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/OurStuff/ModelUploads/Terrarium_Floor/Terrarium_Floor.Terrarium_Floor
+[2024.03.03-08.30.44:484][535]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-08.30.44:484][535]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-08.30.45:213][535]LogViewport: Scene viewport resized to 1065x619, mode Windowed.
+[2024.03.03-08.31.06:131][141]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2024.03.03-08.31.07:475][141]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-08.31.07:544][141]LogSlate: Window 'Terrarium_Floor' being destroyed
+[2024.03.03-08.31.07:598][141]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-08.31.07:598][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-08.31.07:620][141]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/OurStuff/materials/Terrarium_Floor/Terrarium_Floor_lambert1_BaseColor.Terrarium_Floor_lambert1_BaseColor
+	Asset Type: Texture2D
+[2024.03.03-08.31.07:908][141]LogMaterial: Warning: [AssetLog] C:\Users\thoma\Documents\GitHub\Chilly24Gaming\project file\inchingAlong\Content\OurStuff\ModelUploads\Terrarium_Floor\lambert1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.03.03-08.31.07:910][141]LogMaterial: Warning: [AssetLog] C:\Users\thoma\Documents\GitHub\Chilly24Gaming\project file\inchingAlong\Content\OurStuff\ModelUploads\Terrarium_Floor\lambert1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.03.03-08.31.07:912][141]LogMaterial: Warning: [AssetLog] C:\Users\thoma\Documents\GitHub\Chilly24Gaming\project file\inchingAlong\Content\OurStuff\ModelUploads\Terrarium_Floor\lambert1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.03.03-08.31.07:966][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.03.03-08.31.07:990][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.03.03-08.31.08:011][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.03.03-08.31.16:704][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.03.03-08.31.18:339][451]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-08.31.18:410][451]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/OurStuff/materials/Terrarium_Floor/Terrarium_Floor_lambert1_Normal.Terrarium_Floor_lambert1_Normal
+	Asset Type: Texture2D
+[2024.03.03-08.31.18:679][451]LogMaterial: Warning: [AssetLog] C:\Users\thoma\Documents\GitHub\Chilly24Gaming\project file\inchingAlong\Content\OurStuff\ModelUploads\Terrarium_Floor\lambert1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.03.03-08.31.18:681][451]LogMaterial: Warning: [AssetLog] C:\Users\thoma\Documents\GitHub\Chilly24Gaming\project file\inchingAlong\Content\OurStuff\ModelUploads\Terrarium_Floor\lambert1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.03.03-08.31.18:682][451]LogMaterial: Warning: [AssetLog] C:\Users\thoma\Documents\GitHub\Chilly24Gaming\project file\inchingAlong\Content\OurStuff\ModelUploads\Terrarium_Floor\lambert1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.03.03-08.31.18:734][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2024.03.03-08.31.18:757][451]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2024.03.03-08.31.18:777][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.03.03-08.31.21:123][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2024.03.03-08.31.22:306][526]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-08.31.22:384][526]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/OurStuff/materials/Terrarium_Floor/Terrarium_Floor_lambert1_OcclusionRoughnessMetallic.Terrarium_Floor_lambert1_OcclusionRoughnessMetallic
+	Asset Type: Texture2D
+[2024.03.03-08.31.22:659][526]LogMaterial: Warning: [AssetLog] C:\Users\thoma\Documents\GitHub\Chilly24Gaming\project file\inchingAlong\Content\OurStuff\ModelUploads\Terrarium_Floor\lambert1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.03.03-08.31.22:660][526]LogMaterial: Warning: [AssetLog] C:\Users\thoma\Documents\GitHub\Chilly24Gaming\project file\inchingAlong\Content\OurStuff\ModelUploads\Terrarium_Floor\lambert1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.03.03-08.31.22:662][526]LogMaterial: Warning: [AssetLog] C:\Users\thoma\Documents\GitHub\Chilly24Gaming\project file\inchingAlong\Content\OurStuff\ModelUploads\Terrarium_Floor\lambert1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.03.03-08.31.22:711][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.03.03-08.31.22:732][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.03.03-08.31.22:756][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.03.03-08.31.27:304][684]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/OurStuff/ModelUploads/Terrarium_Floor/Terrarium_Floor.Terrarium_Floor
+[2024.03.03-08.31.27:347][684]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-08.31.27:347][684]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-08.31.28:040][684]LogViewport: Scene viewport resized to 1065x619, mode Windowed.
+[2024.03.03-08.31.42:175][880]LogInterchangeEngine: [Pending] Importing
+[2024.03.03-08.31.42:175][880]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/thoma/Docum...ures/Terrarium_Floor/Terrarium_Floor_lambert1_BaseColor.png]
+[2024.03.03-08.31.42:176][880]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.03.03-08.31.42:176][880]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/thoma/Docum...ures/Terrarium_Floor/Terrarium_Floor_lambert1_Normal.png]
+[2024.03.03-08.31.42:177][880]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.03.03-08.31.42:177][880]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/thoma/Docum...ures/Terrarium_Floor/Terrarium_Floor_lambert1_OcclusionRoughnessMetallic.png]
+[2024.03.03-08.31.42:219][881]LogTexture: Display: Building textures: /Game/OurStuff/materials/Terrarium_Floor/Terrarium_Floor_lambert1_OcclusionRoughnessMetallic.Terrarium_Floor_lambert1_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.03.03-08.31.42:263][881]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.03.03-08.31.42:265][881]LogTexture: Display: Building textures: /Game/OurStuff/materials/Terrarium_Floor/Terrarium_Floor_lambert1_Normal.Terrarium_Floor_lambert1_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 168.562488 MB), EncodeSpeed: Fast
+[2024.03.03-08.31.42:270][881]LogTexture: Display: Building textures: /Game/OurStuff/materials/Terrarium_Floor/Terrarium_Floor_lambert1_BaseColor.Terrarium_Floor_lambert1_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.03.03-08.31.42:282][881]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.03.03-08.31.42:340][882]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.03.03-08.31.42:340][882]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.03.03-08.31.42:340][882]LogInterchangeEngine: [Success] Import Done
+[2024.03.03-08.31.42:418][882]LogInterchangeEngine: [Success] Import Done
+[2024.03.03-08.31.49:686][ 63]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: ================================================
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: Total job queries 174, among them cache hits 132 (75.86%)
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: Tracking 39 distinct input hashes that result in 25 distinct outputs (64.10%)
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: RAM used: 865.11 KiB of 819.20 MiB budget. Usage: 0.10%
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: Shaders Compiled: 27
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: Jobs assigned 30, completed 27 (90.00%)
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: Average time worker was idle: 129.45 s
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: Time job spent in pending queue: average 0.24 s, longest 1.38 s
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: Job execution time: average 0.90 s, max 1.52 s
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: Job life time (pending + execution): average 1.16 s, max 1.82
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: Shader code size: average 33.251 KiB, min 3.699 KiB, max 45.199 KiB
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.28 s
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: Jobs were issued in 30 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: Average processing rate: 5.11 jobs/sec
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: Total thread time: 15.753 s
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: Total thread preprocess time: 1.426 s
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: Percentage time preprocessing: 9.05%
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: Effective parallelization: 2.98 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.76 sec, max 0.77 sec, min 0.75 sec)
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.68 sec, max 0.80 sec, min 0.57 sec)
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.67 sec, max 0.81 sec, min 0.42 sec)
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.66 sec, max 0.82 sec, min 0.53 sec)
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    2 times, average 0.65 sec, max 0.65 sec, min 0.64 sec)
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.03-08.31.50:669][ 83]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.22% of total time (compiled    5 times, average 0.67 sec, max 0.81 sec, min 0.42 sec)
+[2024.03.03-08.31.50:670][ 83]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.07% of total time (compiled    5 times, average 0.66 sec, max 0.82 sec, min 0.53 sec)
+[2024.03.03-08.31.50:670][ 83]LogShaderCompilers: Display:                                                  FHitProxyVS - 9.67% of total time (compiled    2 times, average 0.76 sec, max 0.77 sec, min 0.75 sec)
+[2024.03.03-08.31.50:670][ 83]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.64% of total time (compiled    2 times, average 0.68 sec, max 0.80 sec, min 0.57 sec)
+[2024.03.03-08.31.50:670][ 83]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 8.23% of total time (compiled    2 times, average 0.65 sec, max 0.65 sec, min 0.64 sec)
+[2024.03.03-08.31.50:670][ 83]LogShaderCompilers: Display: ================================================
+[2024.03.03-08.31.53:625][160]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/OurStuff/ModelUploads/Terrarium_Floor/lambert1.lambert1
+[2024.03.03-08.31.53:629][160]LogMaterial: Warning: [AssetLog] /Engine/Transient.lambert1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.03.03-08.31.53:633][160]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-08.31.53:633][160]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-08.31.53:759][160]LogMaterial: Warning: [AssetLog] /Engine/Transient.lambert1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.03.03-08.31.53:762][160]LogMaterial: Warning: [AssetLog] /Engine/Transient.lambert1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.03.03-08.31.53:790][160]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2024.03.03-08.31.53:790][160]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2024.03.03-08.31.53:790][160]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2024.03.03-08.31.53:803][160]LogViewport: Scene viewport resized to 284x307, mode Windowed.
+[2024.03.03-08.32.00:992][382]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-08.32.00:993][382]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.03-08.32.00:993][382]MaterialEditorStats: Shader Count: 0
+[2024.03.03-08.32.01:091][384]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.03.03-08.32.01:091][384]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.03.03-08.32.01:091][384]MaterialEditorStats: Texture samplers: 2/16
+[2024.03.03-08.32.01:091][384]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.03-08.32.01:091][384]MaterialEditorStats: Shader Count: 4
+[2024.03.03-08.32.04:772][491]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.03.03-08.32.06:532][539]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-08.32.06:532][539]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.03-08.32.06:532][539]MaterialEditorStats: Shader Count: 0
+[2024.03.03-08.32.06:632][541]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.03.03-08.32.06:632][541]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.03.03-08.32.06:632][541]MaterialEditorStats: Texture samplers: 2/16
+[2024.03.03-08.32.06:632][541]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.03.03-08.32.06:632][541]MaterialEditorStats: Shader Count: 4
+[2024.03.03-08.32.10:757][668]MaterialEditorStats: Texture samplers: 0/16
+[2024.03.03-08.32.10:757][668]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.03-08.32.10:757][668]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-08.32.10:757][668]MaterialEditorStats: Shader Count: 0
+[2024.03.03-08.32.10:831][670]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.03.03-08.32.10:831][670]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-08.32.10:831][670]MaterialEditorStats: Texture samplers: 3/16
+[2024.03.03-08.32.10:831][670]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.03-08.32.10:831][670]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-08.32.10:832][670]MaterialEditorStats: Shader Count: 4
+[2024.03.03-08.32.13:303][746]LogMaterialEditor: Applying material lambert1
+[2024.03.03-08.32.13:510][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2024.03.03-08.32.14:225][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.03.03-08.32.15:832][797]LogMaterialEditor: Saving and Compiling material lambert1
+[2024.03.03-08.32.15:837][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-08.32.17:352][797]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Terrarium_Floor/lambert1
+[2024.03.03-08.32.17:352][797]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/lambert1B6B4ADD149F24BD3ECFFBDA4EDF8639E.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Terrarium_Floor/lambert1.uasset'
+[2024.03.03-08.32.17:362][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.52 sec (total: 2.18 sec)
+[2024.03.03-08.32.17:365][797]AssetCheck: New page: Asset Save: lambert1
+[2024.03.03-08.32.17:365][797]LogContentValidation: Display: Validating /Script/Engine.Material /Game/OurStuff/ModelUploads/Terrarium_Floor/lambert1.lambert1
+[2024.03.03-08.32.17:367][797]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.03.03-08.32.17:367][797]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.03.03-08.32.17:367][797]MaterialEditorStats: MaxSampler: 244 instructions
+[2024.03.03-08.32.17:367][797]MaterialEditorStats: Texture samplers: 4/16
+[2024.03.03-08.32.17:367][797]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.03.03-08.32.17:367][797]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-08.32.17:367][797]MaterialEditorStats: Shader Count: 16
+[2024.03.03-08.32.18:544][833]LogViewport: Scene viewport resized to 1523x457, mode Windowed.
+[2024.03.03-08.32.18:621][834]LogViewport: Scene viewport resized to 1523x506, mode Windowed.
+[2024.03.03-08.32.18:685][835]LogViewport: Scene viewport resized to 1523x573, mode Windowed.
+[2024.03.03-08.32.18:755][836]LogViewport: Scene viewport resized to 1523x608, mode Windowed.
+[2024.03.03-08.32.18:822][837]LogViewport: Scene viewport resized to 1523x654, mode Windowed.
+[2024.03.03-08.32.18:899][838]LogViewport: Scene viewport resized to 1523x677, mode Windowed.
+[2024.03.03-08.32.18:967][839]LogViewport: Scene viewport resized to 1523x707, mode Windowed.
+[2024.03.03-08.32.19:034][840]LogViewport: Scene viewport resized to 1523x714, mode Windowed.
+[2024.03.03-08.32.19:100][841]LogViewport: Scene viewport resized to 1523x732, mode Windowed.
+[2024.03.03-08.32.19:171][842]LogViewport: Scene viewport resized to 1523x757, mode Windowed.
+[2024.03.03-08.32.19:231][843]LogViewport: Scene viewport resized to 1523x763, mode Windowed.
+[2024.03.03-08.32.19:415][848]LogViewport: Scene viewport resized to 1523x764, mode Windowed.
+[2024.03.03-08.32.19:502][849]LogViewport: Scene viewport resized to 1523x773, mode Windowed.
+[2024.03.03-08.32.19:561][850]LogViewport: Scene viewport resized to 1523x782, mode Windowed.
+[2024.03.03-08.32.19:622][851]LogViewport: Scene viewport resized to 1523x784, mode Windowed.
+[2024.03.03-08.32.19:700][852]LogViewport: Scene viewport resized to 1523x812, mode Windowed.
+[2024.03.03-08.32.19:766][853]LogViewport: Scene viewport resized to 1523x813, mode Windowed.
+[2024.03.03-08.32.31:303][189]LogSlate: Window 'lambert1' being destroyed
+[2024.03.03-08.32.31:321][189]LogSlate: Window 'lambert1' being destroyed
+[2024.03.03-08.32.31:378][189]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-08.32.31:378][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-08.32.31:420][189]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-08.32.31:420][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-08.32.55:980][ 73]LogViewport: Scene viewport resized to 1523x793, mode Windowed.
+[2024.03.03-08.32.56:055][ 74]LogViewport: Scene viewport resized to 1523x728, mode Windowed.
+[2024.03.03-08.32.56:111][ 75]LogViewport: Scene viewport resized to 1523x662, mode Windowed.
+[2024.03.03-08.32.56:168][ 76]LogViewport: Scene viewport resized to 1523x595, mode Windowed.
+[2024.03.03-08.32.56:221][ 77]LogViewport: Scene viewport resized to 1523x546, mode Windowed.
+[2024.03.03-08.32.56:274][ 78]LogViewport: Scene viewport resized to 1523x511, mode Windowed.
+[2024.03.03-08.32.56:324][ 79]LogViewport: Scene viewport resized to 1523x486, mode Windowed.
+[2024.03.03-08.32.56:375][ 80]LogViewport: Scene viewport resized to 1523x452, mode Windowed.
+[2024.03.03-08.32.56:428][ 81]LogViewport: Scene viewport resized to 1523x433, mode Windowed.
+[2024.03.03-08.32.56:479][ 82]LogViewport: Scene viewport resized to 1523x419, mode Windowed.
+[2024.03.03-08.32.56:533][ 83]LogViewport: Scene viewport resized to 1523x405, mode Windowed.
+[2024.03.03-08.32.56:580][ 84]LogViewport: Scene viewport resized to 1523x392, mode Windowed.
+[2024.03.03-08.32.56:637][ 85]LogViewport: Scene viewport resized to 1523x373, mode Windowed.
+[2024.03.03-08.32.56:679][ 86]LogViewport: Scene viewport resized to 1523x369, mode Windowed.
+[2024.03.03-08.32.56:909][ 96]LogViewport: Scene viewport resized to 1523x374, mode Windowed.
+[2024.03.03-08.32.56:963][ 97]LogViewport: Scene viewport resized to 1523x396, mode Windowed.
+[2024.03.03-08.32.57:012][ 98]LogViewport: Scene viewport resized to 1523x402, mode Windowed.
+[2024.03.03-08.32.57:246][108]LogViewport: Scene viewport resized to 1523x409, mode Windowed.
+[2024.03.03-08.32.57:308][109]LogViewport: Scene viewport resized to 1523x438, mode Windowed.
+[2024.03.03-08.32.57:361][110]LogViewport: Scene viewport resized to 1523x474, mode Windowed.
+[2024.03.03-08.32.57:410][111]LogViewport: Scene viewport resized to 1523x479, mode Windowed.
+[2024.03.03-08.32.57:469][112]LogViewport: Scene viewport resized to 1523x490, mode Windowed.
+[2024.03.03-08.32.57:521][113]LogViewport: Scene viewport resized to 1523x510, mode Windowed.
+[2024.03.03-08.32.57:572][114]LogViewport: Scene viewport resized to 1523x518, mode Windowed.
+[2024.03.03-08.32.57:621][115]LogViewport: Scene viewport resized to 1523x527, mode Windowed.
+[2024.03.03-08.32.57:689][117]LogViewport: Scene viewport resized to 1523x528, mode Windowed.
+[2024.03.03-08.32.57:747][118]LogViewport: Scene viewport resized to 1523x547, mode Windowed.
+[2024.03.03-08.32.57:792][119]LogViewport: Scene viewport resized to 1523x569, mode Windowed.
+[2024.03.03-08.32.57:840][120]LogViewport: Scene viewport resized to 1523x583, mode Windowed.
+[2024.03.03-08.32.57:887][121]LogViewport: Scene viewport resized to 1523x592, mode Windowed.
+[2024.03.03-08.32.57:936][122]LogViewport: Scene viewport resized to 1523x597, mode Windowed.
+[2024.03.03-08.33.04:176][366]LogViewport: Scene viewport resized to 1523x607, mode Windowed.
+[2024.03.03-08.33.04:253][367]LogViewport: Scene viewport resized to 1523x626, mode Windowed.
+[2024.03.03-08.33.04:310][368]LogViewport: Scene viewport resized to 1523x628, mode Windowed.
+[2024.03.03-08.33.04:441][373]LogViewport: Scene viewport resized to 1523x627, mode Windowed.
+[2024.03.03-08.33.04:515][374]LogViewport: Scene viewport resized to 1523x611, mode Windowed.
+[2024.03.03-08.33.04:571][375]LogViewport: Scene viewport resized to 1523x600, mode Windowed.
+[2024.03.03-08.33.04:625][376]LogViewport: Scene viewport resized to 1523x599, mode Windowed.
+[2024.03.03-08.33.07:002][469]LogViewport: Scene viewport resized to 1523x590, mode Windowed.
+[2024.03.03-08.33.07:076][470]LogViewport: Scene viewport resized to 1523x555, mode Windowed.
+[2024.03.03-08.33.07:131][471]LogViewport: Scene viewport resized to 1523x539, mode Windowed.
+[2024.03.03-08.33.07:181][472]LogViewport: Scene viewport resized to 1523x533, mode Windowed.
+[2024.03.03-08.33.07:237][473]LogViewport: Scene viewport resized to 1523x526, mode Windowed.
+[2024.03.03-08.33.07:288][474]LogViewport: Scene viewport resized to 1523x521, mode Windowed.
+[2024.03.03-08.33.07:343][475]LogViewport: Scene viewport resized to 1523x515, mode Windowed.
+[2024.03.03-08.33.18:495][904]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.33.18:495][904]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.33.18:499][904]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_0
+[2024.03.03-08.33.18:503][904]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_0
+[2024.03.03-08.33.18:516][904]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.03.03-08.33.20:624][979]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.33.20:624][979]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.33.20:630][979]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_2
+[2024.03.03-08.33.20:635][979]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_2
+[2024.03.03-08.33.31:818][419]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.03-08.35.31:994][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-08.35.32:138][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.03.03-08.35.32:239][393]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-08.35.32:240][393]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvl3335DA724F71AC9FD629FDAFBBBCD0A1.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-08.35.32:250][393]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.169
+[2024.03.03-08.35.32:263][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 267 ms (total: 2.45 sec)
+[2024.03.03-08.35.32:266][393]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-08.35.32:266][393]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-08.36.03:378][595]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.36.03:378][595]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.36.03:383][595]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_4
+[2024.03.03-08.36.03:386][595]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_4
+[2024.03.03-08.36.06:851][724]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.36.06:851][724]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.36.06:856][724]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_6
+[2024.03.03-08.36.06:861][724]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_6
+[2024.03.03-08.36.38:288][871]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.03-08.37.11:299][333]Cmd: TRANSACTION UNDO
+[2024.03.03-08.37.11:300][333]LogEditorTransaction: Undo Move Elements
+[2024.03.03-08.37.22:164][713]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.37.22:164][713]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.37.22:168][713]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_8
+[2024.03.03-08.37.22:172][713]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_8
+[2024.03.03-08.37.27:448][893]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.37.27:448][893]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.37.27:453][893]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_10
+[2024.03.03-08.37.27:459][893]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_10
+[2024.03.03-08.37.55:389][838]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.03-08.38.14:943][585]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.38.14:943][585]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.38.14:950][585]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_12
+[2024.03.03-08.38.14:955][585]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_12
+[2024.03.03-08.38.16:574][634]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.38.16:574][634]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.38.16:581][634]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_14
+[2024.03.03-08.38.16:586][634]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_14
+[2024.03.03-08.40.36:696][309]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.03-08.41.37:702][705]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.41.37:702][705]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.41.37:707][705]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_16
+[2024.03.03-08.41.37:713][705]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_16
+[2024.03.03-08.41.42:790][901]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.41.42:790][901]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.41.42:796][901]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_18
+[2024.03.03-08.41.42:800][901]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_18
+[2024.03.03-08.42.37:761][947]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.42.37:762][947]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.42.37:767][947]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_20
+[2024.03.03-08.42.37:771][947]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_20
+[2024.03.03-08.42.38:935][985]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.42.38:935][985]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.42.38:941][985]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_22
+[2024.03.03-08.42.38:946][985]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_22
+[2024.03.03-08.42.52:810][533]Cmd: TRANSACTION UNDO
+[2024.03.03-08.42.52:810][533]LogEditorTransaction: Undo Move Elements
+[2024.03.03-08.42.53:418][546]Cmd: TRANSACTION UNDO
+[2024.03.03-08.42.53:419][546]LogEditorTransaction: Undo Rotate Elements
+[2024.03.03-08.43.58:489][147]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.43.58:489][147]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.43.58:491][147]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_24
+[2024.03.03-08.43.58:495][147]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_24
+[2024.03.03-08.44.00:129][200]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.44.00:129][200]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.44.00:134][200]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_26
+[2024.03.03-08.44.00:139][200]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_26
+[2024.03.03-08.44.19:065][929]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-08.44.19:258][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.03.03-08.44.19:364][929]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-08.44.19:366][929]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvl4AB752BB4B789DDE1F58AB9F67C4A87F.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-08.44.19:375][929]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.217
+[2024.03.03-08.44.19:385][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 321 ms (total: 2.77 sec)
+[2024.03.03-08.44.19:390][929]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-08.44.19:390][929]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-08.44.34:742][546]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.44.34:742][546]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.44.34:745][546]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_28
+[2024.03.03-08.44.34:750][546]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_28
+[2024.03.03-08.44.36:857][615]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.44.36:858][615]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.44.36:865][615]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_30
+[2024.03.03-08.44.36:869][615]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_30
+[2024.03.03-08.44.50:732][212]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.03-08.45.53:418][587]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.45.53:418][587]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.45.53:424][587]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_32
+[2024.03.03-08.45.53:428][587]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_32
+[2024.03.03-08.46.00:079][829]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.46.00:079][829]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.46.00:085][829]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_34
+[2024.03.03-08.46.00:090][829]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_34
+[2024.03.03-08.46.00:837][857]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.03-08.46.13:525][407]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.03-08.47.08:867][501]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.47.08:867][501]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.47.08:871][501]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_35
+[2024.03.03-08.47.08:875][501]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_35
+[2024.03.03-08.47.11:132][573]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.47.11:132][573]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-08.47.11:137][573]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_36
+[2024.03.03-08.47.11:142][573]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_36
+[2024.03.03-08.47.36:715][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-08.47.36:888][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.03.03-08.47.37:005][569]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-08.47.37:006][569]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvlF92F3DF04E688020684A1E9836E9E7BA.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-08.47.37:019][569]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.207
+[2024.03.03-08.47.37:031][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 316 ms (total: 3.08 sec)
+[2024.03.03-08.47.37:036][569]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-08.47.37:036][569]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
