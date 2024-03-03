@@ -1640,3 +1640,97 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.03-09.23.05:392][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 228 ms (total: 2.59 sec)
 [2024.03.03-09.23.05:398][870]AssetCheck: New page: Asset Save: Whitebox_lvl
 [2024.03.03-09.23.05:398][870]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-09.23.33:682][303]LogViewport: Scene viewport resized to 1523x524, mode Windowed.
+[2024.03.03-09.23.33:710][304]LogViewport: Scene viewport resized to 1523x541, mode Windowed.
+[2024.03.03-09.23.33:787][305]LogViewport: Scene viewport resized to 1523x583, mode Windowed.
+[2024.03.03-09.23.33:861][306]LogViewport: Scene viewport resized to 1523x600, mode Windowed.
+[2024.03.03-09.23.33:933][307]LogViewport: Scene viewport resized to 1523x605, mode Windowed.
+[2024.03.03-09.23.34:004][308]LogViewport: Scene viewport resized to 1523x620, mode Windowed.
+[2024.03.03-09.23.34:070][309]LogViewport: Scene viewport resized to 1523x644, mode Windowed.
+[2024.03.03-09.23.34:153][310]LogViewport: Scene viewport resized to 1523x672, mode Windowed.
+[2024.03.03-09.23.34:235][311]LogViewport: Scene viewport resized to 1523x706, mode Windowed.
+[2024.03.03-09.23.34:337][312]LogViewport: Scene viewport resized to 1523x708, mode Windowed.
+[2024.03.03-09.23.47:187][695]LogViewport: Scene viewport resized to 1523x701, mode Windowed.
+[2024.03.03-09.23.47:214][696]LogViewport: Scene viewport resized to 1523x688, mode Windowed.
+[2024.03.03-09.23.47:287][697]LogViewport: Scene viewport resized to 1523x612, mode Windowed.
+[2024.03.03-09.23.47:353][698]LogViewport: Scene viewport resized to 1523x553, mode Windowed.
+[2024.03.03-09.23.47:419][699]LogViewport: Scene viewport resized to 1523x518, mode Windowed.
+[2024.03.03-09.23.47:480][700]LogViewport: Scene viewport resized to 1523x490, mode Windowed.
+[2024.03.03-09.23.47:549][701]LogViewport: Scene viewport resized to 1523x449, mode Windowed.
+[2024.03.03-09.23.47:619][702]LogViewport: Scene viewport resized to 1523x433, mode Windowed.
+[2024.03.03-09.23.47:680][703]LogViewport: Scene viewport resized to 1523x426, mode Windowed.
+[2024.03.03-09.23.47:737][704]LogViewport: Scene viewport resized to 1523x414, mode Windowed.
+[2024.03.03-09.23.47:799][705]LogViewport: Scene viewport resized to 1523x407, mode Windowed.
+[2024.03.03-09.24.02:419][145]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.24.02:419][145]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.24.02:424][145]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_0
+[2024.03.03-09.24.02:427][145]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_0
+[2024.03.03-09.24.02:437][145]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.03.03-09.24.05:151][235]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.24.05:151][235]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.24.05:157][235]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_2
+[2024.03.03-09.24.05:162][235]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_2
+[2024.03.03-09.24.06:140][264]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.03-09.24.07:671][310]LogViewport: Scene viewport resized to 1523x416, mode Windowed.
+[2024.03.03-09.24.07:696][311]LogViewport: Scene viewport resized to 1523x427, mode Windowed.
+[2024.03.03-09.24.07:770][312]LogViewport: Scene viewport resized to 1523x466, mode Windowed.
+[2024.03.03-09.24.07:834][313]LogViewport: Scene viewport resized to 1523x515, mode Windowed.
+[2024.03.03-09.24.07:904][314]LogViewport: Scene viewport resized to 1523x553, mode Windowed.
+[2024.03.03-09.24.07:970][315]LogViewport: Scene viewport resized to 1523x584, mode Windowed.
+[2024.03.03-09.24.08:035][316]LogViewport: Scene viewport resized to 1523x634, mode Windowed.
+[2024.03.03-09.24.08:099][317]LogViewport: Scene viewport resized to 1523x674, mode Windowed.
+[2024.03.03-09.24.08:168][318]LogViewport: Scene viewport resized to 1523x699, mode Windowed.
+[2024.03.03-09.24.08:275][321]LogViewport: Scene viewport resized to 1523x701, mode Windowed.
+[2024.03.03-09.24.08:489][331]LogViewport: Scene viewport resized to 1523x700, mode Windowed.
+[2024.03.03-09.24.08:698][342]LogViewport: Scene viewport resized to 1523x697, mode Windowed.
+[2024.03.03-09.24.08:722][343]LogViewport: Scene viewport resized to 1523x687, mode Windowed.
+[2024.03.03-09.24.08:787][344]LogViewport: Scene viewport resized to 1523x676, mode Windowed.
+[2024.03.03-09.24.08:848][345]LogViewport: Scene viewport resized to 1523x656, mode Windowed.
+[2024.03.03-09.24.08:909][346]LogViewport: Scene viewport resized to 1523x642, mode Windowed.
+[2024.03.03-09.24.08:970][347]LogViewport: Scene viewport resized to 1523x626, mode Windowed.
+[2024.03.03-09.24.09:051][349]LogViewport: Scene viewport resized to 1523x623, mode Windowed.
+[2024.03.03-09.24.09:098][350]LogViewport: Scene viewport resized to 1523x615, mode Windowed.
+[2024.03.03-09.24.09:167][351]LogViewport: Scene viewport resized to 1523x609, mode Windowed.
+[2024.03.03-09.24.09:218][352]LogViewport: Scene viewport resized to 1523x606, mode Windowed.
+[2024.03.03-09.24.09:281][353]LogViewport: Scene viewport resized to 1523x603, mode Windowed.
+[2024.03.03-09.24.41:606][282]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.24.41:606][282]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.24.41:610][282]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_4
+[2024.03.03-09.24.41:615][282]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_4
+[2024.03.03-09.24.43:686][344]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.24.43:686][344]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.24.43:691][344]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_6
+[2024.03.03-09.24.43:695][344]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_6
+[2024.03.03-09.25.03:765][909]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.03-09.25.35:495][810]Cmd: TRANSACTION UNDO
+[2024.03.03-09.25.35:495][810]LogEditorTransaction: Undo Scale Elements
+[2024.03.03-09.25.52:493][295]Cmd: TRANSACTION UNDO
+[2024.03.03-09.25.52:493][295]LogEditorTransaction: Undo Scale Elements
+[2024.03.03-09.25.59:504][500]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.03-09.26.38:121][652]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.03-09.27.43:147][542]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.27.43:147][542]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.27.43:151][542]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_8
+[2024.03.03-09.27.43:155][542]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_8
+[2024.03.03-09.27.44:878][595]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.27.44:878][595]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.27.44:883][595]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_10
+[2024.03.03-09.27.44:886][595]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_10
+[2024.03.03-09.29.19:878][312]Cmd: TRANSACTION UNDO
+[2024.03.03-09.29.19:878][312]LogEditorTransaction: Undo Move Elements
+[2024.03.03-09.30.06:682][560]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.30.06:682][560]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.30.06:686][560]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_12
+[2024.03.03-09.30.06:690][560]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_12
+[2024.03.03-09.30.08:733][623]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.30.08:733][623]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.30.08:741][623]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_14
+[2024.03.03-09.30.08:745][623]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_14
+[2024.03.03-09.30.51:707][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-09.30.51:846][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.03.03-09.30.51:943][781]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-09.30.51:943][781]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvl366C0254492BEBC7E3D0D99328AE9D93.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-09.30.51:951][781]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.167
+[2024.03.03-09.30.51:962][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 254 ms (total: 2.84 sec)
+[2024.03.03-09.30.51:966][781]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-09.30.51:966][781]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
