@@ -3375,3 +3375,11 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.03-10.51.27:645][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 301 ms (total: 13.7 sec)
 [2024.03.03-10.51.27:651][ 39]AssetCheck: New page: Asset Save: Whitebox_lvl
 [2024.03.03-10.51.27:651][ 39]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-10.54.32:609][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.54.32:757][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.03.03-10.54.32:872][904]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-10.54.32:872][904]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvlEF83BF7349B0FBD81CB9DBA31B4476D4.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-10.54.32:881][904]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.176
+[2024.03.03-10.54.32:891][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 282 ms (total: 14.0 sec)
+[2024.03.03-10.54.32:896][904]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-10.54.32:896][904]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
