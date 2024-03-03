@@ -3134,3 +3134,244 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.03-10.34.26:807][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 303 ms (total: 10.9 sec)
 [2024.03.03-10.34.26:809][715]AssetCheck: New page: Asset Save: Whitebox_lvl
 [2024.03.03-10.34.26:809][715]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-10.35.43:870][490]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.35.43:871][490]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.35.43:874][490]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_14
+[2024.03.03-10.35.43:875][490]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_14
+[2024.03.03-10.35.44:689][519]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.35.44:689][519]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.35.44:694][519]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_15
+[2024.03.03-10.35.44:696][519]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_15
+[2024.03.03-10.36.33:588][385]Cmd: DUPLICATE
+[2024.03.03-10.36.33:588][385]Cmd: ACTOR DUPLICATE
+[2024.03.03-10.37.40:983][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.37.41:143][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2024.03.03-10.37.41:270][805]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-10.37.41:270][805]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvlFE222218429673456F4CEDB34FA6EA10.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-10.37.41:283][805]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.201
+[2024.03.03-10.37.41:311][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 328 ms (total: 11.2 sec)
+[2024.03.03-10.37.41:315][805]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-10.37.41:315][805]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-10.38.01:702][457]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.38.01:702][457]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.38.01:705][457]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_16
+[2024.03.03-10.38.01:706][457]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_16
+[2024.03.03-10.38.04:115][532]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.38.04:115][532]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.38.04:117][532]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_17
+[2024.03.03-10.38.04:119][532]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_17
+[2024.03.03-10.38.05:204][563]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.38.05:204][563]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.38.05:207][563]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_18
+[2024.03.03-10.38.05:209][563]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_18
+[2024.03.03-10.38.06:611][604]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.38.06:611][604]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.38.06:614][604]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_19
+[2024.03.03-10.38.06:616][604]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_19
+[2024.03.03-10.38.51:510][ 98]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF/BP_leaf.BP_leaf_C
+[2024.03.03-10.38.51:510][ 98]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF/BP_leaf.BP_leaf_C
+[2024.03.03-10.38.51:512][ 98]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF/BP_leaf.BP_leaf as actor: BP_leaf_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_leaf_C_45
+[2024.03.03-10.38.51:514][ 98]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF/BP_leaf.BP_leaf as actor: BP_leaf_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_leaf_C_45
+[2024.03.03-10.38.53:202][158]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF/BP_leaf.BP_leaf_C
+[2024.03.03-10.38.53:202][158]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF/BP_leaf.BP_leaf_C
+[2024.03.03-10.38.53:205][158]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF/BP_leaf.BP_leaf as actor: BP_leaf_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_leaf_C_46
+[2024.03.03-10.38.53:207][158]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF/BP_leaf.BP_leaf as actor: BP_leaf_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_leaf_C_46
+[2024.03.03-10.39.20:351][154]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.03-10.40.32:659][922]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.40.32:659][922]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.40.32:662][922]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_20
+[2024.03.03-10.40.32:664][922]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_20
+[2024.03.03-10.40.34:168][970]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.40.34:168][970]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.40.34:171][970]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_21
+[2024.03.03-10.40.34:173][970]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_21
+[2024.03.03-10.41.03:910][ 33]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF/BP_leaf.BP_leaf_C
+[2024.03.03-10.41.03:910][ 33]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF/BP_leaf.BP_leaf_C
+[2024.03.03-10.41.03:912][ 33]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF/BP_leaf.BP_leaf as actor: BP_leaf_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_leaf_C_47
+[2024.03.03-10.41.03:915][ 33]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF/BP_leaf.BP_leaf as actor: BP_leaf_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_leaf_C_47
+[2024.03.03-10.41.04:800][ 61]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF/BP_leaf.BP_leaf_C
+[2024.03.03-10.41.04:800][ 61]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF/BP_leaf.BP_leaf_C
+[2024.03.03-10.41.04:803][ 61]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF/BP_leaf.BP_leaf as actor: BP_leaf_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_leaf_C_48
+[2024.03.03-10.41.04:804][ 61]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF/BP_leaf.BP_leaf as actor: BP_leaf_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_leaf_C_48
+[2024.03.03-10.41.25:225][800]LogViewport: Scene viewport resized to 1523x545, mode Windowed.
+[2024.03.03-10.41.25:293][801]LogViewport: Scene viewport resized to 1523x583, mode Windowed.
+[2024.03.03-10.41.25:368][802]LogViewport: Scene viewport resized to 1523x614, mode Windowed.
+[2024.03.03-10.41.25:441][803]LogViewport: Scene viewport resized to 1523x628, mode Windowed.
+[2024.03.03-10.41.25:508][804]LogViewport: Scene viewport resized to 1523x658, mode Windowed.
+[2024.03.03-10.41.25:577][805]LogViewport: Scene viewport resized to 1523x697, mode Windowed.
+[2024.03.03-10.41.25:647][806]LogViewport: Scene viewport resized to 1523x712, mode Windowed.
+[2024.03.03-10.41.25:716][807]LogViewport: Scene viewport resized to 1523x714, mode Windowed.
+[2024.03.03-10.42.49:002][654]Cmd: DUPLICATE
+[2024.03.03-10.42.49:002][654]Cmd: ACTOR DUPLICATE
+[2024.03.03-10.43.29:710][989]Cmd: DUPLICATE
+[2024.03.03-10.43.29:710][989]Cmd: ACTOR DUPLICATE
+[2024.03.03-10.43.57:921][973]Cmd: TRANSACTION UNDO
+[2024.03.03-10.43.57:921][973]LogEditorTransaction: Undo Move Elements
+[2024.03.03-10.44.26:226][925]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.44.26:401][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2024.03.03-10.44.26:516][925]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-10.44.26:517][925]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvlED15739241C78C5F62A28EAB62EAAFC9.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-10.44.26:526][925]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.191
+[2024.03.03-10.44.26:536][925]LogFileHelpers: InternalPromptForCheckoutAndSave took 309 ms (total: 11.5 sec)
+[2024.03.03-10.44.26:540][925]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-10.44.26:540][925]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-10.45.11:516][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.45.11:685][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.03.03-10.45.11:817][251]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-10.45.11:818][251]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvl2ACB686847696B75FE6B13B5A248067D.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-10.45.11:829][251]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.201
+[2024.03.03-10.45.11:858][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 343 ms (total: 11.9 sec)
+[2024.03.03-10.45.11:863][251]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-10.45.11:863][251]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-10.45.43:811][308]LogViewport: Scene viewport resized to 1523x698, mode Windowed.
+[2024.03.03-10.45.43:889][309]LogViewport: Scene viewport resized to 1523x626, mode Windowed.
+[2024.03.03-10.45.43:965][310]LogViewport: Scene viewport resized to 1523x563, mode Windowed.
+[2024.03.03-10.45.44:033][311]LogViewport: Scene viewport resized to 1523x526, mode Windowed.
+[2024.03.03-10.45.44:107][312]LogViewport: Scene viewport resized to 1523x514, mode Windowed.
+[2024.03.03-10.45.44:213][315]LogViewport: Scene viewport resized to 1523x510, mode Windowed.
+[2024.03.03-10.45.44:320][317]LogViewport: Scene viewport resized to 1523x506, mode Windowed.
+[2024.03.03-10.45.44:396][318]LogViewport: Scene viewport resized to 1523x505, mode Windowed.
+[2024.03.03-10.45.44:457][319]LogViewport: Scene viewport resized to 1523x501, mode Windowed.
+[2024.03.03-10.45.44:580][323]LogViewport: Scene viewport resized to 1523x500, mode Windowed.
+[2024.03.03-10.45.59:393][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.45.59:541][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.03.03-10.45.59:662][770]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-10.45.59:663][770]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvl1F22304745E69AA8695F30A1570AD40C.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-10.45.59:675][770]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.185
+[2024.03.03-10.45.59:701][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 307 ms (total: 12.2 sec)
+[2024.03.03-10.45.59:705][770]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-10.45.59:705][770]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-10.46.06:395][976]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-10.46.06:395][976]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-10.46.06:399][976]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_39
+[2024.03.03-10.46.06:402][976]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_39
+[2024.03.03-10.46.09:104][ 63]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-10.46.09:104][ 63]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-10.46.09:110][ 63]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_40
+[2024.03.03-10.46.09:115][ 63]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_40
+[2024.03.03-10.47.03:990][830]Cmd: TRANSACTION UNDO
+[2024.03.03-10.47.03:990][830]LogEditorTransaction: Undo Move Elements
+[2024.03.03-10.47.21:572][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.47.21:737][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2024.03.03-10.47.21:855][396]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-10.47.21:856][396]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvl53A5B6954D2CF58429CEC1A1D0ECE29F.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-10.47.21:867][396]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.190
+[2024.03.03-10.47.21:892][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 319 ms (total: 12.5 sec)
+[2024.03.03-10.47.21:897][396]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-10.47.21:897][396]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-10.47.30:612][675]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-10.47.30:612][675]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-10.47.30:616][675]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_41
+[2024.03.03-10.47.30:620][675]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_41
+[2024.03.03-10.47.32:300][720]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-10.47.32:300][720]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-10.47.32:306][720]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_42
+[2024.03.03-10.47.32:311][720]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_42
+[2024.03.03-10.48.09:064][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.48.09:221][897]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2024.03.03-10.48.09:339][897]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-10.48.09:340][897]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvl4FE97DA243D8800F58C3628752ACE214.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-10.48.09:354][897]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.191
+[2024.03.03-10.48.09:381][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 317 ms (total: 12.8 sec)
+[2024.03.03-10.48.09:386][897]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-10.48.09:386][897]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-10.48.12:928][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.03.03-10.48.14:139][ 11]LogSlate: Window 'Save Content' being destroyed
+[2024.03.03-10.48.14:153][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.48.14:267][ 11]LogSavePackage: Moving output files for package: /Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_BaseColor
+[2024.03.03-10.48.14:267][ 11]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Leaf_Chilly_2024_lambert1_BaseCo016ADD614D2875FA5D1BF9B2F20F6515.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_BaseColor.uasset'
+[2024.03.03-10.48.14:297][ 11]LogSavePackage: Moving output files for package: /Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_BaseColor
+[2024.03.03-10.48.14:297][ 11]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Leaf_Chilly_2024_lambert1_BaseCo5DC38FDC40887E5C82C0B09CE9F690B5.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_BaseColor.uasset'
+[2024.03.03-10.48.14:315][ 11]LogSavePackage: Moving output files for package: /Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_Normal
+[2024.03.03-10.48.14:316][ 11]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Leaf_Chilly_2024_lambert1_NormalBA79B35A4C6D39312D1892810C4EBB8F.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_Normal.uasset'
+[2024.03.03-10.48.14:335][ 11]LogSavePackage: Moving output files for package: /Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_Normal
+[2024.03.03-10.48.14:335][ 11]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Leaf_Chilly_2024_lambert1_Normal543669B845DD672300EAB9A9CD534C4F.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_Normal.uasset'
+[2024.03.03-10.48.14:352][ 11]LogSavePackage: Moving output files for package: /Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic
+[2024.03.03-10.48.14:352][ 11]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Leaf_Chilly_2024_lambert1_Occlus44FB037F45F60D85F699859DB2646B38.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic.uasset'
+[2024.03.03-10.48.14:370][ 11]LogSavePackage: Moving output files for package: /Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic
+[2024.03.03-10.48.14:370][ 11]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Leaf_Chilly_2024_lambert1_OcclusAB20D3334F48AD9B53DB89910D5DED56.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic.uasset'
+[2024.03.03-10.48.14:384][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave took 230 ms (total: 13.1 sec)
+[2024.03.03-10.48.14:387][ 11]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-10.48.14:387][ 11]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_BaseColor.Leaf_Chilly_2024_lambert1_BaseColor
+[2024.03.03-10.48.14:387][ 11]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_BaseColor.Leaf_Chilly_2024_lambert1_BaseColor
+[2024.03.03-10.48.14:387][ 11]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_Normal.Leaf_Chilly_2024_lambert1_Normal
+[2024.03.03-10.48.14:387][ 11]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_Normal.Leaf_Chilly_2024_lambert1_Normal
+[2024.03.03-10.48.14:387][ 11]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic.Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic
+[2024.03.03-10.48.14:387][ 11]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic.Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic
+[2024.03.03-10.49.23:790][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.49.23:949][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.03.03-10.49.24:072][251]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-10.49.24:072][251]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvl1F9D4AFF4CE871087709C386138A3B5D.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-10.49.24:082][251]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.191
+[2024.03.03-10.49.24:108][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 323 ms (total: 13.4 sec)
+[2024.03.03-10.49.24:112][251]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-10.49.24:112][251]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-10.49.55:365][306]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.03-10.49.55:381][306]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.03-10.49.55:382][306]LogPlayLevel: [PlayLevel] Compiling BP_leaf before play...
+[2024.03.03-10.49.55:484][306]LogPlayLevel: [PlayLevel] Compiling Whitebox_lvl before play...
+[2024.03.03-10.49.55:545][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.03.03-10.49.55:547][306]LogPlayLevel: PlayLevel: Blueprint regeneration took 166 ms (2 blueprints)
+[2024.03.03-10.49.55:547][306]PIE: New page: PIE session: Whitebox_lvl (Mar 2, 2024, 10:49:55 PM)
+[2024.03.03-10.49.55:547][306]LogPlayLevel: Creating play world package: /Game/OurStuff/UEDPIE_0_Whitebox_lvl
+[2024.03.03-10.49.55:577][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029761s)
+[2024.03.03-10.49.55:577][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurStuff/Whitebox_lvl.Whitebox_lvl to /Game/OurStuff/UEDPIE_0_Whitebox_lvl.Whitebox_lvl (0.029819s)
+[2024.03.03-10.49.55:593][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.03.03-10.49.55:593][306]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-10.49.55:594][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-10.49.55:594][306]LogAIModule: Creating AISystem for world Whitebox_lvl
+[2024.03.03-10.49.55:595][306]LogPlayLevel: PIE: World Init took: (0.001446s)
+[2024.03.03-10.49.55:595][306]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.03.03-10.49.55:595][306]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.03-10.49.55:595][306]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.03-10.49.55:595][306]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.03-10.49.55:595][306]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.03-10.49.55:595][306]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.03-10.49.55:595][306]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.03-10.49.55:595][306]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.03-10.49.55:595][306]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.03-10.49.55:596][306]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.03-10.49.55:596][306]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.03-10.49.55:596][306]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.03-10.49.55:599][306]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.03-10.49.55:635][306]LogAudioMixer: Display: Using Audio Hardware Device DELL U2417H (NVIDIA High Definition Audio)
+[2024.03.03-10.49.55:636][306]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.03-10.49.55:636][306]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.03-10.49.55:636][306]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.03-10.49.55:637][306]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.03.03-10.49.55:637][306]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.03.03-10.49.55:640][306]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.03.03-10.49.55:640][306]LogInit: FAudioDevice initialized with ID 6.
+[2024.03.03-10.49.55:640][306]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.03.03-10.49.55:640][306]LogAudio: Display: Audio Device (ID: 6) registered with world 'Whitebox_lvl'.
+[2024.03.03-10.49.55:640][306]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.03.03-10.49.55:643][306]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.03-10.49.55:662][306]LogWorld: Bringing World /Game/OurStuff/UEDPIE_0_Whitebox_lvl.Whitebox_lvl up for play (max tick rate 60) at 2024.03.03-04.49.55
+[2024.03.03-10.49.55:663][306]LogWorld: Bringing up level for play took: 0.018933
+[2024.03.03-10.49.55:687][306]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.03.03-10.49.55:693][306]PIE: Server logged in
+[2024.03.03-10.49.55:694][306]PIE: Play in editor total start time 0.313 seconds.
+[2024.03.03-10.50.28:180][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-10.50.28:180][178]LogWorld: BeginTearingDown for /Game/OurStuff/UEDPIE_0_Whitebox_lvl
+[2024.03.03-10.50.28:180][178]LogWorld: UWorld::CleanupWorld for Whitebox_lvl, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-10.50.28:182][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-10.50.28:224][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.03-10.50.28:231][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-10.50.28:250][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-10.50.28:255][178]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.03.03-10.50.28:255][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.03.03-10.50.28:257][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.03.03-10.50.28:271][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.03.03-10.50.28:345][179]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.03.03-10.50.52:930][982]Cmd: TRANSACTION UNDO
+[2024.03.03-10.50.52:931][982]LogEditorTransaction: Undo Rotate Elements
+[2024.03.03-10.50.57:018][ 93]Cmd: TRANSACTION UNDO
+[2024.03.03-10.50.57:018][ 93]LogEditorTransaction: Undo Move Elements
+[2024.03.03-10.51.27:345][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.51.27:499][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2024.03.03-10.51.27:622][ 39]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-10.51.27:622][ 39]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvl1A917A914F4B47A2F44AFD91535ED721.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-10.51.27:633][ 39]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.190
+[2024.03.03-10.51.27:645][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 301 ms (total: 13.7 sec)
+[2024.03.03-10.51.27:651][ 39]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-10.51.27:651][ 39]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
