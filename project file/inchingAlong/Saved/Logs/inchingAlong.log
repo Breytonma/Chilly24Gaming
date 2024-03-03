@@ -1734,3 +1734,154 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.03-09.30.51:962][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 254 ms (total: 2.84 sec)
 [2024.03.03-09.30.51:966][781]AssetCheck: New page: Asset Save: Whitebox_lvl
 [2024.03.03-09.30.51:966][781]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-09.32.08:696][249]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.32.08:696][249]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.32.08:701][249]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_16
+[2024.03.03-09.32.08:704][249]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_16
+[2024.03.03-09.32.10:753][309]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.32.10:753][309]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.32.10:758][309]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_18
+[2024.03.03-09.32.10:764][309]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_18
+[2024.03.03-09.32.17:239][488]Cmd: TRANSACTION UNDO
+[2024.03.03-09.32.17:239][488]LogEditorTransaction: Undo Rotate Elements
+[2024.03.03-09.32.54:629][529]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.32.54:629][529]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.32.54:634][529]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_20
+[2024.03.03-09.32.54:638][529]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_20
+[2024.03.03-09.32.58:926][659]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.32.58:926][659]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.32.58:933][659]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_22
+[2024.03.03-09.32.58:936][659]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_22
+[2024.03.03-09.33.20:693][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-09.33.20:834][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.03.03-09.33.20:934][262]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-09.33.20:935][262]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvlF94BDD5149B8205A325E5987CA58867E.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-09.33.20:947][262]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.167
+[2024.03.03-09.33.20:956][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 263 ms (total: 3.11 sec)
+[2024.03.03-09.33.20:962][262]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-09.33.20:962][262]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-09.33.23:952][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.03.03-09.33.25:217][349]LogSlate: Window 'Save Content' being destroyed
+[2024.03.03-09.33.25:233][349]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: ================================================
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: Total job queries 279, among them cache hits 211 (75.63%)
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: Tracking 68 distinct input hashes that result in 46 distinct outputs (67.65%)
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: RAM used: 1.78 MiB of 819.20 MiB budget. Usage: 0.22%
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: Shaders Compiled: 24
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: Jobs assigned 24, completed 24 (100%)
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: Average time worker was idle: 5.21 s
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: Time job spent in pending queue: average 0.38 s, longest 1.25 s
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: Job execution time: average 0.88 s, max 1.53 s
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: Job life time (pending + execution): average 1.26 s, max 1.98
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: Shader code size: average 67.847 KiB, min 35.938 KiB, max 73.289 KiB
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.75 s
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: Average processing rate: 4.18 jobs/sec
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: Total thread time: 17.041 s
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: Total thread preprocess time: 1.408 s
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: Percentage time preprocessing: 8.26%
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: Effective parallelization: 2.97 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.84 sec, max 1.11 sec, min 0.70 sec)
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.84 sec, max 0.84 sec, min 0.84 sec)
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.86% of total time (compiled    3 times, average 0.84 sec, max 1.11 sec, min 0.70 sec)
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.82% of total time (compiled    3 times, average 0.67 sec, max 0.89 sec, min 0.56 sec)
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 5.29% of total time (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy - 5.27% of total time (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 4.95% of total time (compiled    1 times, average 0.84 sec, max 0.84 sec, min 0.84 sec)
+[2024.03.03-09.33.25:336][349]LogShaderCompilers: Display: ================================================
+[2024.03.03-09.33.25:382][349]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Terrarium/Glass
+[2024.03.03-09.33.25:383][349]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Glass5F92830348DA4705A8DCD794FCB8220E.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Terrarium/Glass.uasset'
+[2024.03.03-09.33.25:400][349]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Terrarium/Terrarium_Chilly_2024
+[2024.03.03-09.33.25:401][349]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Terrarium_Chilly_202416FFEBB74E85709C3D777088CE4E662E.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Terrarium/Terrarium_Chilly_2024.uasset'
+[2024.03.03-09.33.25:427][349]LogSavePackage: Moving output files for package: /Game/OurStuff/materials/Terrarium/Terrarium_Chilly_2024_Fixed_Glass_BaseColor
+[2024.03.03-09.33.25:427][349]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Terrarium_Chilly_2024_Fixed_Glas696D8A1B4DBA781736BB2AB250340A4C.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/materials/Terrarium/Terrarium_Chilly_2024_Fixed_Glass_BaseColor.uasset'
+[2024.03.03-09.33.25:448][349]LogSavePackage: Moving output files for package: /Game/OurStuff/materials/Terrarium/Terrarium_Chilly_2024_Fixed_Glass_Normal
+[2024.03.03-09.33.25:448][349]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Terrarium_Chilly_2024_Fixed_Glas0F36B1B047C4DB2C1E1B92BBFF08F30F.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/materials/Terrarium/Terrarium_Chilly_2024_Fixed_Glass_Normal.uasset'
+[2024.03.03-09.33.25:477][349]LogSavePackage: Moving output files for package: /Game/OurStuff/materials/Terrarium/Terrarium_Chilly_2024_Fixed_Glass_OcclusionRoughnessMetallic
+[2024.03.03-09.33.25:478][349]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Terrarium_Chilly_2024_Fixed_Glas874A2245438FD753AD806CB1873B580C.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/materials/Terrarium/Terrarium_Chilly_2024_Fixed_Glass_OcclusionRoughnessMetallic.uasset'
+[2024.03.03-09.33.25:496][349]LogFileHelpers: InternalPromptForCheckoutAndSave took 262 ms (total: 3.37 sec)
+[2024.03.03-09.33.25:501][349]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-09.33.25:501][349]LogContentValidation: Display: Validating /Script/Engine.Material /Game/OurStuff/ModelUploads/Terrarium/Glass.Glass
+[2024.03.03-09.33.25:501][349]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/Terrarium/Terrarium_Chilly_2024.Terrarium_Chilly_2024
+[2024.03.03-09.33.25:501][349]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/OurStuff/materials/Terrarium/Terrarium_Chilly_2024_Fixed_Glass_BaseColor.Terrarium_Chilly_2024_Fixed_Glass_BaseColor
+[2024.03.03-09.33.25:501][349]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/OurStuff/materials/Terrarium/Terrarium_Chilly_2024_Fixed_Glass_Normal.Terrarium_Chilly_2024_Fixed_Glass_Normal
+[2024.03.03-09.33.25:501][349]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/OurStuff/materials/Terrarium/Terrarium_Chilly_2024_Fixed_Glass_OcclusionRoughnessMetallic.Terrarium_Chilly_2024_Fixed_Glass_OcclusionRoughnessMetallic
+[2024.03.03-09.33.25:502][349]MaterialEditorStats: Base pass shader: 215 instructions
+[2024.03.03-09.33.25:502][349]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.03.03-09.33.25:502][349]MaterialEditorStats: Texture samplers: 4/16
+[2024.03.03-09.33.25:502][349]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.03.03-09.33.25:502][349]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.03.03-09.33.25:502][349]MaterialEditorStats: Shader Count: 20
+[2024.03.03-09.33.57:550][240]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.33.57:550][240]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.33.57:552][240]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_24
+[2024.03.03-09.33.57:557][240]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_24
+[2024.03.03-09.33.58:940][279]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.33.58:940][279]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.33.58:945][279]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_26
+[2024.03.03-09.33.58:948][279]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_26
+[2024.03.03-09.34.34:560][264]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-09.34.34:670][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.03.03-09.34.34:771][264]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-09.34.34:772][264]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvlF12A06654F573F73D8C71EA0D831A2F9.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-09.34.34:785][264]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.154
+[2024.03.03-09.34.34:793][264]LogFileHelpers: InternalPromptForCheckoutAndSave took 233 ms (total: 3.60 sec)
+[2024.03.03-09.34.34:798][264]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-09.34.34:798][264]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-09.34.50:838][700]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.34.50:838][700]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.34.50:841][700]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_28
+[2024.03.03-09.34.50:846][700]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_28
+[2024.03.03-09.34.53:876][794]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.34.53:876][794]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.34.53:881][794]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_30
+[2024.03.03-09.34.53:885][794]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_30
+[2024.03.03-09.35.21:976][547]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.35.21:976][547]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.35.21:980][547]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_32
+[2024.03.03-09.35.21:984][547]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_32
+[2024.03.03-09.35.23:350][578]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.35.23:350][578]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.35.23:354][578]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_34
+[2024.03.03-09.35.23:358][578]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_34
+[2024.03.03-09.35.55:547][431]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-09.35.55:680][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.03.03-09.35.55:789][431]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-09.35.55:791][431]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvl3437735F4CEEF40B09F678A29993478B.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-09.35.55:802][431]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.173
+[2024.03.03-09.35.55:810][431]LogFileHelpers: InternalPromptForCheckoutAndSave took 261 ms (total: 3.86 sec)
+[2024.03.03-09.35.55:815][431]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-09.35.55:815][431]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-09.36.16:904][978]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.36.16:904][978]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.36.16:908][978]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_35
+[2024.03.03-09.36.16:913][978]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_35
+[2024.03.03-09.36.18:336][ 17]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.36.18:336][ 17]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.36.18:343][ 17]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_36
+[2024.03.03-09.36.18:347][ 17]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_36
+[2024.03.03-09.36.19:680][ 52]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.03-09.36.57:570][ 50]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.36.57:570][ 50]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.36.57:573][ 50]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_37
+[2024.03.03-09.36.57:577][ 50]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_37
+[2024.03.03-09.37.01:408][157]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.37.01:408][157]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly_C
+[2024.03.03-09.37.01:416][157]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_38
+[2024.03.03-09.37.01:419][157]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/Lighting/BP_Firefly.BP_Firefly as actor: BP_Firefly_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Firefly_C_38
+[2024.03.03-09.37.02:477][184]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.03-09.37.36:255][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-09.37.36:378][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.03.03-09.37.36:484][ 94]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-09.37.36:485][ 94]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvl34E9D15244142B27037C47858FE61ED3.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-09.37.36:495][ 94]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.164
+[2024.03.03-09.37.36:502][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 248 ms (total: 4.11 sec)
+[2024.03.03-09.37.36:508][ 94]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-09.37.36:508][ 94]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
