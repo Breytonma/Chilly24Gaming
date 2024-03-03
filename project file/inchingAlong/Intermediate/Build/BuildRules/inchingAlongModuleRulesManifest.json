@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\bamro\\Documents\\School_Stuff\\VR class\\vrClassGithubFolder\\Chilly24Gaming\\project file\\inchingAlong\\Intermediate\\Source\\inchingAlong.Build.cs",
+		"C:\\Users\\bamro\\Documents\\School_Stuff\\VR class\\vrClassGithubFolder\\Chilly24Gaming\\project file\\inchingAlong\\Intermediate\\Source\\inchingAlong.Target.cs",
+		"C:\\Users\\bamro\\Documents\\School_Stuff\\VR class\\vrClassGithubFolder\\Chilly24Gaming\\project file\\inchingAlong\\Intermediate\\Source\\inchingAlongClient.Target.cs",
+		"C:\\Users\\bamro\\Documents\\School_Stuff\\VR class\\vrClassGithubFolder\\Chilly24Gaming\\project file\\inchingAlong\\Intermediate\\Source\\inchingAlongEditor.Target.cs",
+		"C:\\Users\\bamro\\Documents\\School_Stuff\\VR class\\vrClassGithubFolder\\Chilly24Gaming\\project file\\inchingAlong\\Intermediate\\Source\\inchingAlongServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

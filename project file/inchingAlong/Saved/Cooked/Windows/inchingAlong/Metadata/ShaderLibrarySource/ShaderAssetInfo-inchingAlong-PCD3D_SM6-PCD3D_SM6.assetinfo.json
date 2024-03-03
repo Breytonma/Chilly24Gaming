@@ -222,7 +222,10 @@
 				"/Game/OurStuff/ModelUploads/hangingPlats/hangerBroken",
 				"/Game/OurStuff/ModelUploads/lambert1",
 				"/Game/OurStuff/ModelUploads/lambert2",
+				"/Game/OurStuff/ModelUploads/Leaf",
 				"/Game/OurStuff/ModelUploads/LEAF/Leaf",
+				"/Game/OurStuff/ModelUploads/lever/lambert1",
+				"/Game/OurStuff/ModelUploads/lever/lambert3",
 				"/Game/OurStuff/ModelUploads/pedestal/pedestal",
 				"/Game/OurStuff/ModelUploads/pedestal/pedestalBroken",
 				"/Game/OurStuff/ModelUploads/rocks/rock",
@@ -246,12 +249,6 @@
 			"ShaderMapHash": "295E27370D68D6F64A9BFEC63B855D2678657E1D",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
-			]
-		},
-		{
-			"ShaderMapHash": "7DC98538CEC26C29F0A8F3F9ECEEF6DE49C074FB",
-			"Assets": [
-				"/HoudiniEngine/default_reference_static_mesh_material"
 			]
 		},
 		{
@@ -296,6 +293,13 @@
 			"ShaderMapHash": "9C8EC447B8F0ABFC783A30C5E81742A6F21D9A66",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F80680491131AEB044F6598CBCE8676204AB11CA",
+			"Assets": [
+				"/Game/OurStuff/materials/Isopod__1/MAT_isopodT",
+				"/Game/OurStuff/ModelUploads/Ramp/MAT_Ramp"
 			]
 		},
 		{
@@ -456,6 +460,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F38A9A748347E5800753FDE72C4BB1D04586246C",
+			"Assets": [
+				"/Game/OurStuff/materials/rock/spikyRock2/MAT_rock2"
+			]
+		},
+		{
 			"ShaderMapHash": "A4657E759045A7781BDFD5DB5C00547BEEC7A756",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
@@ -465,6 +475,12 @@
 			"ShaderMapHash": "C925CD757EDCBD1DC25BE5BCB8E07BD56739E1F2",
 			"Assets": [
 				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
+			]
+		},
+		{
+			"ShaderMapHash": "25005377019D3B735DD9A1978696A16D00D1E99F",
+			"Assets": [
+				"/Game/OurStuff/ModelUploads/Terrarium_Floor/lambert1"
 			]
 		},
 		{
@@ -540,12 +556,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "12AFE087A2ED209531A11C9330D0E9A046E32062",
-			"Assets": [
-				"/Game/OurStuff/materials/rock/spikyRock2/MAT_rock2"
-			]
-		},
-		{
 			"ShaderMapHash": "D55A75888F2CB7108BAC3520C22E9648DE8FDC21",
 			"Assets": [
 				"/Game/starterStuff/StarterContent/Materials/M_Rock_Marble_Polished"
@@ -594,9 +604,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "56A9FB8F75FDD67601421C47952D689760018F59",
+			"ShaderMapHash": "CD26118F48D4D971B08BF8EC049B9E9BC3329FDF",
 			"Assets": [
-				"/HoudiniEngine/houdini_default_material"
+				"/Game/OurStuff/materials/firefly/MAT_firefly"
 			]
 		},
 		{
@@ -663,28 +673,20 @@
 			"ShaderMapHash": "B410C8A16FB99DFBA6AB299211A56CE7B3598C12",
 			"Assets": [
 				"/Game/OurStuff/materials/button/MAT_button",
-				"/Game/OurStuff/materials/firefly/MAT_firefly",
 				"/Game/OurStuff/materials/hammer/MAT_hammer",
 				"/Game/OurStuff/materials/isopod_2/MAT_isopodI",
-				"/Game/OurStuff/materials/Isopod__1/MAT_isopodT",
 				"/Game/OurStuff/materials/Leaf/MAT_leaf",
 				"/Game/OurStuff/materials/Lever/MAT_lever1",
 				"/Game/OurStuff/materials/Lever/MAT_lever2",
-				"/Game/OurStuff/materials/monoliths/MAT_monolith1",
-				"/Game/OurStuff/materials/monoliths/MAT_monolith2",
-				"/Game/OurStuff/materials/platforms/MAT_hanger",
-				"/Game/OurStuff/materials/platforms/MAT_hangerBroke",
-				"/Game/OurStuff/materials/platforms/MAT_pedeestalBroke",
-				"/Game/OurStuff/materials/platforms/MAT_pedestal",
-				"/Game/OurStuff/materials/rock/rock/MAT_rock1",
-				"/Game/OurStuff/materials/rock/spikyRock3/MAT_rock3",
-				"/Game/OurStuff/materials/rock/spikyRock4/MAT_rock7",
-				"/Game/OurStuff/materials/rock/spikyRock5/MAT_rock5",
-				"/Game/OurStuff/materials/rock/spikyRock6/MAT_rock6",
 				"/Game/OurStuff/materials/VinyCage/MAT_cage1",
 				"/Game/OurStuff/materials/VinyCage/MAT_cage2",
 				"/Game/OurStuff/materials/VinyCage/MAT_cage3",
-				"/Game/OurStuff/materials/wormEgg/MAT_egg"
+				"/Game/OurStuff/materials/wormEgg/MAT_egg",
+				"/Game/OurStuff/ModelUploads/LEAF_V2/MAT_Leaf_V2",
+				"/Game/OurStuff/ModelUploads/LEAF_V3/MAT_Leaf_V3",
+				"/Game/OurStuff/ModelUploads/Ramp/MAT_Ramp_Leaf",
+				"/Game/OurStuff/ModelUploads/Ramp/MAT_Ramp_Legs",
+				"/Game/OurStuff/ModelUploads/Ramp/Vine_Body"
 			]
 		},
 		{
@@ -907,12 +909,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D018FBDB45D3BC53D02AEAF113C16919B9DBF237",
-			"Assets": [
-				"/HoudiniEngine/houdini_templated_material"
-			]
-		},
-		{
 			"ShaderMapHash": "EAE573DE2F14FE4B6DED78A5A4B870E86DB9B180",
 			"Assets": [
 				"/Game/starterStuff/StarterContent/Materials/M_Wood_Floor_Walnut_Polished"
@@ -928,6 +924,23 @@
 			"ShaderMapHash": "410D31E19E8C379CB0C698DFFF8BF2B94039AE64",
 			"Assets": [
 				"/Game/starterStuff/StarterContent/Materials/M_Brick_Hewn_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "44D631E279F227001E3ED3E7CA9A669C4974AA5E",
+			"Assets": [
+				"/Game/OurStuff/materials/monoliths/MAT_monolith1",
+				"/Game/OurStuff/materials/monoliths/MAT_monolith2",
+				"/Game/OurStuff/materials/platforms/MAT_hanger",
+				"/Game/OurStuff/materials/platforms/MAT_hangerBroke",
+				"/Game/OurStuff/materials/platforms/MAT_pedeestalBroke",
+				"/Game/OurStuff/materials/platforms/MAT_pedestal",
+				"/Game/OurStuff/materials/rock/rock/MAT_rock1",
+				"/Game/OurStuff/materials/rock/spikyRock3/MAT_rock3",
+				"/Game/OurStuff/materials/rock/spikyRock4/MAT_rock7",
+				"/Game/OurStuff/materials/rock/spikyRock5/MAT_rock5",
+				"/Game/OurStuff/materials/rock/spikyRock6/MAT_rock6",
+				"/Game/OurStuff/ModelUploads/Terrarium/lambert1"
 			]
 		},
 		{
@@ -1018,6 +1031,12 @@
 			"ShaderMapHash": "299350F7491D8E4AD194E7E1EED2F9008AB8F897",
 			"Assets": [
 				"/Game/starterStuff/StarterContent/Particles/Materials/M_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "8F5AEEFAE31C30F36EEA66B7C4CC42EE4DE20E22",
+			"Assets": [
+				"/Game/OurStuff/ModelUploads/Terrarium/Glass"
 			]
 		},
 		{
