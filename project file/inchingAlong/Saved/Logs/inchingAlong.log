@@ -2818,3 +2818,319 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.03-10.02.22:290][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 267 ms (total: 8.36 sec)
 [2024.03.03-10.02.22:294][314]AssetCheck: New page: Asset Save: Whitebox_lvl
 [2024.03.03-10.02.22:294][314]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-10.09.57:946][707]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.Leaf_V2
+[2024.03.03-10.09.58:033][707]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-10.09.58:033][707]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-10.09.58:739][707]LogViewport: Scene viewport resized to 1065x619, mode Windowed.
+[2024.03.03-10.10.18:269][135]LogEditorTransaction: Undo Staticmesh editor: Add material slot
+[2024.03.03-10.11.14:016][350]LogContentBrowser: Attempting asset rename: lambert1 -> MAT_Leaf_V2
+[2024.03.03-10.11.14:076][350]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.11.14:177][350]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2
+[2024.03.03-10.11.14:177][350]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Leaf_V2DA66946A469AE6FC42EDAEBF4A3DB364.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.uasset'
+[2024.03.03-10.11.14:180][350]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/LEAF_V2/MAT_Leaf_V2
+[2024.03.03-10.11.14:180][350]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/MAT_Leaf_V2C192F0D748D198E88499E989D46E796E.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/LEAF_V2/MAT_Leaf_V2.uasset'
+[2024.03.03-10.11.14:196][350]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 8.48 sec)
+[2024.03.03-10.11.14:211][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.03.03-10.11.14:221][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.03.03-10.11.14:227][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.03.03-10.11.14:229][350]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-10.11.14:229][350]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.Leaf_V2
+[2024.03.03-10.11.14:229][350]LogContentValidation: Display: Validating /Script/Engine.Material /Game/OurStuff/ModelUploads/LEAF_V2/MAT_Leaf_V2.MAT_Leaf_V2
+[2024.03.03-10.11.27:612][698]LogContentBrowser: Attempting asset rename: lambert1 -> MAT_Leaf_V3
+[2024.03.03-10.11.27:668][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.11.27:743][698]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/LEAF_V3/Leaf_V3
+[2024.03.03-10.11.27:743][698]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Leaf_V38FAFE5A045346EFD1DA0FA97CDF49298.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/LEAF_V3/Leaf_V3.uasset'
+[2024.03.03-10.11.27:747][698]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/LEAF_V3/MAT_Leaf_V3
+[2024.03.03-10.11.27:747][698]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/MAT_Leaf_V3564FBD9C4CD1B258C2A66B8C1D4B5A2A.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/LEAF_V3/MAT_Leaf_V3.uasset'
+[2024.03.03-10.11.27:759][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 8.57 sec)
+[2024.03.03-10.11.27:770][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.03.03-10.11.27:779][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.03.03-10.11.27:785][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.03.03-10.11.27:789][698]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-10.11.27:789][698]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/LEAF_V3/Leaf_V3.Leaf_V3
+[2024.03.03-10.11.27:789][698]LogContentValidation: Display: Validating /Script/Engine.Material /Game/OurStuff/ModelUploads/LEAF_V3/MAT_Leaf_V3.MAT_Leaf_V3
+[2024.03.03-10.11.34:487][866]LogViewport: Scene viewport resized to 1523x549, mode Windowed.
+[2024.03.03-10.11.34:578][867]LogViewport: Scene viewport resized to 1523x574, mode Windowed.
+[2024.03.03-10.11.34:665][868]LogViewport: Scene viewport resized to 1523x592, mode Windowed.
+[2024.03.03-10.11.34:738][869]LogViewport: Scene viewport resized to 1523x611, mode Windowed.
+[2024.03.03-10.11.34:821][870]LogViewport: Scene viewport resized to 1523x613, mode Windowed.
+[2024.03.03-10.11.34:923][872]LogViewport: Scene viewport resized to 1523x620, mode Windowed.
+[2024.03.03-10.11.35:013][873]LogViewport: Scene viewport resized to 1523x640, mode Windowed.
+[2024.03.03-10.12.28:699][221]LogViewport: Scene viewport resized to 1523x634, mode Windowed.
+[2024.03.03-10.12.28:784][222]LogViewport: Scene viewport resized to 1523x605, mode Windowed.
+[2024.03.03-10.12.28:863][223]LogViewport: Scene viewport resized to 1523x599, mode Windowed.
+[2024.03.03-10.12.29:043][227]LogViewport: Scene viewport resized to 1523x598, mode Windowed.
+[2024.03.03-10.12.29:149][228]LogViewport: Scene viewport resized to 1523x580, mode Windowed.
+[2024.03.03-10.12.29:241][229]LogViewport: Scene viewport resized to 1523x551, mode Windowed.
+[2024.03.03-10.12.29:318][230]LogViewport: Scene viewport resized to 1523x530, mode Windowed.
+[2024.03.03-10.12.29:396][231]LogViewport: Scene viewport resized to 1523x524, mode Windowed.
+[2024.03.03-10.12.32:687][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.12.32:779][314]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2
+[2024.03.03-10.12.32:780][314]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Leaf_V2ED544FA44F34F24EB9B900A10C181658.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.uasset'
+[2024.03.03-10.12.32:789][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 8.67 sec)
+[2024.03.03-10.12.32:790][314]AssetCheck: New page: Asset Save: Leaf_V2
+[2024.03.03-10.12.32:790][314]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.Leaf_V2
+[2024.03.03-10.12.34:719][364]LogSlate: Window 'Leaf_V2' being destroyed
+[2024.03.03-10.12.34:763][364]LogSlate: Window 'Leaf_V2' being destroyed
+[2024.03.03-10.12.34:823][364]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-10.12.34:823][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-10.12.42:382][566]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/LEAF_V3/Leaf_V3.Leaf_V3
+[2024.03.03-10.12.42:383][566]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/LEAF_V3/Leaf_V3.Leaf_V3
+[2024.03.03-10.12.42:383][566]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurStuff/ModelUploads/LEAF_V3/Leaf_V3.Leaf_V3 as actor: StaticMeshActor /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.StaticMeshActor_2
+[2024.03.03-10.12.47:481][729]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/LEAF_V3/Leaf_V3.Leaf_V3
+[2024.03.03-10.12.47:481][729]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/LEAF_V3/Leaf_V3.Leaf_V3
+[2024.03.03-10.12.47:483][729]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurStuff/ModelUploads/LEAF_V3/Leaf_V3.Leaf_V3 as actor: StaticMeshActor /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.StaticMeshActor_6
+[2024.03.03-10.12.58:086][ 21]Cmd: TRANSACTION UNDO
+[2024.03.03-10.12.58:086][ 21]LogEditorTransaction: Undo Scale Elements
+[2024.03.03-10.12.59:146][ 45]Cmd: TRANSACTION UNDO
+[2024.03.03-10.12.59:146][ 45]LogEditorTransaction: Undo Create Actors
+[2024.03.03-10.13.41:813][265]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.Leaf_V2
+[2024.03.03-10.13.41:813][265]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.Leaf_V2
+[2024.03.03-10.13.41:814][265]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.Leaf_V2 as actor: StaticMeshActor /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.StaticMeshActor_29
+[2024.03.03-10.13.42:588][287]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.Leaf_V2
+[2024.03.03-10.13.42:588][287]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.Leaf_V2
+[2024.03.03-10.13.42:589][287]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.Leaf_V2 as actor: StaticMeshActor /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.StaticMeshActor_45
+[2024.03.03-10.13.44:937][362]Cmd: TRANSACTION UNDO
+[2024.03.03-10.13.44:937][362]LogEditorTransaction: Undo Create Actors
+[2024.03.03-10.14.56:193][235]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.03.03-10.14.56:204][235]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.03.03-10.14.56:213][235]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.03.03-10.14.56:233][236]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.03.03-10.15.09:373][659]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Leaf_V2
+[2024.03.03-10.15.09:386][659]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.03.03-10.15.12:786][762]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OurStuff/ModelUploads/LEAF_V2/BP_Leaf_V2.BP_Leaf_V2
+[2024.03.03-10.15.12:786][762]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-10.15.12:786][762]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-10.15.12:827][762]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.03.03-10.15.13:848][762]LogViewport: Scene viewport resized to 864x592, mode Windowed.
+[2024.03.03-10.15.30:900][178]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.Leaf_V2
+[2024.03.03-10.15.30:900][178]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.Leaf_V2
+[2024.03.03-10.15.30:901][178]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.Leaf_V2 as actor: StaticMeshActor /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.StaticMeshActor_91
+[2024.03.03-10.15.35:661][298]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-10.15.41:284][441]Cmd: TRANSACTION UNDO
+[2024.03.03-10.15.41:284][441]LogEditorTransaction: Undo Add Component
+[2024.03.03-10.15.44:389][513]Cmd: TRANSACTION UNDO
+[2024.03.03-10.15.44:389][513]LogEditorTransaction: Undo Rename Component Variable
+[2024.03.03-10.15.47:034][572]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.Leaf_V2
+[2024.03.03-10.15.47:034][572]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.Leaf_V2
+[2024.03.03-10.15.47:034][572]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurStuff/ModelUploads/LEAF_V2/Leaf_V2.Leaf_V2 as actor: StaticMeshActor /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.StaticMeshActor_92
+[2024.03.03-10.16.18:257][357]LogDerivedDataCache: C:/Users/thoma/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.265 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5696 files in 7214 folders with total size 223 MiB.
+[2024.03.03-10.16.41:516][934]BlueprintLog: New page: Compile BP_Leaf_V2
+[2024.03.03-10.16.41:588][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2024.03.03-10.16.42:394][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.16.42:481][952]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/LEAF_V2/BP_Leaf_V2
+[2024.03.03-10.16.42:481][952]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/BP_Leaf_V2526F30904F8F675586795A8E598DFA55.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/LEAF_V2/BP_Leaf_V2.uasset'
+[2024.03.03-10.16.42:494][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 8.77 sec)
+[2024.03.03-10.16.42:496][952]AssetCheck: New page: Asset Save: BP_Leaf_V2
+[2024.03.03-10.16.42:496][952]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurStuff/ModelUploads/LEAF_V2/BP_Leaf_V2.BP_Leaf_V2
+[2024.03.03-10.16.48:533][ 95]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OurStuff/ModelUploads/LEAF/BP_leaf.BP_leaf
+[2024.03.03-10.16.48:535][ 95]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-10.16.48:536][ 95]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-10.16.59:219][378]LogViewport: Scene viewport resized to 864x592, mode Windowed.
+[2024.03.03-10.17.23:482][979]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-10.17.23:482][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-10.18.05:998][ 72]BlueprintLog: New page: Compile BP_Leaf_V2
+[2024.03.03-10.18.06:056][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2024.03.03-10.18.07:090][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.18.07:189][ 97]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/LEAF_V2/BP_Leaf_V2
+[2024.03.03-10.18.07:189][ 97]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/BP_Leaf_V2F535DA9C487773F13044C6977DB5BBC4.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/LEAF_V2/BP_Leaf_V2.uasset'
+[2024.03.03-10.18.07:199][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 8.88 sec)
+[2024.03.03-10.18.07:201][ 97]AssetCheck: New page: Asset Save: BP_Leaf_V2
+[2024.03.03-10.18.07:202][ 97]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurStuff/ModelUploads/LEAF_V2/BP_Leaf_V2.BP_Leaf_V2
+[2024.03.03-10.18.28:268][604]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.03.03-10.18.28:297][604]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.03.03-10.18.28:308][604]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.03.03-10.18.28:335][605]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.03.03-10.18.40:585][927]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Leaf_V3
+[2024.03.03-10.18.40:597][927]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.03.03-10.18.43:935][  7]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3
+[2024.03.03-10.18.43:936][  7]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-10.18.43:936][  7]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-10.18.44:151][  7]LogViewport: Scene viewport resized to 864x592, mode Windowed.
+[2024.03.03-10.18.56:074][299]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/LEAF_V3/Leaf_V3.Leaf_V3
+[2024.03.03-10.18.56:074][299]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurStuff/ModelUploads/LEAF_V3/Leaf_V3.Leaf_V3
+[2024.03.03-10.18.56:075][299]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurStuff/ModelUploads/LEAF_V3/Leaf_V3.Leaf_V3 as actor: StaticMeshActor /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.StaticMeshActor_93
+[2024.03.03-10.18.57:509][334]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-10.19.39:502][406]BlueprintLog: New page: Compile BP_Leaf_V3
+[2024.03.03-10.19.39:574][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2024.03.03-10.19.40:230][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.19.40:324][421]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3
+[2024.03.03-10.19.40:324][421]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/BP_Leaf_V3AD885C3348D45B7BF37B84BC9C29553A.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.uasset'
+[2024.03.03-10.19.40:336][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 8.99 sec)
+[2024.03.03-10.19.40:337][421]AssetCheck: New page: Asset Save: BP_Leaf_V3
+[2024.03.03-10.19.40:337][421]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3
+[2024.03.03-10.19.59:827][886]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.19.59:827][886]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.19.59:831][886]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_0
+[2024.03.03-10.19.59:833][886]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_0
+[2024.03.03-10.20.06:101][ 28]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.20.06:101][ 28]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.20.06:104][ 28]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_1
+[2024.03.03-10.20.06:106][ 28]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_1
+[2024.03.03-10.21.43:524][524]BlueprintLog: New page: Compile BP_Leaf_V3
+[2024.03.03-10.21.43:605][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2024.03.03-10.21.44:158][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.21.44:249][535]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3
+[2024.03.03-10.21.44:249][535]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/BP_Leaf_V313906C2A41B11429717DF8A2B4728B6E.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.uasset'
+[2024.03.03-10.21.44:260][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 9.09 sec)
+[2024.03.03-10.21.44:262][535]AssetCheck: New page: Asset Save: BP_Leaf_V3
+[2024.03.03-10.21.44:262][535]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3
+[2024.03.03-10.22.14:341][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.03.03-10.22.14:448][303]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurStuff/Whitebox_lvl_Auto1
+[2024.03.03-10.22.14:448][303]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvl_Auto17755E5444104DF89A7D9F2867B9466AD.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Autosaves/Game/OurStuff/Whitebox_lvl_Auto1.umap'
+[2024.03.03-10.22.14:450][303]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Autosaves/Game/OurStuff/Whitebox_lvl_Auto1.umap is in the /Temp path, will not scan.
+[2024.03.03-10.22.14:450][303]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/OurStuff/Whitebox_lvl' took 0.133
+[2024.03.03-10.22.14:450][303]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.133
+[2024.03.03-10.22.14:451][303]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_BaseColor] ([1] browsable assets)...
+[2024.03.03-10.22.14:455][303]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_BaseColor.Leaf_Chilly_2024_lambert1_BaseColor]
+[2024.03.03-10.22.14:455][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_BaseColor]
+[2024.03.03-10.22.14:459][303]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_BaseColor_Auto1
+[2024.03.03-10.22.14:459][303]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Leaf_Chilly_2024_lambert1_BaseCo86C5B9EE47996CDD454F6A92BE0FD8F8.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Autosaves/Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_BaseColor_Auto1.uasset'
+[2024.03.03-10.22.14:460][303]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_Normal] ([1] browsable assets)...
+[2024.03.03-10.22.14:462][303]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_Normal.Leaf_Chilly_2024_lambert1_Normal]
+[2024.03.03-10.22.14:462][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_Normal]
+[2024.03.03-10.22.14:469][303]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_Normal_Auto1
+[2024.03.03-10.22.14:469][303]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Leaf_Chilly_2024_lambert1_Normal3E59B4224F4F9B0438B988AA5D3C72F2.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Autosaves/Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_Normal_Auto1.uasset'
+[2024.03.03-10.22.14:470][303]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2024.03.03-10.22.14:473][303]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic.Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic]
+[2024.03.03-10.22.14:473][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic]
+[2024.03.03-10.22.14:478][303]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic_Auto1
+[2024.03.03-10.22.14:478][303]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Leaf_Chilly_2024_lambert1_Occlus36B9DF784C9E84FD6FB5E8A7314CFC55.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Autosaves/Game/OurStuff/materials/Leaf_V2/Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic_Auto1.uasset'
+[2024.03.03-10.22.14:479][303]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_BaseColor] ([1] browsable assets)...
+[2024.03.03-10.22.14:483][303]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_BaseColor.Leaf_Chilly_2024_lambert1_BaseColor]
+[2024.03.03-10.22.14:483][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_BaseColor]
+[2024.03.03-10.22.14:489][303]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_BaseColor_Auto1
+[2024.03.03-10.22.14:489][303]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Leaf_Chilly_2024_lambert1_BaseCoA8D3137B419954B7AC27D19818F8DCC5.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Autosaves/Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_BaseColor_Auto1.uasset'
+[2024.03.03-10.22.14:490][303]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_Normal] ([1] browsable assets)...
+[2024.03.03-10.22.14:492][303]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_Normal.Leaf_Chilly_2024_lambert1_Normal]
+[2024.03.03-10.22.14:492][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_Normal]
+[2024.03.03-10.22.14:496][303]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_Normal_Auto1
+[2024.03.03-10.22.14:496][303]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Leaf_Chilly_2024_lambert1_NormalE98768BF44492D7302D17A9077A69C4E.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Autosaves/Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_Normal_Auto1.uasset'
+[2024.03.03-10.22.14:498][303]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2024.03.03-10.22.14:500][303]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic.Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic]
+[2024.03.03-10.22.14:500][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic]
+[2024.03.03-10.22.14:507][303]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic_Auto1
+[2024.03.03-10.22.14:507][303]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Leaf_Chilly_2024_lambert1_OcclusCFD7498A48593115562885A04937496F.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Autosaves/Game/OurStuff/materials/Leaf_V3/Leaf_Chilly_2024_lambert1_OcclusionRoughnessMetallic_Auto1.uasset'
+[2024.03.03-10.22.14:508][303]LogFileHelpers: Auto-saving content packages took 0.057
+[2024.03.03-10.22.21:070][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.22.21:233][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.03.03-10.22.21:349][468]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-10.22.21:349][468]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvl964E1A27434CF51379505082C4D940F9.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-10.22.21:360][468]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.181
+[2024.03.03-10.22.21:372][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 301 ms (total: 9.39 sec)
+[2024.03.03-10.22.21:376][468]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-10.22.21:376][468]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-10.22.25:898][580]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.03-10.22.48:491][141]Cmd: DUPLICATE
+[2024.03.03-10.22.48:493][141]Cmd: ACTOR DUPLICATE
+[2024.03.03-10.23.33:156][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.23.33:323][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.03.03-10.23.33:438][227]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-10.23.33:439][227]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvlB81707B744B27B270D01838ED74E14EC.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-10.23.33:449][227]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.181
+[2024.03.03-10.23.33:460][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 303 ms (total: 9.70 sec)
+[2024.03.03-10.23.33:463][227]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-10.23.33:463][227]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-10.23.39:780][378]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.23.39:780][378]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.23.39:782][378]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_3
+[2024.03.03-10.23.39:783][378]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_3
+[2024.03.03-10.23.45:821][531]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.23.45:821][531]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.23.45:824][531]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_4
+[2024.03.03-10.23.45:825][531]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_4
+[2024.03.03-10.23.59:117][869]BlueprintLog: New page: Compile BP_Leaf_V3
+[2024.03.03-10.23.59:184][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.03.03-10.23.59:791][881]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.23.59:879][881]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3
+[2024.03.03-10.23.59:880][881]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/BP_Leaf_V382C749664ABD0C300B0BCAB98579E09E.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.uasset'
+[2024.03.03-10.23.59:890][881]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 9.79 sec)
+[2024.03.03-10.23.59:892][881]AssetCheck: New page: Asset Save: BP_Leaf_V3
+[2024.03.03-10.23.59:892][881]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3
+[2024.03.03-10.25.01:751][407]Cmd: DUPLICATE
+[2024.03.03-10.25.01:751][407]Cmd: ACTOR DUPLICATE
+[2024.03.03-10.25.58:780][794]Cmd: DUPLICATE
+[2024.03.03-10.25.58:780][794]Cmd: ACTOR DUPLICATE
+[2024.03.03-10.26.11:962][110]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.03-10.26.36:939][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.26.37:127][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.03.03-10.26.37:243][706]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-10.26.37:244][706]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvlB74586484FA7B153EC3EC1AF011CED75.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-10.26.37:254][706]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.195
+[2024.03.03-10.26.37:262][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 322 ms (total: 10.1 sec)
+[2024.03.03-10.26.37:270][706]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-10.26.37:270][706]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-10.27.16:911][665]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OurStuff/ModelUploads/LEAF/BP_leaf.BP_leaf
+[2024.03.03-10.27.16:911][665]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-10.27.16:911][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-10.27.21:958][790]LogViewport: Scene viewport resized to 864x592, mode Windowed.
+[2024.03.03-10.27.31:037][ 18]LogEditorTransaction: Undo Modify Component(s)
+[2024.03.03-10.27.40:960][254]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-10.27.40:960][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-10.27.46:238][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.27.46:321][386]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3
+[2024.03.03-10.27.46:322][386]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/BP_Leaf_V3B488D1CA45D9BC8A04F0CBAF83BD4779.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.uasset'
+[2024.03.03-10.27.46:332][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 10.2 sec)
+[2024.03.03-10.27.46:335][386]AssetCheck: New page: Asset Save: BP_Leaf_V3
+[2024.03.03-10.27.46:335][386]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3
+[2024.03.03-10.27.49:754][474]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.03-10.27.49:754][474]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-10.27.49:754][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-10.28.33:534][581]BlueprintLog: New page: Compile BP_Leaf_V2
+[2024.03.03-10.28.33:598][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.03.03-10.28.34:371][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.28.34:465][598]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/LEAF_V2/BP_Leaf_V2
+[2024.03.03-10.28.34:466][598]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/BP_Leaf_V2434E7D1A4A3BB1E4F99B398DEEE7FBD9.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/LEAF_V2/BP_Leaf_V2.uasset'
+[2024.03.03-10.28.34:477][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 10.3 sec)
+[2024.03.03-10.28.34:480][598]AssetCheck: New page: Asset Save: BP_Leaf_V2
+[2024.03.03-10.28.34:480][598]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurStuff/ModelUploads/LEAF_V2/BP_Leaf_V2.BP_Leaf_V2
+[2024.03.03-10.28.35:979][635]LogSlate: Window 'BP_Leaf_V2' being destroyed
+[2024.03.03-10.28.36:004][635]LogSlate: Window 'BP_Leaf_V2' being destroyed
+[2024.03.03-10.28.36:012][635]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.03-10.28.36:012][635]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-10.28.36:012][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-10.28.46:203][977]LogViewport: Scene viewport resized to 1523x530, mode Windowed.
+[2024.03.03-10.28.46:286][978]LogViewport: Scene viewport resized to 1523x556, mode Windowed.
+[2024.03.03-10.28.46:357][979]LogViewport: Scene viewport resized to 1523x570, mode Windowed.
+[2024.03.03-10.28.46:427][980]LogViewport: Scene viewport resized to 1523x586, mode Windowed.
+[2024.03.03-10.28.46:630][986]LogViewport: Scene viewport resized to 1523x576, mode Windowed.
+[2024.03.03-10.28.46:723][987]LogViewport: Scene viewport resized to 1523x552, mode Windowed.
+[2024.03.03-10.28.46:790][988]LogViewport: Scene viewport resized to 1523x550, mode Windowed.
+[2024.03.03-10.28.46:851][989]LogViewport: Scene viewport resized to 1523x546, mode Windowed.
+[2024.03.03-10.28.46:917][990]LogViewport: Scene viewport resized to 1523x539, mode Windowed.
+[2024.03.03-10.28.46:988][991]LogViewport: Scene viewport resized to 1523x534, mode Windowed.
+[2024.03.03-10.29.10:242][734]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.29.10:244][734]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.29.10:245][734]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_7
+[2024.03.03-10.29.10:247][734]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_7
+[2024.03.03-10.29.11:980][786]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.29.11:980][786]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3_C
+[2024.03.03-10.29.11:983][786]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_8
+[2024.03.03-10.29.11:985][786]LogActorFactory: Actor Factory spawned Blueprint /Game/OurStuff/ModelUploads/LEAF_V3/BP_Leaf_V3.BP_Leaf_V3 as actor: BP_Leaf_V3_C /Game/OurStuff/Whitebox_lvl.Whitebox_lvl:PersistentLevel.BP_Leaf_V3_C_8
+[2024.03.03-10.30.33:012][309]Cmd: DUPLICATE
+[2024.03.03-10.30.33:012][309]Cmd: ACTOR DUPLICATE
+[2024.03.03-10.30.55:800][990]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.03-10.31.16:795][658]Cmd: DUPLICATE
+[2024.03.03-10.31.16:795][658]Cmd: ACTOR DUPLICATE
+[2024.03.03-10.31.47:529][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.31.47:703][683]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2024.03.03-10.31.47:827][683]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-10.31.47:828][683]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvlE2FCBB4C4B6769E977F0E69184FC2E02.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-10.31.47:844][683]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.210
+[2024.03.03-10.31.47:853][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 324 ms (total: 10.6 sec)
+[2024.03.03-10.31.47:858][683]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-10.31.47:858][683]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-10.31.51:298][798]Cmd: DUPLICATE
+[2024.03.03-10.31.51:298][798]Cmd: ACTOR DUPLICATE
+[2024.03.03-10.32.26:855][888]Cmd: DUPLICATE
+[2024.03.03-10.32.26:855][888]Cmd: ACTOR DUPLICATE
+[2024.03.03-10.33.12:169][320]Cmd: DUPLICATE
+[2024.03.03-10.33.12:169][320]Cmd: ACTOR DUPLICATE
+[2024.03.03-10.34.26:505][715]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-10.34.26:660][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.03.03-10.34.26:781][715]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-10.34.26:783][715]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvl3605C4BE4A9C1AEC71C913B318CE6F7F.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-10.34.26:792][715]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.186
+[2024.03.03-10.34.26:807][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 303 ms (total: 10.9 sec)
+[2024.03.03-10.34.26:809][715]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-10.34.26:809][715]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
