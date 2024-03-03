@@ -3894,3 +3894,61 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.03-11.18.24:042][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 295 ms (total: 18.9 sec)
 [2024.03.03-11.18.24:048][845]AssetCheck: New page: Asset Save: Whitebox_lvl
 [2024.03.03-11.18.24:048][845]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-11.20.01:529][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-11.20.01:686][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.03.03-11.20.01:802][233]LogSavePackage: Moving output files for package: /Game/OurStuff/Whitebox_lvl
+[2024.03.03-11.20.01:802][233]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/Whitebox_lvlAA656B374C08D176ECFF2EBD0479176A.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/Whitebox_lvl.umap'
+[2024.03.03-11.20.01:812][233]LogFileHelpers: Saving map 'Whitebox_lvl' took 0.182
+[2024.03.03-11.20.01:819][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 290 ms (total: 19.2 sec)
+[2024.03.03-11.20.01:825][233]AssetCheck: New page: Asset Save: Whitebox_lvl
+[2024.03.03-11.20.01:825][233]LogContentValidation: Display: Validating /Script/Engine.World /Game/OurStuff/Whitebox_lvl.Whitebox_lvl
+[2024.03.03-11.24.47:038][215]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OurStuff/ModelUploads/Isopod_1/BP_Isopod_1.BP_Isopod_1
+[2024.03.03-11.24.47:039][215]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-11.24.47:039][215]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-11.25.34:902][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.03.03-11.25.38:051][486]LogSlate: Window 'Save Content' being destroyed
+[2024.03.03-11.25.38:068][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-11.25.38:241][486]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Isopod_1/isopod_isobody
+[2024.03.03-11.25.38:241][486]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/isopod_isobody9058C05740C06AA100B6C2A9724ADF8C.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Isopod_1/isopod_isobody.uasset'
+[2024.03.03-11.25.38:268][486]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_001
+[2024.03.03-11.25.38:268][486]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/isopod_isoleg_001159CB09E4563B14C96F0FDB7AEABE625.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_001.uasset'
+[2024.03.03-11.25.38:284][486]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_002
+[2024.03.03-11.25.38:284][486]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/isopod_isoleg_002FA37CE8640FF6288A4E923AEC9843825.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_002.uasset'
+[2024.03.03-11.25.38:302][486]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_003
+[2024.03.03-11.25.38:302][486]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/isopod_isoleg_0038C810D1E45BAD53DFA10228BC43BD3E0.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_003.uasset'
+[2024.03.03-11.25.38:316][486]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_004
+[2024.03.03-11.25.38:317][486]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/isopod_isoleg_0040FF39AD746529FFA5D4693BD20F5F01F.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_004.uasset'
+[2024.03.03-11.25.38:336][486]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_005
+[2024.03.03-11.25.38:336][486]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/isopod_isoleg_005BAA38E6C475852C29BB7D9A9722178A0.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_005.uasset'
+[2024.03.03-11.25.38:353][486]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_006
+[2024.03.03-11.25.38:353][486]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/isopod_isoleg_00693103E3B45A0755F2890989DBAAF710C.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_006.uasset'
+[2024.03.03-11.25.38:372][486]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_007
+[2024.03.03-11.25.38:372][486]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/isopod_isoleg_00743896F3148433B101EE95C96601BBA0D.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_007.uasset'
+[2024.03.03-11.25.38:389][486]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_008
+[2024.03.03-11.25.38:389][486]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/isopod_isoleg_00891CA8BEC4FE21239CF440CA45D981C24.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_008.uasset'
+[2024.03.03-11.25.38:408][486]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_009
+[2024.03.03-11.25.38:408][486]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/isopod_isoleg_0090E9EF3314DBA48659918BE8BD002AFA8.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_009.uasset'
+[2024.03.03-11.25.38:427][486]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_010
+[2024.03.03-11.25.38:427][486]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/isopod_isoleg_0107D7B7B1240747CAF92CD65847E5A4F3F.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_010.uasset'
+[2024.03.03-11.25.38:443][486]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_011
+[2024.03.03-11.25.38:443][486]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/isopod_isoleg_01155B87CC74CE8A97BA442C0AEE572679F.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_011.uasset'
+[2024.03.03-11.25.38:462][486]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_012
+[2024.03.03-11.25.38:462][486]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/isopod_isoleg_0120360579847446FACC4597F8578A85347.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_012.uasset'
+[2024.03.03-11.25.38:482][486]LogSavePackage: Moving output files for package: /Game/OurStuff/ModelUploads/Isopod_1/isopod_rightFeeler
+[2024.03.03-11.25.38:482][486]LogSavePackage: Moving '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Saved/isopod_rightFeeler73943BCE4D49B41731952E85FEC21A2E.tmp' to '../../../../../../Users/thoma/Documents/GitHub/Chilly24Gaming/project file/inchingAlong/Content/OurStuff/ModelUploads/Isopod_1/isopod_rightFeeler.uasset'
+[2024.03.03-11.25.38:498][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 429 ms (total: 19.6 sec)
+[2024.03.03-11.25.38:502][486]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-11.25.38:502][486]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isobody.isopod_isobody
+[2024.03.03-11.25.38:502][486]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_001.isopod_isoleg_001
+[2024.03.03-11.25.38:502][486]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_002.isopod_isoleg_002
+[2024.03.03-11.25.38:502][486]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_003.isopod_isoleg_003
+[2024.03.03-11.25.38:502][486]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_004.isopod_isoleg_004
+[2024.03.03-11.25.38:502][486]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_005.isopod_isoleg_005
+[2024.03.03-11.25.38:502][486]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_006.isopod_isoleg_006
+[2024.03.03-11.25.38:502][486]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_007.isopod_isoleg_007
+[2024.03.03-11.25.38:502][486]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_008.isopod_isoleg_008
+[2024.03.03-11.25.38:502][486]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_009.isopod_isoleg_009
+[2024.03.03-11.25.38:502][486]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_010.isopod_isoleg_010
+[2024.03.03-11.25.38:502][486]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_011.isopod_isoleg_011
+[2024.03.03-11.25.38:502][486]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_isoleg_012.isopod_isoleg_012
+[2024.03.03-11.25.38:502][486]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/OurStuff/ModelUploads/Isopod_1/isopod_rightFeeler.isopod_rightFeeler
